@@ -1,0 +1,47 @@
+# Review invite email
+
+From: "David.Fitzpatrick@mpfi.org" <David.Fitzpatrick@mpfi.org>
+Date: Monday, March 11, 2013 4:26 PM
+To: Michael Crair <michael.crair@yale.edu>
+Cc: "nachum.ulanovsky@weizmann.ac.il Ulanovsky" <nachum.ulanovsky@weizmann.ac.il>, "April (ELS-AMS) Nishimura" <A.Nishimura@elsevier.com>
+Subject: Current Opinion Review
+
+Dear Michael,
+Nachum Ulanovsky and I have been asked to put together a special issue on “Neural Maps” for Current Opinion in Neurobiology. 
+We would like to invite you to submit a review article on the general topic of “Activity dependent development of maps in the visual system”. You are welcome to refine this topic so that it best highlights some of the more recent new and exciting findings that have been reported by you and others. You are also welcome to include co-authors if it is helpful.
+Your contribution would consist of a short review of approximately 2000 words. Your review will focus on ideally around 50 interesting and relevant articles published recently in the field. We would like you to annotate these in the bibliography of your review - one of the key features of the journal.
+The due date for the paper submission is 1 June 2013.
+We look forward to hearing from you soon and hope very much that you will contribute to this issue.
+April Nishimura with the journal will follow up with more details and help with coordinating the submission and publication.
+Yours sincerely,
+David Fitzpatrick and Nachum Ulanovsky
+David Fitzpatrick PhD
+Scientific Director and CEO
+Max Planck Florida Institute for Neuroscience
+On Max Planck Way
+Jupiter Florida 33458
+561-972-9102
+
+
+------------------------------------------------------------------------------------------
+
+# Info on example reviews
+
+Huang, Z. J. and Scheiffele, P. (2008).  GABA and neuroligin signaling: linking synaptic activity and adhesion in inhibitory synapse development, Curr Opin Neurobiol, 18(1), 77--83
+	**3077 words, 2 figures** (2 schematics)
+
+Feller, M. B. and Scanziani, M. (2005).  A precritical period for plasticity in visual cortex, Curr Opin Neurobiol, 15(1), 94--100
+	**3900 words, 1 table**
+
+
+Huberman, A. D. (2007).  Mechanisms of eye-specific visual circuit development, Curr Opin Neurobiol, 17(1), 73-80
+	**3600 words, 3 figures** (2 schematics, 1 primary data)
+
+Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
+	**3200 words, 2 figures** (schematics, including nice visual field/ephrin, ABCcba visual circuit diagram)
+
+Morishita, H. and Hensch, T. K. (2008).  Critical period revisited: impact on vision, Curr Opin Neurobiol, 18(1), 101--107
+	**3600 words, 3 figures, 1 table** (all schematic figures, 1 nice 'meta' analysis review table)
+
+Cossart, R. (2011).  The maturation of cortical interneuron diversity: how multiple developmental journeys shape the emergence of proper network function, Curr Opin Neurobiol, 21(1), 160-8
+	**3500 words, 2 figures** (mixed schematics/primary data)

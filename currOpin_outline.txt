@@ -1,0 +1,127 @@
+Title: Current Opinion in Neurobiology review outline  
+Date: 2013-05-20 12:10:18  
+
+# Activity dependent development of maps in the visual system #
+
+
+## Activity type
+
+* Sensory
+	* species
+		* mammals
+		* non-mammalian vertebrates
+		* invertebrates 
+	* <del>**ignore this Sensory literature for now-**- too much literature for a  2000 word review limit?</del>
+		* just do very brief overview in intro with statement that here we focus on intrinsic activity patterns in visual system and refer to other recent reviews?
+	* When?
+		* Before eye opening and experienced visual patterns
+			* Melanopsin
+		* After eye opening
+			* Hubel and Wiesel
+* Spontaneous
+	* What?
+		* species
+			* mammals
+				* can occur before vision-- long gestational timecourse
+			* non-mammalian vertebrates
+				* does not occur before vision-- short gestation
+		* described patterns in vitro
+			* retinal waves
+				* neonate - late postnatal
+					* TODO: shatz, Wong, Feller work
+					* TODO: J. Zhou work
+		* described patterns in vivo
+			* early development - before eye opening
+				* rat
+					* TODO: Konnerth fiber optic calcium imaging
+				* mouse
+			* before eye opening
+				* ferret
+					* TODO: Weliky literature in LGN and cortex
+			* <del>after eye opening</del>
+				* **much literature in adult**
+					* monkey, cat, ferret, rodent, etc
+				* patterned activity
+					* TODO: Recent Konnerth peri-eye opening calcium imaging paper
+					* intrinsic signal imaging
+						* Stryker work
+						* A. Grinvald work
+					* multicell recordings
+					* any mutlichannel recordings in newborn monkey (hubel wiesel just did single electrodes?)
+		
+			* rodent
+			* ferret
+			* retinal waves
+				* neonate
+					* TODO: our paper
+		 			* TODO: Lohmann Curr biolol paper
+			* 'spindle' bursts
+				* neonate - late postnatal
+					* 
+			* <del>fast traveling waves</del>
+				* adult
+	* Where?
+		* retina
+			* TODO: our paper
+		* LGN
+			* TODO: Shatz ex vivo paper
+			* TODO: our paper
+		* superior colliculus
+			* TODO: our paper
+		* visual cortex
+			* TODO: our paper
+			* TODO: Lohmann Curr biolol paper
+	* When?
+		* Before eye opening and experienced visual patterns
+			* Before birth for some species
+			* After birth for some species
+		* After eye opening
+			* experiential pattern replay/dreams
+				* analogs to hippocampal - place cell replays for learning and memory?
+	* Why?
+		* activity dependent visual map development
+			* anatomical - structural
+				* axon sprouting
+					* xenopus, zebrafish literature?
+					* LGN and SC
+						* rodent
+							* mouse
+								* TODO: beta2 nAchR ko mouse
+								* TODO: N. Spitzer reference on activity-dep Ca2+ growth
+				* axon refinement
+					* xenopus, zebrafish literature?
+					* LGN and SC
+						* rodent
+							* mouse
+								* TODO: beta2 nAchR ko mouse
+				* dendrite growth?
+					* cortical-tectal recepient cells in SC, 
+						* TODO: recent constantine-paton paper
+					* Golgi or DiI analysis in ferret, cat, monkey, or rodent cortex?
+					* Golgi or DiI analysis in LGN or SC?
+				* dendritic refinement
+					* spine dynamics?
+						* TODO: xenopus literature?, H. Cline
+				* cell migration
+					* rodent
+						* cortex
+							* interneurons
+								* TODO: recent Fishell paper
+								* TODO: recent ZJ Huang papers
+								* TODO: Ben-Ari, JB Manent activity dependent interneuron migration in vitro model
+					* higher mammals
+						* cortex
+							* TODO: Chalupa monkey retinal wave evidence and ferret in vitro
+							* unknown but gestational times for both excitatory and inhibitory cell migration overlaps significantly with likely period for retinal waves
+			* functional - physiological 
+				* microcircuit
+					* direction selectivity
+						* TODO: Recent Konnerth peri-eye opening calcium imaging paper
+						* TODO: Recent Fitzpatrick work (the reprogramming of selectivity)
+					* orientation selectivity
+						* TODO: Crair, Stryker
+						* TODO: Recent Fitzpatrick work
+						* TODO: ongoing J. Cang unpublished work? (look at abstr from SFN, our CSHL conf last year)
+				* macrocircuit
+					* TODO: A. Huberman ferret epibatidine work on ODCs
+					* 
