@@ -26,40 +26,42 @@ Date: 2013-05-20 12:10:18
 			* non-mammalian vertebrates
 				* does not occur before vision-- short gestation
 		* described patterns in vitro
-			* retinal waves
-				* neonate - late postnatal
+			* early development - before eye opening
+				* retinal waves
 					* TODO: shatz, Wong, Feller work
 					* TODO: J. Zhou work
+					
 		* described patterns in vivo
 			* early development - before eye opening
 				* rat
-					* TODO: Konnerth fiber optic calcium imaging
+					* early network oscillations (ENOs) 
+						* TODO: Konnerth fiber optic calcium imaging
+					* 'spindle bursts'
+						* TODO: Hanganu, Khazipov work
 				* mouse
-			* before eye opening
+					* retinal waves
+						* TODO: our paper
+			 			* TODO: Lohmann Curr biol paper
+
+			* before eye opening - eye opening
 				* ferret
 					* TODO: Weliky literature in LGN and cortex
+				* rat
+					* 'spindle' bursts
+						* TODO: Hanganu, Khazipov work
+						* TODO: Colonnese, Khazipov work
 			* <del>after eye opening</del>
 				* **much literature in adult**
 					* monkey, cat, ferret, rodent, etc
 				* patterned activity
-					* TODO: Recent Konnerth peri-eye opening calcium imaging paper
+					* TODO: Recent Konnerth peri-eye opening calcium imaging paper with direction sel
 					* intrinsic signal imaging
 						* Stryker work
 						* A. Grinvald work
 					* multicell recordings
 					* any mutlichannel recordings in newborn monkey (hubel wiesel just did single electrodes?)
-		
-			* rodent
-			* ferret
-			* retinal waves
-				* neonate
-					* TODO: our paper
-		 			* TODO: Lohmann Curr biolol paper
-			* 'spindle' bursts
-				* neonate - late postnatal
-					* 
-			* <del>fast traveling waves</del>
-				* adult
+					* <del>fast traveling waves</del>
+						* adult
 	* Where?
 		* retina
 			* TODO: our paper
@@ -70,7 +72,9 @@ Date: 2013-05-20 12:10:18
 			* TODO: our paper
 		* visual cortex
 			* TODO: our paper
-			* TODO: Lohmann Curr biolol paper
+			* TODO: Lohmann Curr biol paper
+			* TODO: Hanganu, Khazipov work
+			* TODO: Colonnese, Khazipov work
 	* When?
 		* Before eye opening and experienced visual patterns
 			* Before birth for some species
@@ -115,6 +119,8 @@ Date: 2013-05-20 12:10:18
 							* unknown but gestational times for both excitatory and inhibitory cell migration overlaps significantly with likely period for retinal waves
 			* functional - physiological 
 				* microcircuit
+					* synapse maturation
+						* TODO: Shah, Crair
 					* direction selectivity
 						* TODO: Recent Konnerth peri-eye opening calcium imaging paper
 						* TODO: Recent Fitzpatrick work (the reprogramming of selectivity)
@@ -124,4 +130,7 @@ Date: 2013-05-20 12:10:18
 						* TODO: ongoing J. Cang unpublished work? (look at abstr from SFN, our CSHL conf last year)
 				* macrocircuit
 					* TODO: A. Huberman ferret epibatidine work on ODCs
-					* 
+					* TODO: Crair, Stryker
+					* TODO: Mrsic-Flogel V1, SC
+					* TODO: J. Cang Stryker, V1
+					* TODO: Chandrasekaran, Crair SC unit recordings
