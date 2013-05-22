@@ -40,8 +40,8 @@ Date: 2013-05-20 12:10:18
 						* TODO: Hanganu, Khazipov work
 				* mouse
 					* retinal waves
-						* TODO: our paper
-			 			* TODO: Lohmann Curr biol paper
+						* TODO: [#Ackman:2012]
+			 			* TODO: [#Siegel:2012]
 
 			* before eye opening - eye opening
 				* ferret
@@ -72,7 +72,7 @@ Date: 2013-05-20 12:10:18
 			* TODO: our paper
 		* visual cortex
 			* TODO: our paper
-			* TODO: Lohmann Curr biol paper
+			* TODO: [#Siegel:2012]
 			* TODO: Hanganu, Khazipov work
 			* TODO: Colonnese, Khazipov work
 	* When?
@@ -134,3 +134,26 @@ Date: 2013-05-20 12:10:18
 					* TODO: Mrsic-Flogel V1, SC
 					* TODO: J. Cang Stryker, V1
 					* TODO: Chandrasekaran, Crair SC unit recordings
+
+
+Triplett:2009
+x-bdsk://Triplett:2009
+
+
+Subplate references
+
+Visual cortex figure, pathway schematic, and retinal influence
+
+
+[#Siegel:2012]: Siegel, F., Heimel, J. A., Peters, J., and Lohmann, C. (2012).  Peripheral and central inputs shape network dynamics in the developing visual cortex in vivo, Curr Biol, 22(3), 253-8
+
+[#Ackman:2012]: Ackman, J. B., Burbridge, T. J., and Crair, M. C. (2012).  Retinal waves coordinate patterned activity throughout the developing visual system, Nature, 490(7419), 219-25
+
+[#Xu:2011]: Xu, H.-p., Furman, M., Mineur, Y. S., Chen, H., King, S. L., Zenisek, D., Zhou, Z. J., Butts, D. A., Tian, N., Picciotto, M. R., and Crair, M. C. (2011).  An instructive role for patterned spontaneous retinal activity in mouse visual map development, Neuron, 70(6), 1115-27
+
+[#Zhang:2011]: Zhang, J., Ackman, J. B., Xu, H.-P., and Crair, M. C. (2011).  Visual map development depends on the temporal pattern of binocular activity in mice, Nat Neurosci, 15(2), 298-307
+
+[#Dhande:2011]: Dhande, O. S., Hua, E. W., Guh, E., Yeh, J., Bhatt, S., Zhang, Y., Ruthazer, E. S., Feller, M. B., and Crair, M. C. (2011).  Development of Single Retinofugal Axon Arbors in Normal and beta2 Knock-Out Mice, J Neurosci, 31(9), 3384-99
+
+[#Phillips:2011]: Phillips, M. A., Colonnese, M. T., Goldberg, J., Lewis, L. D., Brown, E. N., and Constantine-Paton, M. (2011).  A synaptic strategy for consolidation of convergent visuotopic maps, Neuron, 71(4), 710-24
+
