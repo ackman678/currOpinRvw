@@ -113,7 +113,7 @@ Date: 2013-05-20 12:10:18
 								* beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement, eye specific segregation [#Xu:2011]
 								* RGC refinement and deficits in beta2 nAchR ko occurs at the level of single RGCs [#Dhande:2011]
 					* cortex
-						* cortico-collicular neurons [#Phillips:2011]. 
+						* cortico-collicular axon arborizations [#Phillips:2011]. 
 							* Nice DiI reconstructions of cortico-collicular axons in rat
 				* dendrite growth?
 					* cortico-collicular recepient cells in SC, 
@@ -138,23 +138,27 @@ Date: 2013-05-20 12:10:18
 							* TODO: Chalupa monkey retinal wave evidence and ferret in vitro
 							* unknown but gestational times for both excitatory and inhibitory cell migration overlaps significantly with likely period for retinal waves
 			* functional - physiological 
-				* microcircuit
-					* synapse maturation
-						* TODO: Shah, Crair
-					* direction selectivity
-						* TODO: Recent Konnerth peri-eye opening calcium imaging paper
-						* TODO: Recent Fitzpatrick work (the reprogramming of selectivity)
-					* orientation selectivity
-						* TODO: Crair, Stryker
-						* TODO: Recent Fitzpatrick work
-						* TODO: ongoing J. Cang unpublished work? (look at abstr from SFN, our CSHL conf last year)
-				* macrocircuit
-					* TODO: A. Huberman ferret epibatidine work on ODCs
-					* TODO: Crair, Stryker
+				* synapse maturation
+					* retinocollicular synapse
+						* Increased AMPA/NMDA ratios and AMPA quantal amplitudes during first postnatal week [#Shah:2008]
+						* burst activation in vitro capable of inducing LTP [#Shah:2008]
+						* delayed maturation and greater LTP at beta2-/- nAchR ko synapses [#Shah:2008]
+				* retinotopy
 					* TODO: Mrsic-Flogel V1, SC
 					* TODO: J. Cang Stryker, V1
-					* TODO: Chandrasekaran, Crair SC unit recordings
+					* Chandrasekaran, Crair SC receptive field unit recordings [#Chandrasekaran:2005]
 					* cortico-collicular alignment of retinotopy [#Triplett:2009]
+				* eye specific segregation
+				* ocular dominance columns
+					* development of ODCs in ferret [#Huberman:2006]
+					* TODO: Crair, Stryker
+				* orientation selectivity
+					* TODO: Crair, Stryker
+					* TODO: Recent Fitzpatrick work
+					* TODO: ongoing J. Cang unpublished work? (look at abstr from SFN, our CSHL conf last year)
+				* direction selectivity
+					* TODO: Recent Konnerth peri-eye opening calcium imaging paper
+					* TODO: Recent Fitzpatrick work (the reprogramming of selectivity)
 		* How?
 			- Permissive
 				* Spatiotemporal pattern does not matter
@@ -169,38 +173,38 @@ Date: 2013-05-20 12:10:18
 									* Synchronous activation of RGCs in both eyes with ChR2 disrupts eye-specific segregation in SC and LGN [#Zhang:2011]
 									* Relevant window for spike timing differences of RGCs in both eyes within 100s of milliseconds [#Zhang:2011]
 										* chR2 stimulation of RGCs, anatomical segregation analysis in SC 
-							* Mechanism
-								* coincident pre-post synaptic activity - Hebbian plasticity
-									* Dependent on NMDA-R?
-										* maybe yes?
-											* TODO:
-											* HP Xu recent work?
-										* maybe not?
-											* LTD independent of NMDA-R activation in mouse [#Ziburkus:2009]
-												* in vitro explant with extracellar field potentials and high freq stim to mimic retinal waves
-												* bidirectional maturation
-													* finds LTD early between birth and eye opening
-													* finds LTP after eye opening through critical period
-													* cites [#Butts:2007] for bidirectional synaptic strength changes in single LGN cells											
-											* L-type calcium channel plateau potentials at developing LGN neurons [#Lo:2002]
-											* retinogeniculate PSC bursting is independent of NMDAR activation (NMDAR1 ko mice, ex vivo, extracellular)[#Mooney:1996]
-											* HP Xu recent work?
-									* Independent of NMDA-R?
-										* endocannabinoid induced LTD?
-											* but one type of this activation still requires NMDA activation?
-												* this type of coincidence detection reviewed elsewhere [#Duguid:2006]
-										* mGluR-VSCC-IP3R-eCB coincidence detector [#Bender:2006]
-											* this form of LTD independent of postsynaptic NMDA receptors
-											* detects firing coincidence at 125 ms time scale (*versus 25 ms time scale for NMDA dependent LTP*)
-											* described at L4 to L2/3 synapses in somatosensory cortex
-										* bistable switch in spike statistics for postsynaptic neurons? 
-											* critical level of coincident presynaptic activity needed to cause spike?
-												* during early development?
-													* biophysical membrane and cable properties different in immature neurons
-														* more voltage gated calcium conductance
-														* less sodium channels
-													* lower fidelity spike transmission initially?
-								* Alternate/	non-Hebb timing based plasticity rule?
+						* Mechanism
+							* Coincident pre-post synaptic activity - Hebbian plasticity
+								* Dependent on NMDA-R?
+									* maybe yes?
+										* TODO:
+										* HP Xu recent work?
+									* maybe not?
+										* LTD independent of NMDA-R activation in mouse [#Ziburkus:2009]
+											* in vitro explant with extracellar field potentials and high freq stim to mimic retinal waves
+											* bidirectional maturation
+												* finds LTD early between birth and eye opening
+												* finds LTP after eye opening through critical period
+												* cites [#Butts:2007] for bidirectional synaptic strength changes in single LGN cells											
+										* L-type calcium channel plateau potentials at developing LGN neurons [#Lo:2002]
+										* retinogeniculate PSC bursting is independent of NMDAR activation (NMDAR1 ko mice, ex vivo, extracellular)[#Mooney:1996]
+										* HP Xu recent work?
+								* Independent of NMDA-R?
+									* endocannabinoid induced LTD?
+										* but one type of this activation still requires NMDA activation?
+											* this type of coincidence detection reviewed elsewhere [#Duguid:2006]
+									* mGluR-VSCC-IP3R-eCB coincidence detector [#Bender:2006]
+										* this form of LTD independent of postsynaptic NMDA receptors
+										* detects firing coincidence at 125 ms time scale (*versus 25 ms time scale for NMDA dependent LTP*)
+										* described at L4 to L2/3 synapses in somatosensory cortex
+									* bistable switch in spike statistics for postsynaptic neurons? 
+										* critical level of coincident presynaptic activity needed to cause spike?
+											* during early development?
+												* biophysical membrane and cable properties different in immature neurons
+													* more voltage gated calcium conductance
+													* less sodium channels
+												* lower fidelity spike transmission initially?
+							* Alternate -	non-Hebb timing based plasticity rule?
 					* Spatial activity pattern
 						* Unknown
 							* experiment needed: to control spatio-temporal activity patterns before start of vision
@@ -242,13 +246,47 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Bender:2006]: Bender, V. A., Bender, K. J., Brasier, D. J., and Feldman, D. E. (2006).  Two coincidence detectors for spike timing-dependent plasticity in somatosensory cortex, J Neurosci, 26(16), 4166-77
 
-
+[#Shah:2008]: Shah, R. D. and Crair, M. C. (2008).  Retinocollicular synapse maturation and plasticity are regulated by correlated retinal waves, J Neurosci, 28(1), 292-303
 
 [#Huberman:2006]: Huberman, A. D., Speer, C. M., and Chapman, B. (2006).  Spontaneous retinal activity mediates development of ocular dominance columns and binocular receptive fields in v1, Neuron, 52(2), 247-254
 
-[#Werth:2006]: Werth, R. (2006).  Visual functions without the occipital lobe or after cerebral hemispherectomy in infancy, Eur J Neurosci, 24(10), 2932-44
+[#Chandrasekaran:2005]: Chandrasekaran, A. R., Plas, D. T., Gonzalez, E., and Crair, M. C. (2005).  Evidence for an instructive role of retinal activity in retinotopic map refinement in the superior colliculus of the mouse, J Neurosci, 25(29), 6929-38
 
-[#Huberman:2007]: Huberman, A. D. (2007).  Mechanisms of eye-specific visual circuit development, Curr Opin Neurobiol, 17(1), 73-80
 
-[#Shah:2008]: Shah, R. D. and Crair, M. C. (2008).  Retinocollicular synapse maturation and plasticity are regulated by correlated retinal waves, J Neurosci, 28(1), 292-303
+
+[#Weliky:1999]: Weliky, M. and Katz, L. C. (1999).  Correlational structure of spontaneous neuronal activity in the developing lateral geniculate nucleus in vivo, Science, 285(5427), 599-604
+
+[#Chiu:2002]: Chiu, C. and Weliky, M. (2002).  Relationship of correlated spontaneous activity to functional ocular dominance columns in the developing visual cortex, Neuron, 35(6), 1123--1134
+
+[#Mrsic-Flogel:2005]: Mrsic-Flogel, T. D., Hofer, S. B., Creutzfeldt, C., Cloez-Tayarani, I., Changeux, J.-P., Bonhoeffer, T., and Hubener, M. (2005).  Altered map of visual space in the superior colliculus of mice lacking early retinal waves, J Neurosci, 25(29), 6921--6928
+
+[#Cang:2005]: Cang, J., Rentería, R. C., Kaneko, M., Liu, X., Copenhagen, D. R., and Stryker, M. P. (2005).  Development of precise maps in visual cortex requires patterned spontaneous activity in the retina, Neuron, 48(5), 797-809
+
+[#Zheng:2006a]: Zheng, J., Lee, S., and Zhou, Z. J. (2006).  A transient network of intrinsically bursting starburst cells underlies the generation of retinal waves, Nat Neurosci, 9(3), 363-71
+
+[#Warland:2006]: Warland, D. K., Huberman, A. D., and Chalupa, L. M. (2006).  Dynamics of spontaneous activity in the fetal macaque retina during development of retinogeniculate pathways, J Neurosci, 26(19), 5190-7
+
+[#Chandrasekaran:2009]: Chandrasekaran, A. R., Furuta, Y., and Crair, M. C. (2009).  Consequences of axon guidance defects on the development of retinotopic receptive fields in the mouse colliculus, J Physiol, 587(Pt 5), 953--963
+
+[#Leamey:2009]: Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
+
+[#Stafford:2009]: Stafford, B. K., Sher, A., Litke, A. M., and Feldheim, D. A. (2009).  Spatial-temporal patterns of retinal waves underlying activity-dependent refinement of retinofugal projections, Neuron, 64(2), 200-12
+
+[#Blankenship:2010]: Blankenship, A. G. and Feller, M. B. (2010).  Mechanisms underlying spontaneous patterned activity in developing neural circuits, Nat Rev Neurosci, 11(1), 18-29
+
+[#Colonnese:2010a]: Colonnese, M. T., Kaminska, A., Minlebaev, M., Milh, M., Bloem, B., Lescure, S., Moriette, G., Chiron, C., Ben-Ari, Y., and Khazipov, R. (2010).  A conserved switch in sensory processing prepares developing neocortex for vision, Neuron, 67(3), 480-98
+
+[#Colonnese:2010]: Colonnese, M. T. and Khazipov, R. (2010).  "Slow activity transients" in infant rat visual cortex: a spreading synchronous oscillation patterned by retinal waves, J Neurosci, 30(12), 4325-37
+
+[#Ruthazer:2010a]: Ruthazer, E. S., Bachleda, A. R., and Olavarria, J. F. (2010).  Role of interstitial branching in the development of visual corticocortical connections: a time-lapse and fixed-tissue analysis, J Comp Neurol, 518(24), 4963-79
+
+[#Rochefort:2011]: Rochefort, N. L., Narushima, M., Grienberger, C., Marandi, N., Hill, D. N., and Konnerth, A. (2011).  Development of direction selectivity in mouse cortical neurons, Neuron, 71(3), 425-32
+
+[#Bock:2012]: Bock, A. S., Kroenke, C. D., Taber, E. N., and Olavarria, J. F. (2012).  Retinal input influences the size and corticocortical connectivity of visual cortex during postnatal development in the ferret, J Comp Neurol, 520(5), 914-32
+
+
+
+
+
+
 
