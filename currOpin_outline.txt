@@ -25,30 +25,32 @@ Date: 2013-05-20 12:10:18
 				* can occur before vision-- long gestational timecourse
 			* non-mammalian vertebrates
 				* does not occur before vision-- short gestation
-		* described patterns in vitro
+		* patterns described in vitro
 			* early development - before eye opening
 				* retinal waves
 					* TODO: shatz, Wong, Feller work
 					* TODO: J. Zhou work
-					
-		* described patterns in vivo
+				* TODO: Subplate references, former shatz postdoc at Univ Maryland
+		* patterns described in vivo
 			* early development - before eye opening
 				* rat
 					* early network oscillations (ENOs) 
 						* TODO: Konnerth fiber optic calcium imaging
 					* 'spindle bursts'
-						* TODO: Hanganu, Khazipov work
+					* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
 				* mouse
 					* retinal waves
-						* TODO: [#Ackman:2012]
-			 			* TODO: [#Siegel:2012]
+						* primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
+			 			* (Siegel,Lohmann Curr Biol 2012) [#Siegel:2012]
+				 			* possibly recorded retinal waves? 
+				 			* more likely 'spindle bursts' 
+				 			* which might be same as the independent spontaneous V2 activity we saw [#Ackman:2012]
 
-			* before eye opening - eye opening
+			* around eye opening
 				* ferret
 					* TODO: Weliky literature in LGN and cortex
 				* rat
 					* 'spindle' bursts
-						* TODO: Hanganu, Khazipov work
 						* TODO: Colonnese, Khazipov work
 			* <del>after eye opening</del>
 				* **much literature in adult**
@@ -64,25 +66,36 @@ Date: 2013-05-20 12:10:18
 						* adult
 	* Where?
 		* retina
-			* TODO: our paper
+			* Retinal waves propagate among RGCs [#Ackman:2012]
 		* LGN
-			* TODO: Shatz ex vivo paper
-			* TODO: our paper
+			* Mouse
+				* Spontaneous bursting among dLGN neurons sensitive to retinal input [#Mooney:1996]
+				* Inferred by matched retinal driven patterns in V1 and SC [#Ackman:2012]
+			* Ferret
+				* TODO: Weliky literature in LGN
 		* superior colliculus
-			* TODO: our paper
+			* Retinal waves drive collicular neurons [#Ackman:2012]
 		* visual cortex
-			* TODO: our paper
-			* TODO: [#Siegel:2012]
-			* TODO: Hanganu, Khazipov work
+			* Retinal waves propagate to cortical neurons [#Ackman:2012]
+			* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
+			* Retinal input can drive spiking multiple unit activity in cortical neurons [#Hanganu:2006]
 			* TODO: Colonnese, Khazipov work
+			* TODO: Weliky literature in cortex
 	* When?
 		* Before eye opening and experienced visual patterns
 			* Before birth for some species
+				* Monkey, human, cat
 			* After birth for some species
+				* rodent, ferret, cat
 		* After eye opening
 			* experiential pattern replay/dreams
-				* analogs to hippocampal - place cell replays for learning and memory?
+				* analogs to hippocampal - place cell replays (Wilson work) for learning and memory?
+				* Y. Dan visual pattern replay paper
 	* Why?
+		* activity dependent circuit establishment and refinement-- lessons from other systems
+			* *short blurb on other systems*
+			* chick neuromuscular junction (lichtmann sanes)
+			* spontaneous motor circuit activity V. Hamburger & (Petterssen Nature paper)
 		* activity dependent visual map development
 			* anatomical - structural
 				* axon sprouting
@@ -97,11 +110,15 @@ Date: 2013-05-20 12:10:18
 					* LGN and SC
 						* rodent
 							* mouse
-								* TODO: beta2 nAchR ko mouse
+								* beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement, eye specific segregation [#Xu:2011]
+								* RGC refinement and deficits in beta2 nAchR ko occurs at the level of single RGCs [#Dhande:2011]
+					* cortex
+						* cortico-collicular neurons [#Phillips:2011]
 				* dendrite growth?
 					* cortical-tectal recepient cells in SC, 
-						* TODO: recent constantine-paton paper
+						* Recent constantine-paton paper [#Phillips:2011]
 					* Golgi or DiI analysis in ferret, cat, monkey, or rodent cortex?
+						* Ruthazer and Olavarria paper
 					* Golgi or DiI analysis in LGN or SC?
 				* dendritic refinement
 					* spine dynamics?
@@ -137,12 +154,12 @@ Date: 2013-05-20 12:10:18
 
 
 Triplett:2009
-x-bdsk://Triplett:2009
 
 
-Subplate references
 
-Visual cortex figure, pathway schematic, and retinal influence
+
+
+Figure: Visual cortex primary and secondary areas, pathway schematic, and retinal influence (incl Olavarria work?)
 
 
 [#Siegel:2012]: Siegel, F., Heimel, J. A., Peters, J., and Lohmann, C. (2012).  Peripheral and central inputs shape network dynamics in the developing visual cortex in vivo, Curr Biol, 22(3), 253-8
@@ -156,4 +173,8 @@ Visual cortex figure, pathway schematic, and retinal influence
 [#Dhande:2011]: Dhande, O. S., Hua, E. W., Guh, E., Yeh, J., Bhatt, S., Zhang, Y., Ruthazer, E. S., Feller, M. B., and Crair, M. C. (2011).  Development of Single Retinofugal Axon Arbors in Normal and beta2 Knock-Out Mice, J Neurosci, 31(9), 3384-99
 
 [#Phillips:2011]: Phillips, M. A., Colonnese, M. T., Goldberg, J., Lewis, L. D., Brown, E. N., and Constantine-Paton, M. (2011).  A synaptic strategy for consolidation of convergent visuotopic maps, Neuron, 71(4), 710-24
+
+[#Mooney:1996]: Mooney, R., Penn, A. A., Gallego, R., and Shatz, C. J. (1996).  Thalamic relay of spontaneous retinal activity prior to vision, Neuron, 17(5), 863-874
+
+[#Hanganu:2006]: Hanganu, I. L., Ben-Ari, Y., and Khazipov, R. (2006).  Retinal waves trigger spindle bursts in the neonatal rat visual cortex, J Neurosci, 26(25), 6728-36
 
