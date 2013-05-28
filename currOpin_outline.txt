@@ -159,28 +159,40 @@ Date: 2013-05-20 12:10:18
 			- Permissive
 				* Spatiotemporal pattern does not matter
 					* Perhaps just absolute levels of activity needed?
+					* homeostasis, celluar growth and survival?
 			- Informative
 				* Spatiotemporal pattern does matter
 					* Temporal activity pattern
 						* Time scale
 							* eye-specific segregation
 								* before eye opening
-									* synchronous activation of RGCs with ChR2 disrupts eye-specific segregation in SC and LGN [#Zhang:2011]
-									* Relevant time scale -- spike timing differences of 100s of milliseconds 
-										* chR2 stimulation of RGCs, anatomical segregation analysis in SC [#Zhang:2011]
+									* Synchronous activation of RGCs in both eyes with ChR2 disrupts eye-specific segregation in SC and LGN [#Zhang:2011]
+									* Relevant window for spike timing differences of RGCs in both eyes within 100s of milliseconds [#Zhang:2011]
+										* chR2 stimulation of RGCs, anatomical segregation analysis in SC 
 							* Mechanism
-								* coincident pre-post synaptic spiking activity - Hebbian
+								* coincident pre-post synaptic activity - Hebbian plasticity
 									* Dependent on NMDA-R?
 										* maybe yes?
 											* TODO:
 											* HP Xu recent work?
 										* maybe not?
-											* Guido LGN work
+											* LTD independent of NMDA-R activation in mouse [#Ziburkus:2009]
+												* in vitro explant with extracellar field potentials and high freq stim to mimic retinal waves
+												* bidirectional maturation
+													* finds LTD early between birth and eye opening
+													* finds LTP after eye opening through critical period
+													* cites [#Butts:2007] for bidirectional synaptic strength changes in single LGN cells											
+											* L-type calcium channel plateau potentials at developing LGN neurons [#Lo:2002]
+											* retinogeniculate PSC bursting is independent of NMDAR activation (NMDAR1 ko mice, ex vivo, extracellular)[#Mooney:1996]
 											* HP Xu recent work?
 									* Independent of NMDA-R?
-										* endocannabidnoid induced LTD?
-											* but this type of activation still requires NMDA activiation?
+										* endocannabinoid induced LTD?
+											* but one type of this activation still requires NMDA activation?
 												* this type of coincidence detection reviewed elsewhere [#Duguid:2006]
+										* mGluR-VSCC-IP3R-eCB coincidence detector [#Bender:2006]
+											* this form of LTD independent of postsynaptic NMDA receptors
+											* detects firing coincidence at 125 ms time scale (*versus 25 ms time scale for NMDA dependent LTP*)
+											* described at L4 to L2/3 synapses in somatosensory cortex
 										* bistable switch in spike statistics for postsynaptic neurons? 
 											* critical level of coincident presynaptic activity needed to cause spike?
 												* during early development?
@@ -188,7 +200,7 @@ Date: 2013-05-20 12:10:18
 														* more voltage gated calcium conductance
 														* less sodium channels
 													* lower fidelity spike transmission initially?
-								* coincident pre-post synaptic activity without post spiking?			
+								* Alternate/	non-Hebb timing based plasticity rule?
 					* Spatial activity pattern
 						* Unknown
 							* experiment needed: to control spatio-temporal activity patterns before start of vision
@@ -225,4 +237,18 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 [#Hanganu:2006]: Hanganu, I. L., Ben-Ari, Y., and Khazipov, R. (2006).  Retinal waves trigger spindle bursts in the neonatal rat visual cortex, J Neurosci, 26(25), 6728-36
 
 [#Triplett:2009]: Triplett, J. W., Owens, M. T., Yamada, J., Lemke, G., Cang, J., Stryker, M. P., and Feldheim, D. A. (2009).  Retinal input instructs alignment of visual topographic maps, Cell, 139(1), 175-85
+
+[#Duguid:2006]: Duguid, I. and Sjöström, P. J. (2006).  Novel presynaptic mechanisms for coincidence detection in synaptic plasticity, Curr Opin Neurobiol, 16(3), 312-22
+
+[#Bender:2006]: Bender, V. A., Bender, K. J., Brasier, D. J., and Feldman, D. E. (2006).  Two coincidence detectors for spike timing-dependent plasticity in somatosensory cortex, J Neurosci, 26(16), 4166-77
+
+
+
+[#Huberman:2006]: Huberman, A. D., Speer, C. M., and Chapman, B. (2006).  Spontaneous retinal activity mediates development of ocular dominance columns and binocular receptive fields in v1, Neuron, 52(2), 247-254
+
+[#Werth:2006]: Werth, R. (2006).  Visual functions without the occipital lobe or after cerebral hemispherectomy in infancy, Eur J Neurosci, 24(10), 2932-44
+
+[#Huberman:2007]: Huberman, A. D. (2007).  Mechanisms of eye-specific visual circuit development, Curr Opin Neurobiol, 17(1), 73-80
+
+[#Shah:2008]: Shah, R. D. and Crair, M. C. (2008).  Retinocollicular synapse maturation and plasticity are regulated by correlated retinal waves, J Neurosci, 28(1), 292-303
 
