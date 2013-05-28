@@ -37,11 +37,11 @@ Date: 2013-05-20 12:10:18
 					* early network oscillations (ENOs) 
 						* TODO: Konnerth fiber optic calcium imaging
 					* 'spindle bursts'
-					* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
+						* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
 				* mouse
 					* retinal waves
 						* primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
-			 			* (Siegel,Lohmann Curr Biol 2012) [#Siegel:2012]
+			 			* (Siegel, Lohmann Curr Biol 2012) [#Siegel:2012]
 				 			* possibly recorded retinal waves? 
 				 			* more likely 'spindle bursts' 
 				 			* which might be same as the independent spontaneous V2 activity we saw [#Ackman:2012]
@@ -155,30 +155,49 @@ Date: 2013-05-20 12:10:18
 					* TODO: J. Cang Stryker, V1
 					* TODO: Chandrasekaran, Crair SC unit recordings
 					* cortico-collicular alignment of retinotopy [#Triplett:2009]
-	* How?
-		* Temporal activity pattern
-				* Time scale
-					* eye-specific segregation
-						* before eye opening
-							* synchronous activation of RGCs with ChR2 disrupts eye-specific segregation in SC and LGN [#Zhang:2011]
-							* Relevant time scale -- spike timing differences of 100s of milliseconds 
-								* chR2 stimulation of RGCs, anatomical segregation analysis in SC [#Zhang:2011]
-				* Mechanism
-					* coincident pre-post synaptic spiking activity - Hebbian
-						* Dependent on NMDA-R?
-							* maybe not?
-								* TODO: Guido NMDA-R LGN work
-								* HP Xu recent work?
-						* Independent of NMDA-R?
-					* coincident pre-post synaptic activity without post spiking?
-					
-		* Spatial activity pattern
-			* Unknown
-				* experiment needed: to control spatio-temporal activity patterns before start of vision
-					* Analagous to the classic Sensory activation experiments
-						* owl prism experiments Knudsen
-						* cat goggle experiments
-			* Instructive role of spatial activation hinted at by Hong-Ping's paper? [#Xu:2011]
+		* How?
+			- Permissive
+				* Spatiotemporal pattern does not matter
+					* Perhaps just absolute levels of activity needed?
+			- Informative
+				* Spatiotemporal pattern does matter
+					* Temporal activity pattern
+						* Time scale
+							* eye-specific segregation
+								* before eye opening
+									* synchronous activation of RGCs with ChR2 disrupts eye-specific segregation in SC and LGN [#Zhang:2011]
+									* Relevant time scale -- spike timing differences of 100s of milliseconds 
+										* chR2 stimulation of RGCs, anatomical segregation analysis in SC [#Zhang:2011]
+							* Mechanism
+								* coincident pre-post synaptic spiking activity - Hebbian
+									* Dependent on NMDA-R?
+										* maybe yes?
+											* TODO:
+											* HP Xu recent work?
+										* maybe not?
+											* Guido LGN work
+											* HP Xu recent work?
+									* Independent of NMDA-R?
+										* endocannabidnoid induced LTD?
+											* but this type of activation still requires NMDA activiation?
+												* this type of coincidence detection reviewed elsewhere [#Duguid:2006]
+										* bistable switch in spike statistics for postsynaptic neurons? 
+											* critical level of coincident presynaptic activity needed to cause spike?
+												* during early development?
+													* biophysical membrane and cable properties different in immature neurons
+														* more voltage gated calcium conductance
+														* less sodium channels
+													* lower fidelity spike transmission initially?
+								* coincident pre-post synaptic activity without post spiking?			
+					* Spatial activity pattern
+						* Unknown
+							* experiment needed: to control spatio-temporal activity patterns before start of vision
+								* Analagous to the classic Sensory activation experiments
+									* owl prism experiments Knudsen
+									* cat goggle experiments
+						* Instructive role of spatial activation hinted at by Hong-Ping's paper? [#Xu:2011]
+						* Necessitates the temporal activity mechanisms with an additional spatial dimension
+						* Spatial patterns setup in periphery (RGCs) and communicated across levels of visual organization [#Ackman:2012]
 
 
 
@@ -186,7 +205,7 @@ Date: 2013-05-20 12:10:18
 
 
 
-Figure: Visual cortex primary and secondary areas, pathway schematic, and retinal influence (incl Olavarria work?)
+Figure: Schematic of visual cortex primary and secondary areas, pathway illustration, and summary of retinal influence? (incl Olavarria work?)
 
 
 [#Siegel:2012]: Siegel, F., Heimel, J. A., Peters, J., and Lohmann, C. (2012).  Peripheral and central inputs shape network dynamics in the developing visual cortex in vivo, Curr Biol, 22(3), 253-8
