@@ -113,10 +113,13 @@ Date: 2013-05-20 12:10:18
 								* beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement, eye specific segregation [#Xu:2011]
 								* RGC refinement and deficits in beta2 nAchR ko occurs at the level of single RGCs [#Dhande:2011]
 					* cortex
-						* cortico-collicular neurons [#Phillips:2011]
+						* cortico-collicular neurons [#Phillips:2011]. 
+							* Nice DiI reconstructions of cortico-collicular axons in rat
 				* dendrite growth?
-					* cortical-tectal recepient cells in SC, 
-						* Recent constantine-paton paper [#Phillips:2011]
+					* cortico-collicular recepient cells in SC, 
+						* Recent constantine-paton paper [#Phillips:2011]. 
+							* Cortico-collicular axons needed for 'caliber 3' dendritic filopodia density. 
+							* Eye opening regulates spine density in 'caliber 3' dendrites
 					* Golgi or DiI analysis in ferret, cat, monkey, or rodent cortex?
 						* Ruthazer and Olavarria paper
 					* Golgi or DiI analysis in LGN or SC?
@@ -151,9 +154,33 @@ Date: 2013-05-20 12:10:18
 					* TODO: Mrsic-Flogel V1, SC
 					* TODO: J. Cang Stryker, V1
 					* TODO: Chandrasekaran, Crair SC unit recordings
+					* cortico-collicular alignment of retinotopy [#Triplett:2009]
+	* How?
+		* Temporal activity pattern
+				* Time scale
+					* eye-specific segregation
+						* before eye opening
+							* synchronous activation of RGCs with ChR2 disrupts eye-specific segregation in SC and LGN [#Zhang:2011]
+							* Relevant time scale -- spike timing differences of 100s of milliseconds 
+								* chR2 stimulation of RGCs, anatomical segregation analysis in SC [#Zhang:2011]
+				* Mechanism
+					* coincident pre-post synaptic spiking activity - Hebbian
+						* Dependent on NMDA-R?
+							* maybe not?
+								* TODO: Guido NMDA-R LGN work
+								* HP Xu recent work?
+						* Independent of NMDA-R?
+					* coincident pre-post synaptic activity without post spiking?
+					
+		* Spatial activity pattern
+			* Unknown
+				* experiment needed: to control spatio-temporal activity patterns before start of vision
+					* Analagous to the classic Sensory activation experiments
+						* owl prism experiments Knudsen
+						* cat goggle experiments
+			* Instructive role of spatial activation hinted at by Hong-Ping's paper? [#Xu:2011]
 
 
-Triplett:2009
 
 
 
@@ -177,4 +204,6 @@ Figure: Visual cortex primary and secondary areas, pathway schematic, and retina
 [#Mooney:1996]: Mooney, R., Penn, A. A., Gallego, R., and Shatz, C. J. (1996).  Thalamic relay of spontaneous retinal activity prior to vision, Neuron, 17(5), 863-874
 
 [#Hanganu:2006]: Hanganu, I. L., Ben-Ari, Y., and Khazipov, R. (2006).  Retinal waves trigger spindle bursts in the neonatal rat visual cortex, J Neurosci, 26(25), 6728-36
+
+[#Triplett:2009]: Triplett, J. W., Owens, M. T., Yamada, J., Lemke, G., Cang, J., Stryker, M. P., and Feldheim, D. A. (2009).  Retinal input instructs alignment of visual topographic maps, Cell, 139(1), 175-85
 
