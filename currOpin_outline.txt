@@ -41,10 +41,12 @@ Date: 2013-05-20 12:10:18
 				* mouse
 					* retinal waves
 						* primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
-			 			* (Siegel, Lohmann Curr Biol 2012) [#Siegel:2012]
-				 			* possibly recorded retinal waves? 
-				 			* more likely 'spindle bursts' 
-				 			* which might be same as the independent spontaneous V2 activity we saw [#Ackman:2012]
+			 			* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
+				 			* they possibly recorded some retinal waves? 
+				 			* but most activity was independent of retinal input, and more likely 'spindle bursts' 
+								* unknown if recordings were strictly from V1 or V2 (no method for identification)
+								* calcium recordings were not summed population signals
+				 			* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
 
 			* around eye opening
 				* ferret
@@ -63,7 +65,7 @@ Date: 2013-05-20 12:10:18
 					* multicell recordings
 					* any mutlichannel recordings in newborn monkey (hubel wiesel just did single electrodes?)
 					* <del>fast traveling waves</del>
-						* adult
+						* adult (Y. Dan paper)
 	* Where?
 		* retina
 			* Retinal waves propagate among RGCs [#Ackman:2012]
@@ -72,7 +74,17 @@ Date: 2013-05-20 12:10:18
 				* Spontaneous bursting among dLGN neurons sensitive to retinal input [#Mooney:1996]
 				* Inferred by matched retinal driven patterns in V1 and SC [#Ackman:2012]
 			* Ferret
-				* TODO: Weliky literature in LGN
+				* Correlated retinal driven activity among LGN neurons [#Weliky:1999]
+					* multielectrode array recordings
+					* neonatal, awake behaving ferret
+					* recordings performed just before eye opening in ferret, around P21
+						* an age when spontaneous activity likely to be glutamatergic driven waves involving on-off bipolar cells and when retinotopic refinement and ODC formation complete
+					* binocular correlations present
+						* they state it can't be from retina, cause of statistical independence
+						* aspriating cortex (cortico-thalamic projections) abolishes the binocular correlation
+							* *but damage due to the ablation?*
+						* contralateral inputs drove LGN bursting more strongly than ipsilateral
+						* without retinal input, corticothalamic input necessary to sustain LGN neuron bursting
 		* superior colliculus
 			* Retinal waves drive collicular neurons [#Ackman:2012]
 		* visual cortex
@@ -80,7 +92,12 @@ Date: 2013-05-20 12:10:18
 			* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
 			* Retinal input can drive spiking multiple unit activity in cortical neurons [#Hanganu:2006]
 			* TODO: Colonnese, Khazipov work
-			* TODO: Weliky literature in cortex
+			* Ferret
+				* Correlated bursting among V1 neurons [#Chiu:2002]
+					* multielectrode array recordings
+					* neonatal, awake behaving ferret
+					* recordings performed just before eye opening in ferret, between P24-P29
+						* an age when spontaneous activity likely to be glutamatergic driven waves involving on-off bipolar cells and when retinotopic refinement and ODC formation complete
 	* When?
 		* Before eye opening and experienced visual patterns
 			* Before birth for some species
@@ -303,12 +320,12 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Stafford:2009]: Stafford, B. K., Sher, A., Litke, A. M., and Feldheim, D. A. (2009).  Spatial-temporal patterns of retinal waves underlying activity-dependent refinement of retinofugal projections, Neuron, 64(2), 200-12
 
-
-
-
 [#Weliky:1999]: Weliky, M. and Katz, L. C. (1999).  Correlational structure of spontaneous neuronal activity in the developing lateral geniculate nucleus in vivo, Science, 285(5427), 599-604
 
 [#Chiu:2002]: Chiu, C. and Weliky, M. (2002).  Relationship of correlated spontaneous activity to functional ocular dominance columns in the developing visual cortex, Neuron, 35(6), 1123--1134
+
+
+
 
 [#Zheng:2006a]: Zheng, J., Lee, S., and Zhou, Z. J. (2006).  A transient network of intrinsically bursting starburst cells underlies the generation of retinal waves, Nat Neurosci, 9(3), 363-71
 
