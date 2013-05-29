@@ -144,13 +144,27 @@ Date: 2013-05-20 12:10:18
 						* burst activation in vitro capable of inducing LTP [#Shah:2008]
 						* delayed maturation and greater LTP at beta2-/- nAchR ko synapses [#Shah:2008]
 				* retinotopy
-					* TODO: Mrsic-Flogel V1, SC
-					* TODO: J. Cang Stryker, V1
-					* Chandrasekaran, Crair SC receptive field unit recordings [#Chandrasekaran:2005]
-					* cortico-collicular alignment of retinotopy [#Triplett:2009]
+					* Altered retinotopic map in beta2 nAchR ko mice in SC (first order connections) [#Chandrasekaran:2005]
+						* using tungsten microelectrode extracellular recordings
+						* physiological receptive fields elongated along nasal-temporal axis
+					* Altered retinotopic map in  beta2 nAChR-/- mice in SC (first order connections) [#Mrsic-Flogel:2005]
+						* using instrinsic signal imaging
+						* retinotopic map preferentially disrupted (elongated) along anterior-posterior (nasal-temporal) axis of SC
+					* Altered retinotopic map in beta2 nAchR -/- mice in V1 (second order connections) [#Cang:2005]
+						* Intrinsic signal imaging of mouse V1 for visual space map
+						* Extracellular microelectrode recordings for single cell receptive fields
+						* Preferential disruption (elongation, scatter, response amplitude) along the visual space azimuth (nasal-temporal axis)
+						* They speculate that waves regulate ephrinA gradients to explain the nasal-temporal disruption since travelling waves had not been found to have a preferred direction at the time
+					* Cortico-collicular alignment of retinotopy (quaternary order connections) [#Triplett:2009]
+						* Transgenic mice, tracer injections, intrinsic signal functional mapping
+						* Used ephA3ki/ki (knock in) mice crossed with beta2 nAchR -/- mice for the crucial experiment in Figure 6. 
+						* These mice have duplicated retinocollicular map, but only a single, non-matched corticocollicular projection when no cholinergic waves are present.
 				* eye specific segregation
 				* ocular dominance columns
 					* development of ODCs in ferret [#Huberman:2006]
+						* epibatidine injections and tracer injections
+						* ocular dominance bias index with extracellular microelectrode recordings
+						* spontaneous cholinergic activity in retina required for cortical ODC formation
 					* TODO: Crair, Stryker
 				* orientation selectivity
 					* TODO: Crair, Stryker
@@ -191,7 +205,7 @@ Date: 2013-05-20 12:10:18
 										* HP Xu recent work?
 								* Independent of NMDA-R?
 									* endocannabinoid induced LTD?
-										* but one type of this activation still requires NMDA activation?
+										* but this type of activation still requires NMDA activation? [#Duguid:2006]
 											* this type of coincidence detection reviewed elsewhere [#Duguid:2006]
 									* mGluR-VSCC-IP3R-eCB coincidence detector [#Bender:2006]
 										* this form of LTD independent of postsynaptic NMDA receptors
@@ -204,7 +218,7 @@ Date: 2013-05-20 12:10:18
 													* more voltage gated calcium conductance
 													* less sodium channels
 												* lower fidelity spike transmission initially?
-							* Alternate -	non-Hebb timing based plasticity rule?
+							* Non-coincident -- alternate, lagged timing based plasticity rule?
 					* Spatial activity pattern
 						* Unknown
 							* experiment needed: to control spatio-temporal activity patterns before start of vision
@@ -252,15 +266,15 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Chandrasekaran:2005]: Chandrasekaran, A. R., Plas, D. T., Gonzalez, E., and Crair, M. C. (2005).  Evidence for an instructive role of retinal activity in retinotopic map refinement in the superior colliculus of the mouse, J Neurosci, 25(29), 6929-38
 
+[#Mrsic-Flogel:2005]: Mrsic-Flogel, T. D., Hofer, S. B., Creutzfeldt, C., Cloez-Tayarani, I., Changeux, J.-P., Bonhoeffer, T., and Hubener, M. (2005).  Altered map of visual space in the superior colliculus of mice lacking early retinal waves, J Neurosci, 25(29), 6921--6928
+
+[#Cang:2005]: Cang, J., Rentería, R. C., Kaneko, M., Liu, X., Copenhagen, D. R., and Stryker, M. P. (2005).  Development of precise maps in visual cortex requires patterned spontaneous activity in the retina, Neuron, 48(5), 797-809
+
 
 
 [#Weliky:1999]: Weliky, M. and Katz, L. C. (1999).  Correlational structure of spontaneous neuronal activity in the developing lateral geniculate nucleus in vivo, Science, 285(5427), 599-604
 
 [#Chiu:2002]: Chiu, C. and Weliky, M. (2002).  Relationship of correlated spontaneous activity to functional ocular dominance columns in the developing visual cortex, Neuron, 35(6), 1123--1134
-
-[#Mrsic-Flogel:2005]: Mrsic-Flogel, T. D., Hofer, S. B., Creutzfeldt, C., Cloez-Tayarani, I., Changeux, J.-P., Bonhoeffer, T., and Hubener, M. (2005).  Altered map of visual space in the superior colliculus of mice lacking early retinal waves, J Neurosci, 25(29), 6921--6928
-
-[#Cang:2005]: Cang, J., Rentería, R. C., Kaneko, M., Liu, X., Copenhagen, D. R., and Stryker, M. P. (2005).  Development of precise maps in visual cortex requires patterned spontaneous activity in the retina, Neuron, 48(5), 797-809
 
 [#Zheng:2006a]: Zheng, J., Lee, S., and Zhou, Z. J. (2006).  A transient network of intrinsically bursting starburst cells underlies the generation of retinal waves, Nat Neurosci, 9(3), 363-71
 
