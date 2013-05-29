@@ -30,7 +30,7 @@ Date: 2013-05-20 12:10:18
 				* retinal waves
 					* TODO: shatz, Wong, Feller work
 					* TODO: J. Zhou work
-				* TODO: Subplate references, former shatz postdoc at Univ Maryland
+				* TODO: Subplate references, P. Kanold
 		* patterns described in vivo
 			* early development - before eye opening
 				* rat
@@ -103,13 +103,15 @@ Date: 2013-05-20 12:10:18
 					* LGN and SC
 						* rodent
 							* mouse
-								* TODO: beta2 nAchR ko mouse
+								* TODO: beta2 nAchR ko mouse?
 								* TODO: N. Spitzer reference on activity-dep Ca2+ growth
 				* axon refinement
 					* xenopus, zebrafish literature?
 					* LGN and SC
 						* rodent
 							* mouse
+								* Retinocollicular axon - retinotopic map refinement requires cholinergic retinal waves [#McLaughlin:2003]
+									* beta2 nAchR ko mice, focal DiI tracer injections into retina
 								* beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement, eye specific segregation [#Xu:2011]
 								* RGC refinement and deficits in beta2 nAchR ko occurs at the level of single RGCs [#Dhande:2011]
 					* cortex
@@ -135,8 +137,11 @@ Date: 2013-05-20 12:10:18
 								* TODO: Ben-Ari, JB Manent activity dependent interneuron migration in vitro model
 					* higher mammals
 						* cortex
-							* TODO: Chalupa monkey retinal wave evidence and ferret in vitro
-							* unknown but gestational times for both excitatory and inhibitory cell migration overlaps significantly with likely period for retinal waves
+							* retinal wave evidence in macaque monkey retina in vitro [#Warland:2006]
+								* occurs as early as E60, before start of eye specific segregation
+								* macaque monkey neocortical neurogenesis (E40, SP/L6), (E56 -- E100, L5 -- L2/3)
+								* *unknown, but due to gestational timing, waves likely to have greater influence on cell migration and cortical patterning than in lower mammals*
+									* both excitatory and inhibitory cell migration overlaps significantly with the period for retinal waves
 			* functional - physiological 
 				* synapse maturation
 					* retinocollicular synapse
@@ -144,6 +149,14 @@ Date: 2013-05-20 12:10:18
 						* burst activation in vitro capable of inducing LTP [#Shah:2008]
 						* delayed maturation and greater LTP at beta2-/- nAchR ko synapses [#Shah:2008]
 				* retinotopy
+					* Retinotopic map refinement requires retinal waves in SC [#McLaughlin:2003]
+						* beta2 nAchR ko mice, focal DiI tracer injections into retina
+						* preferential anatomical terminal zone elongation along nasal-temporal axis
+					* Disrupted retinotopic map in beta2 nAchR ko mice in LGN (first order connections) [#Grubb:2003]
+						* using tungsten microelectrode extracellular recordings
+						* physiological receptive fields preferentially disrupted (elongated) along nasal-temporal (visual field azimuth) axis
+						* Abnormal segregation of on- and off-centered cells in LGN that is not seen in wt
+							* *precocious glutamate bipolor cell mediated waves?*
 					* Altered retinotopic map in beta2 nAchR ko mice in SC (first order connections) [#Chandrasekaran:2005]
 						* using tungsten microelectrode extracellular recordings
 						* physiological receptive fields elongated along nasal-temporal axis
@@ -155,7 +168,7 @@ Date: 2013-05-20 12:10:18
 						* Extracellular microelectrode recordings for single cell receptive fields
 						* Preferential disruption (elongation, scatter, response amplitude) along the visual space azimuth (nasal-temporal axis)
 						* They speculate that waves regulate ephrinA gradients to explain the nasal-temporal disruption since travelling waves had not been found to have a preferred direction at the time
-					* Cortico-collicular alignment of retinotopy (quaternary order connections) [#Triplett:2009]
+					* Cortico-collicular alignment of retinotopy (quaternary order connections, L5 --> SC) [#Triplett:2009]
 						* Transgenic mice, tracer injections, intrinsic signal functional mapping
 						* Used ephA3ki/ki (knock in) mice crossed with beta2 nAchR -/- mice for the crucial experiment in Figure 6. 
 						* These mice have duplicated retinocollicular map, but only a single, non-matched corticocollicular projection when no cholinergic waves are present.
@@ -209,6 +222,7 @@ Date: 2013-05-20 12:10:18
 											* this type of coincidence detection reviewed elsewhere [#Duguid:2006]
 									* mGluR-VSCC-IP3R-eCB coincidence detector [#Bender:2006]
 										* this form of LTD independent of postsynaptic NMDA receptors
+										* utilizes metabotropic glutamate receptors, voltage sensitive calcium channels, IP3 stores, and endocannabinoid receptors
 										* detects firing coincidence at 125 ms time scale (*versus 25 ms time scale for NMDA dependent LTP*)
 										* described at L4 to L2/3 synapses in somatosensory cortex
 									* bistable switch in spike statistics for postsynaptic neurons? 
@@ -220,14 +234,23 @@ Date: 2013-05-20 12:10:18
 												* lower fidelity spike transmission initially?
 							* Non-coincident -- alternate, lagged timing based plasticity rule?
 					* Spatial activity pattern
-						* Unknown
+						* Unknown: no direct experiment yet
 							* experiment needed: to control spatio-temporal activity patterns before start of vision
 								* Analagous to the classic Sensory activation experiments
 									* owl prism experiments Knudsen
 									* cat goggle experiments
 						* Instructive role of spatial activation hinted at by Hong-Ping's paper? [#Xu:2011]
-						* Necessitates the temporal activity mechanisms with an additional spatial dimension
+						* Necessitates the temporal activity mechanisms with an additional spatial dimension via a wavefront
 						* Spatial patterns setup in periphery (RGCs) and communicated across levels of visual organization [#Ackman:2012]
+					* Spatiotemporal information in retinal waves TODO: make table of these properties?
+						* *Perform quick analysis of wavefront size within our in vivo waves dataset and include as a new data in a Figure?*
+						* Wave speed from in vitro and in vivo literature consistent (100s of microns/sec) 
+							* retina in vitro (100 - 500 µm/s; mouse, rabbit, ferret, monkey) TODO: zhou, feller, feldheim, chalupa papers
+							* SC in vivo (28 - 60 µm/s = 90 - 180 µm/s in retina with 3x scale factor) [#Ackman:2012]
+						* Wave size (wave area) smaller within in vitro literature [#Stafford:2009] and bigger in vivo [#Ackman:2012]
+							* Wave propagation failure in vitro because of in vitro conditions such as bath medium, disconnections, and/or retinal damage?
+						* Wave direction along VT - DN axis in vitro [#Stafford:2009] and in vivo [#Ackman:2012]
+							* This makes the wavefront axis perpindicular to preferred axis for activity mediated refinement
 
 
 
@@ -270,6 +293,17 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Cang:2005]: Cang, J., Rentería, R. C., Kaneko, M., Liu, X., Copenhagen, D. R., and Stryker, M. P. (2005).  Development of precise maps in visual cortex requires patterned spontaneous activity in the retina, Neuron, 48(5), 797-809
 
+[#Grubb:2003]: Grubb, M. S., Rossi, F. M., Changeux, J. P., and Thompson, I. D. (2003).  Abnormal functional organization in the dorsal lateral geniculate nucleus of mice lacking the beta 2 subunit of the nicotinic acetylcholine receptor, Neuron, 40(6), 1161-72
+
+[#McLaughlin:2003]: McLaughlin, T., Torborg, C. L., Feller, M. B., and O'Leary, D. D. M. (2003).  Retinotopic map refinement requires spontaneous retinal waves during a brief critical period of development, Neuron, 40(6), 1147-1160
+
+[#Ziburkus:2009]: Ziburkus, J., Dilger, E. K., Lo, F.-S., and Guido, W. (2009).  LTD and LTP at the developing retinogeniculate synapse, J Neurophysiol, 102(6), 3082-90
+
+[#Warland:2006]: Warland, D. K., Huberman, A. D., and Chalupa, L. M. (2006).  Dynamics of spontaneous activity in the fetal macaque retina during development of retinogeniculate pathways, J Neurosci, 26(19), 5190-7
+
+[#Stafford:2009]: Stafford, B. K., Sher, A., Litke, A. M., and Feldheim, D. A. (2009).  Spatial-temporal patterns of retinal waves underlying activity-dependent refinement of retinofugal projections, Neuron, 64(2), 200-12
+
+
 
 
 [#Weliky:1999]: Weliky, M. and Katz, L. C. (1999).  Correlational structure of spontaneous neuronal activity in the developing lateral geniculate nucleus in vivo, Science, 285(5427), 599-604
@@ -278,13 +312,7 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Zheng:2006a]: Zheng, J., Lee, S., and Zhou, Z. J. (2006).  A transient network of intrinsically bursting starburst cells underlies the generation of retinal waves, Nat Neurosci, 9(3), 363-71
 
-[#Warland:2006]: Warland, D. K., Huberman, A. D., and Chalupa, L. M. (2006).  Dynamics of spontaneous activity in the fetal macaque retina during development of retinogeniculate pathways, J Neurosci, 26(19), 5190-7
-
-[#Chandrasekaran:2009]: Chandrasekaran, A. R., Furuta, Y., and Crair, M. C. (2009).  Consequences of axon guidance defects on the development of retinotopic receptive fields in the mouse colliculus, J Physiol, 587(Pt 5), 953--963
-
 [#Leamey:2009]: Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
-
-[#Stafford:2009]: Stafford, B. K., Sher, A., Litke, A. M., and Feldheim, D. A. (2009).  Spatial-temporal patterns of retinal waves underlying activity-dependent refinement of retinofugal projections, Neuron, 64(2), 200-12
 
 [#Blankenship:2010]: Blankenship, A. G. and Feller, M. B. (2010).  Mechanisms underlying spontaneous patterned activity in developing neural circuits, Nat Rev Neurosci, 11(1), 18-29
 
