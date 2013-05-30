@@ -6,59 +6,80 @@ Date: 2013-05-20 12:10:18
 
 ## Activity type
 
-* Sensory
+### Sensory
+
+* species
+	* mammals
+	* non-mammalian vertebrates
+	* invertebrates 
+* <del>**ignore this Sensory literature for now-**- too much literature for a  2000 word review limit?</del>
+	* *limit review to before vision onset?*
+	* just do very brief overview in intro with statement that here we focus on intrinsic activity patterns in visual system and refer to other recent reviews?
+* When?
+	* Before eye opening and experienced visual patterns
+		* Melanopsin
+	* After eye opening
+		* Hubel and Wiesel
+
+
+
+
+### Spontaneous
+
+* What?
 	* species
 		* mammals
+			* can occur before vision-- long gestational timecourse
 		* non-mammalian vertebrates
-		* invertebrates 
-	* <del>**ignore this Sensory literature for now-**- too much literature for a  2000 word review limit?</del>
-		* just do very brief overview in intro with statement that here we focus on intrinsic activity patterns in visual system and refer to other recent reviews?
-	* When?
-		* Before eye opening and experienced visual patterns
-			* Melanopsin
-		* After eye opening
-			* Hubel and Wiesel
-* Spontaneous
-	* What?
-		* species
-			* mammals
-				* can occur before vision-- long gestational timecourse
-			* non-mammalian vertebrates
-				* does not occur before vision-- short gestation
-		* patterns described in vitro
+			* does not occur before vision-- short gestation
+	* patterns
+		* in vitro
 			* early development - before eye opening
 				* retinal waves
 					* TODO: shatz, Wong, Feller work
 					* TODO: J. Zhou work
 				* TODO: Subplate references, P. Kanold
-		* patterns described in vivo
+				* Calcium waves-- Konnerth, Moody, etc
+			* after eye opening
+				* TODO: Cossart visual cortex?
+		* in vivo
 			* early development - before eye opening
-				* rat
-					* early network oscillations (ENOs) 
-						* TODO: Konnerth fiber optic calcium imaging
-					* 'spindle bursts'
+				* Rat
+					* 'Spindle bursts'
 						* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
-				* mouse
+					* 'Slow activity transients'
+						* infra-slow LFP wave with nested fast oscillations
+							* field oscillations and bursting multiunit activity in visual cortex TODO: Colonnese JNS ppr
+								* P5-P7 rat pups
+								* glass electrode or multisite silicon probe
+				* Mouse
 					* retinal waves
-						* primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
-			 			* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
-				 			* they possibly recorded some retinal waves? 
-				 			* but most activity was independent of retinal input, and more likely 'spindle bursts' 
+						* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
+						* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
+							* they possibly recorded some retinal waves? 
+							* but most activity was independent of retinal input, and more likely 'spindle bursts' 
 								* unknown if recordings were strictly from V1 or V2 (no method for identification)
 								* calcium recordings were not summed population signals
-				 			* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
+							* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
+				* Human 
+					* 'Slow activity transients'
+						* infra-slow LFP wave with nested fast oscillations
+							* field oscillations and bursting multiunit activity in visual cortex TODO: Vanthalo, Colonnese neuron pprs
 
 			* around eye opening
-				* ferret
+				* Ferret
 					* TODO: Weliky literature in LGN and cortex
-				* rat
-					* 'spindle' bursts
-						* TODO: Colonnese, Khazipov work
+				* Rat
+					* 'Spindle bursts'
+						* field oscillations and bursting multiunit activity in visual cortex TODO: Colonnese JNS, Neuron pprs
+					* 'Slow activity transients'
+						* infra-slow LFP wave with nested fast oscillations
+							* field oscillations and bursting multiunit activity in visual cortex TODO: Colonnese JNS, Neuron pprs
 			* <del>after eye opening</del>
-				* **much literature in adult**
+				* *too much literature in adult, limit review to before vision onset?*
 					* monkey, cat, ferret, rodent, etc
 				* patterned activity
-					* TODO: Recent Konnerth peri-eye opening calcium imaging paper with direction sel
+					* Recent Konnerth peri-eye opening calcium imaging paper with direction selectivity?
 					* intrinsic signal imaging
 						* Stryker work
 						* A. Grinvald work
@@ -66,208 +87,214 @@ Date: 2013-05-20 12:10:18
 					* any mutlichannel recordings in newborn monkey (hubel wiesel just did single electrodes?)
 					* <del>fast traveling waves</del>
 						* adult (Y. Dan paper)
-	* Where?
-		* retina
-			* Retinal waves propagate among RGCs [#Ackman:2012]
-		* LGN
-			* Mouse
-				* Spontaneous bursting among dLGN neurons sensitive to retinal input [#Mooney:1996]
-				* Inferred by matched retinal driven patterns in V1 and SC [#Ackman:2012]
-			* Ferret
-				* Correlated retinal driven activity among LGN neurons [#Weliky:1999]
-					* multielectrode array recordings
-					* neonatal, awake behaving ferret
-					* recordings performed just before eye opening in ferret, around P21
-						* an age when spontaneous activity likely to be glutamatergic driven waves involving on-off bipolar cells and when retinotopic refinement and ODC formation complete
-					* binocular correlations present
-						* they state it can't be from retina, cause of statistical independence
-						* aspriating cortex (cortico-thalamic projections) abolishes the binocular correlation
-							* *but damage due to the ablation?*
-						* contralateral inputs drove LGN bursting more strongly than ipsilateral
-						* without retinal input, corticothalamic input necessary to sustain LGN neuron bursting
-		* superior colliculus
-			* Retinal waves drive collicular neurons [#Ackman:2012]
-		* visual cortex
+* Where?
+	* Retina
+		* Retinal waves propagate among RGCs [#Ackman:2012]
+	* LGN
+		* Mouse
+			* Spontaneous bursting among dLGN neurons sensitive to retinal input [#Mooney:1996]
+			* Inferred by matched retinal driven patterns in V1 and SC [#Ackman:2012]
+		* Ferret
+			* Correlated retinal driven activity among LGN neurons [#Weliky:1999]
+				* multielectrode array recordings
+				* neonatal, awake behaving ferret
+				* recordings performed just before eye opening in ferret, around P21
+					* an age when spontaneous activity likely to be glutamatergic driven waves involving on-off bipolar cells and when retinotopic refinement and ODC formation complete
+				* binocular correlations present
+					* they state it can't be from retina, cause of statistical independence
+					* aspriating cortex (cortico-thalamic projections) abolishes the binocular correlation
+						* *but damage due to the ablation?*
+					* contralateral inputs drove LGN bursting more strongly than ipsilateral
+					* without retinal input, corticothalamic input necessary to sustain LGN neuron bursting
+	* Superior colliculus
+		* Retinal waves drive collicular neurons [#Ackman:2012]
+	* Visual cortex
+		* Mouse
 			* Retinal waves propagate to cortical neurons [#Ackman:2012]
 			* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
+		* Rat
 			* Retinal input can drive spiking multiple unit activity in cortical neurons [#Hanganu:2006]
 			* TODO: Colonnese, Khazipov work
-			* Ferret
-				* Correlated bursting among V1 neurons [#Chiu:2002]
-					* multielectrode array recordings
-					* neonatal, awake behaving ferret
-					* recordings performed just before eye opening in ferret, between P24-P29
-						* an age when spontaneous activity likely to be glutamatergic driven waves involving on-off bipolar cells and when retinotopic refinement and ODC formation complete
-	* When?
-		* Before eye opening and experienced visual patterns
-			* Before birth for some species
-				* Monkey, human, cat
-			* After birth for some species
-				* rodent, ferret, cat
-		* After eye opening
-			* experiential pattern replay/dreams
-				* analogs to hippocampal - place cell replays (Wilson work) for learning and memory?
-				* Y. Dan visual pattern replay paper
-	* Why?
-		* activity dependent circuit establishment and refinement-- lessons from other systems
-			* *short blurb on other systems*
-			* chick neuromuscular junction (lichtmann sanes)
-			* spontaneous motor circuit activity V. Hamburger & (Petterssen Nature paper)
-		* activity dependent visual map development
-			* anatomical - structural
-				* axon sprouting
-					* xenopus, zebrafish literature?
-					* LGN and SC
-						* rodent
-							* mouse
-								* TODO: beta2 nAchR ko mouse?
-								* TODO: N. Spitzer reference on activity-dep Ca2+ growth
-				* axon refinement
-					* xenopus, zebrafish literature?
-					* LGN and SC
-						* rodent
-							* mouse
-								* Retinocollicular axon - retinotopic map refinement requires cholinergic retinal waves [#McLaughlin:2003]
-									* beta2 nAchR ko mice, focal DiI tracer injections into retina
-								* beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement, eye specific segregation [#Xu:2011]
-								* RGC refinement and deficits in beta2 nAchR ko occurs at the level of single RGCs [#Dhande:2011]
-					* cortex
-						* cortico-collicular axon arborizations [#Phillips:2011]. 
-							* Nice DiI reconstructions of cortico-collicular axons in rat
-				* dendrite growth?
-					* cortico-collicular recepient cells in SC, 
-						* Recent constantine-paton paper [#Phillips:2011]. 
-							* Cortico-collicular axons needed for 'caliber 3' dendritic filopodia density. 
-							* Eye opening regulates spine density in 'caliber 3' dendrites
-					* Golgi or DiI analysis in ferret, cat, monkey, or rodent cortex?
-						* Ruthazer and Olavarria paper
-					* Golgi or DiI analysis in LGN or SC?
-				* dendritic refinement
-					* spine dynamics?
-						* TODO: xenopus literature?, H. Cline
-				* cell migration
+		* Ferret
+			* Correlated bursting among V1 neurons [#Chiu:2002]
+				* multielectrode array recordings
+				* neonatal, awake behaving ferret
+				* recordings performed just before eye opening in ferret, between P24-P29
+					* an age when spontaneous activity likely to be glutamatergic driven waves involving on-off bipolar cells and when retinotopic refinement and ODC formation complete
+* When?
+	* Before eye opening and experienced visual patterns
+		* Before birth for some species
+			* Monkey, human, cat
+		* After birth for some species
+			* rodent, ferret, cat
+	* After eye opening
+		* experiential pattern replay/dreams
+			* analogs to hippocampal - place cell replays (Wilson work) for learning and memory?
+			* Y. Dan visual pattern replay paper
+* Why?
+	* activity dependent circuit establishment and refinement-- lessons from other systems
+		* cite R. Wong review
+		* *short blurb on other systems*
+		* chick neuromuscular junction (lichtmann sanes)
+		* spontaneous motor circuit activity V. Hamburger & (Petterssen Nature paper)
+	* activity dependent visual map development
+		* anatomical - structural
+			* axon growth
+				* xenopus, zebrafish literature?
+				* LGN and SC
 					* rodent
-						* cortex
-							* interneurons
-								* TODO: recent Fishell paper
-								* TODO: recent ZJ Huang papers
-								* TODO: Ben-Ari, JB Manent activity dependent interneuron migration in vitro model
-					* higher mammals
-						* cortex
-							* retinal wave evidence in macaque monkey retina in vitro [#Warland:2006]
-								* occurs as early as E60, before start of eye specific segregation
-								* macaque monkey neocortical neurogenesis (E40, SP/L6), (E56 -- E100, L5 -- L2/3)
-								* *unknown, but due to gestational timing, waves likely to have greater influence on cell migration and cortical patterning than in lower mammals*
-									* both excitatory and inhibitory cell migration overlaps significantly with the period for retinal waves
-			* functional - physiological 
-				* synapse maturation
-					* retinocollicular synapse
-						* Increased AMPA/NMDA ratios and AMPA quantal amplitudes during first postnatal week [#Shah:2008]
-						* burst activation in vitro capable of inducing LTP [#Shah:2008]
-						* delayed maturation and greater LTP at beta2-/- nAchR ko synapses [#Shah:2008]
-				* retinotopy
-					* Retinotopic map refinement requires retinal waves in SC [#McLaughlin:2003]
-						* beta2 nAchR ko mice, focal DiI tracer injections into retina
-						* preferential anatomical terminal zone elongation along nasal-temporal axis
-					* Disrupted retinotopic map in beta2 nAchR ko mice in LGN (first order connections) [#Grubb:2003]
-						* using tungsten microelectrode extracellular recordings
-						* physiological receptive fields preferentially disrupted (elongated) along nasal-temporal (visual field azimuth) axis
-						* Abnormal segregation of on- and off-centered cells in LGN that is not seen in wt
-							* *precocious glutamate bipolor cell mediated waves?*
-					* Altered retinotopic map in beta2 nAchR ko mice in SC (first order connections) [#Chandrasekaran:2005]
-						* using tungsten microelectrode extracellular recordings
-						* physiological receptive fields elongated along nasal-temporal axis
-					* Altered retinotopic map in  beta2 nAChR-/- mice in SC (first order connections) [#Mrsic-Flogel:2005]
-						* using instrinsic signal imaging
-						* retinotopic map preferentially disrupted (elongated) along anterior-posterior (nasal-temporal) axis of SC
-					* Altered retinotopic map in beta2 nAchR -/- mice in V1 (second order connections) [#Cang:2005]
-						* Intrinsic signal imaging of mouse V1 for visual space map
-						* Extracellular microelectrode recordings for single cell receptive fields
-						* Preferential disruption (elongation, scatter, response amplitude) along the visual space azimuth (nasal-temporal axis)
-						* They speculate that waves regulate ephrinA gradients to explain the nasal-temporal disruption since travelling waves had not been found to have a preferred direction at the time
-					* Cortico-collicular alignment of retinotopy (quaternary order connections, L5 --> SC) [#Triplett:2009]
-						* Transgenic mice, tracer injections, intrinsic signal functional mapping
-						* Used ephA3ki/ki (knock in) mice crossed with beta2 nAchR -/- mice for the crucial experiment in Figure 6. 
-						* These mice have duplicated retinocollicular map, but only a single, non-matched corticocollicular projection when no cholinergic waves are present.
-				* eye specific segregation
-				* ocular dominance columns
-					* development of ODCs in ferret [#Huberman:2006]
-						* epibatidine injections and tracer injections
-						* ocular dominance bias index with extracellular microelectrode recordings
-						* spontaneous cholinergic activity in retina required for cortical ODC formation
-					* TODO: Crair, Stryker
-				* orientation selectivity
-					* TODO: Crair, Stryker
-					* TODO: Recent Fitzpatrick work
-					* TODO: ongoing J. Cang unpublished work? (look at abstr from SFN, our CSHL conf last year)
-				* direction selectivity
-					* TODO: Recent Konnerth peri-eye opening calcium imaging paper
-					* TODO: Recent Fitzpatrick work (the reprogramming of selectivity)
-		* How?
-			- Permissive
-				* Spatiotemporal pattern does not matter
-					* Perhaps just absolute levels of activity needed?
-					* homeostasis, celluar growth and survival?
-			- Informative
-				* Spatiotemporal pattern does matter
-					* Temporal activity pattern
-						* Time scale
-							* eye-specific segregation
-								* before eye opening
-									* Synchronous activation of RGCs in both eyes with ChR2 disrupts eye-specific segregation in SC and LGN [#Zhang:2011]
-									* Relevant window for spike timing differences of RGCs in both eyes within 100s of milliseconds [#Zhang:2011]
-										* chR2 stimulation of RGCs, anatomical segregation analysis in SC 
-						* Mechanism
-							* Coincident pre-post synaptic activity - Hebbian plasticity
-								* Dependent on NMDA-R?
-									* maybe yes?
-										* TODO:
-										* HP Xu recent work?
-									* maybe not?
-										* LTD independent of NMDA-R activation in mouse [#Ziburkus:2009]
-											* in vitro explant with extracellar field potentials and high freq stim to mimic retinal waves
-											* bidirectional maturation
-												* finds LTD early between birth and eye opening
-												* finds LTP after eye opening through critical period
-												* cites [#Butts:2007] for bidirectional synaptic strength changes in single LGN cells											
-										* L-type calcium channel plateau potentials at developing LGN neurons [#Lo:2002]
-										* retinogeniculate PSC bursting is independent of NMDAR activation (NMDAR1 ko mice, ex vivo, extracellular)[#Mooney:1996]
-										* HP Xu recent work?
-								* Independent of NMDA-R?
-									* endocannabinoid induced LTD?
-										* but this type of activation still requires NMDA activation? [#Duguid:2006]
-											* this type of coincidence detection reviewed elsewhere [#Duguid:2006]
-									* mGluR-VSCC-IP3R-eCB coincidence detector [#Bender:2006]
-										* this form of LTD independent of postsynaptic NMDA receptors
-										* utilizes metabotropic glutamate receptors, voltage sensitive calcium channels, IP3 stores, and endocannabinoid receptors
-										* detects firing coincidence at 125 ms time scale (*versus 25 ms time scale for NMDA dependent LTP*)
-										* described at L4 to L2/3 synapses in somatosensory cortex
-									* bistable switch in spike statistics for postsynaptic neurons? 
-										* critical level of coincident presynaptic activity needed to cause spike?
-											* during early development?
-												* biophysical membrane and cable properties different in immature neurons
-													* more voltage gated calcium conductance
-													* less sodium channels
-												* lower fidelity spike transmission initially?
-							* Non-coincident -- alternate, lagged timing based plasticity rule?
-					* Spatial activity pattern
-						* Unknown: no direct experiment yet
-							* experiment needed: to control spatio-temporal activity patterns before start of vision
-								* Analagous to the classic Sensory activation experiments
-									* owl prism experiments Knudsen
-									* cat goggle experiments
-						* Instructive role of spatial activation hinted at by Hong-Ping's paper? [#Xu:2011]
-						* Necessitates the temporal activity mechanisms with an additional spatial dimension via a wavefront
-						* Spatial patterns setup in periphery (RGCs) and communicated across levels of visual organization [#Ackman:2012]
-					* Spatiotemporal information in retinal waves TODO: make table of these properties?
-						* *Perform quick analysis of wavefront size within our in vivo waves dataset and include as a new data in a Figure?*
-						* Wave speed from in vitro and in vivo literature consistent (100s of microns/sec) 
-							* retina in vitro (100 - 500 µm/s; mouse, rabbit, ferret, monkey) TODO: zhou, feller, feldheim, chalupa papers
-							* SC in vivo (28 - 60 µm/s = 90 - 180 µm/s in retina with 3x scale factor) [#Ackman:2012]
-						* Wave size (wave area) smaller within in vitro literature [#Stafford:2009] and bigger in vivo [#Ackman:2012]
-							* Wave propagation failure in vitro because of in vitro conditions such as bath medium, disconnections, and/or retinal damage?
-						* Wave direction along VT - DN axis in vitro [#Stafford:2009] and in vivo [#Ackman:2012]
-							* This makes the wavefront axis perpindicular to preferred axis for activity mediated refinement
+						* mouse
+							* TODO: beta2 nAchR ko mouse?
+							* TODO: N. Spitzer reference on activity-dep Ca2+ growth
+				*Cortex
+					* Ruthazer and Olavarria paper
+			* axon refinement
+				* xenopus, zebrafish literature?
+				* LGN and SC
+					* rodent
+						* mouse
+							* Retinocollicular axon - retinotopic map refinement requires cholinergic retinal waves [#McLaughlin:2003]
+								* beta2 nAchR ko mice, focal DiI tracer injections into retina
+							* beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement, eye specific segregation [#Xu:2011]
+							* RGC refinement and deficits in beta2 nAchR ko occurs at the level of single RGCs [#Dhande:2011]
+				* cortex
+					* cortico-collicular axon arborizations [#Phillips:2011]. 
+						* Nice DiI reconstructions of cortico-collicular axons in rat
+					* Ruthazer and Olavarria paper
+			* dendrite growth?
+				* cortico-collicular recepient cells in SC, 
+					* Recent constantine-paton paper [#Phillips:2011]. 
+						* Cortico-collicular axons needed for 'caliber 3' dendritic filopodia density. 
+						* Eye opening regulates spine density in 'caliber 3' dendrites
+				* Golgi or DiI analysis in ferret, cat, monkey, or rodent cortex?
+					* Ruthazer and Olavarria paper
+				* Golgi or DiI analysis in LGN or SC?
+			* dendritic refinement
+				* spine dynamics?
+					* TODO: xenopus literature?, H. Cline
+			* cell migration
+				* rodent
+					* cortex
+						* interneurons
+							* TODO: recent Fishell paper
+							* TODO: recent ZJ Huang papers
+							* TODO: Ben-Ari, JB Manent activity dependent interneuron migration in vitro model
+				* higher mammals
+					* cortex
+						* retinal wave evidence in macaque monkey retina in vitro [#Warland:2006]
+							* occurs as early as E60, before start of eye specific segregation
+							* macaque monkey neocortical neurogenesis (E40, SP/L6), (E56 -- E100, L5 -- L2/3)
+							* *unknown, but due to gestational timing, waves likely to have greater influence on cell migration and cortical patterning than in lower mammals*
+								* both excitatory and inhibitory cell migration overlaps significantly with the period for retinal waves
+		* functional - physiological 
+			* synapse maturation
+				* retinocollicular synapse
+					* Increased AMPA/NMDA ratios and AMPA quantal amplitudes during first postnatal week [#Shah:2008]
+					* burst activation in vitro capable of inducing LTP [#Shah:2008]
+					* delayed maturation and greater LTP at beta2-/- nAchR ko synapses [#Shah:2008]
+			* retinotopy
+				* Retinotopic map refinement requires retinal waves in SC [#McLaughlin:2003]
+					* beta2 nAchR ko mice, focal DiI tracer injections into retina
+					* preferential anatomical terminal zone elongation along nasal-temporal axis
+				* Disrupted retinotopic map in beta2 nAchR ko mice in LGN (first order connections) [#Grubb:2003]
+					* using tungsten microelectrode extracellular recordings
+					* physiological receptive fields preferentially disrupted (elongated) along nasal-temporal (visual field azimuth) axis
+					* Abnormal segregation of on- and off-centered cells in LGN that is not seen in wt
+						* *precocious glutamate bipolor cell mediated waves?*
+				* Altered retinotopic map in beta2 nAchR ko mice in SC (first order connections) [#Chandrasekaran:2005]
+					* using tungsten microelectrode extracellular recordings
+					* physiological receptive fields elongated along nasal-temporal axis
+				* Altered retinotopic map in  beta2 nAChR-/- mice in SC (first order connections) [#Mrsic-Flogel:2005]
+					* using instrinsic signal imaging
+					* retinotopic map preferentially disrupted (elongated) along anterior-posterior (nasal-temporal) axis of SC
+				* Altered retinotopic map in beta2 nAchR -/- mice in V1 (second order connections) [#Cang:2005]
+					* Intrinsic signal imaging of mouse V1 for visual space map
+					* Extracellular microelectrode recordings for single cell receptive fields
+					* Preferential disruption (elongation, scatter, response amplitude) along the visual space azimuth (nasal-temporal axis)
+					* They speculate that waves regulate ephrinA gradients to explain the nasal-temporal disruption since travelling waves had not been found to have a preferred direction at the time
+				* Cortico-collicular alignment of retinotopy (quaternary order connections, L5 --> SC) [#Triplett:2009]
+					* Transgenic mice, tracer injections, intrinsic signal functional mapping
+					* Used ephA3ki/ki (knock in) mice crossed with beta2 nAchR -/- mice for the crucial experiment in Figure 6. 
+					* These mice have duplicated retinocollicular map, but only a single, non-matched corticocollicular projection when no cholinergic waves are present.
+			* eye specific segregation
+			* ocular dominance columns
+				* development of ODCs in ferret [#Huberman:2006]
+					* epibatidine injections and tracer injections
+					* ocular dominance bias index with extracellular microelectrode recordings
+					* spontaneous cholinergic activity in retina required for cortical ODC formation
+				* TODO: Crair, Stryker
+			* orientation selectivity
+				* TODO: Crair, Stryker
+				* TODO: Recent Fitzpatrick work
+				* TODO: ongoing J. Cang unpublished work? (look at abstr from SFN, our CSHL conf last year)
+			* direction selectivity
+				* TODO: Recent Konnerth peri-eye opening calcium imaging paper
+				* TODO: Recent Fitzpatrick work (the reprogramming of selectivity)
+	* How?
+		- Permissive
+			* Spatiotemporal pattern does not matter
+				* Perhaps just absolute levels of activity needed?
+				* homeostasis, celluar growth and survival?
+		- Informative
+			* Spatiotemporal pattern does matter
+				* Temporal activity pattern
+					* Time scale
+						* eye-specific segregation
+							* before eye opening
+								* Synchronous activation of RGCs in both eyes with ChR2 disrupts eye-specific segregation in SC and LGN [#Zhang:2011]
+								* Relevant window for spike timing differences of RGCs in both eyes within 100s of milliseconds [#Zhang:2011]
+									* chR2 stimulation of RGCs, anatomical segregation analysis in SC 
+					* Mechanism
+						* Coincident pre-post synaptic activity - Hebbian plasticity
+							* Dependent on NMDA-R?
+								* maybe yes?
+									* TODO:
+									* HP Xu recent work?
+								* maybe not?
+									* LTD independent of NMDA-R activation in mouse [#Ziburkus:2009]
+										* in vitro explant with extracellar field potentials and high freq stim to mimic retinal waves
+										* bidirectional maturation
+											* finds LTD early between birth and eye opening
+											* finds LTP after eye opening through critical period
+											* cites [#Butts:2007] for bidirectional synaptic strength changes in single LGN cells											
+									* L-type calcium channel plateau potentials at developing LGN neurons [#Lo:2002]
+									* retinogeniculate PSC bursting is independent of NMDAR activation (NMDAR1 ko mice, ex vivo, extracellular)[#Mooney:1996]
+									* HP Xu recent work?
+							* Independent of NMDA-R?
+								* endocannabinoid induced LTD?
+									* but this type of activation still requires NMDA activation? [#Duguid:2006]
+										* this type of coincidence detection reviewed elsewhere [#Duguid:2006]
+								* mGluR-VSCC-IP3R-eCB coincidence detector [#Bender:2006]
+									* this form of LTD independent of postsynaptic NMDA receptors
+									* utilizes metabotropic glutamate receptors, voltage sensitive calcium channels, IP3 stores, and endocannabinoid receptors
+									* detects firing coincidence at 125 ms time scale (*versus 25 ms time scale for NMDA dependent LTP*)
+									* described at L4 to L2/3 synapses in somatosensory cortex
+								* bistable switch in spike statistics for postsynaptic neurons? 
+									* critical level of coincident presynaptic activity needed to cause spike?
+										* during early development?
+											* biophysical membrane and cable properties different in immature neurons
+												* more voltage gated calcium conductance
+												* less sodium channels
+											* lower fidelity spike transmission initially?
+						* Non-coincident -- alternate, lagged timing based plasticity rule?
+				* Spatial activity pattern
+					* Unknown: no direct experiment yet
+						* experiment needed: to control spatio-temporal activity patterns before start of vision
+							* Analagous to the classic Sensory activation experiments
+								* owl prism experiments Knudsen
+								* cat goggle experiments
+					* Instructive role of spatial activation hinted at by Hong-Ping's paper? [#Xu:2011]
+					* Necessitates the temporal activity mechanisms with an additional spatial dimension via a wavefront
+					* Spatial patterns setup in periphery (RGCs) and communicated across levels of visual organization [#Ackman:2012]
+				* Spatiotemporal information in retinal waves TODO: make table of these properties?
+					* *Perform quick analysis of wavefront size within our in vivo waves dataset and include as a new data in a Figure?*
+					* Wave speed from in vitro and in vivo literature consistent (100s of microns/sec) 
+						* retina in vitro (100 - 500 µm/s; mouse, rabbit, ferret, monkey) TODO: zhou, feller, feldheim, chalupa papers
+						* SC in vivo (28 - 60 µm/s = 90 - 180 µm/s in retina with 3x scale factor) [#Ackman:2012]
+					* Wave size (wave area) smaller within in vitro literature [#Stafford:2009] and bigger in vivo [#Ackman:2012]
+						* Wave propagation failure in vitro because of some combination of in vitro conditions such as bath medium, temperature, and cut connections?
+					* Wave direction along VT - DN axis in vitro [#Stafford:2009] and in vivo [#Ackman:2012]
+						* This makes the wavefront axis perpindicular to preferred axis for activity mediated refinement
 
 
 
@@ -277,6 +304,8 @@ Date: 2013-05-20 12:10:18
 
 Figure: Schematic of visual cortex primary and secondary areas, pathway illustration, and summary of retinal influence? (incl Olavarria work?)
 
+
+# References #
 
 [#Siegel:2012]: Siegel, F., Heimel, J. A., Peters, J., and Lohmann, C. (2012).  Peripheral and central inputs shape network dynamics in the developing visual cortex in vivo, Curr Biol, 22(3), 253-8
 
