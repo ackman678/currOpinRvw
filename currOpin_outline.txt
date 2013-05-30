@@ -36,8 +36,12 @@ Date: 2013-05-20 12:10:18
 		* in vitro
 			* early development - before eye opening
 				* retinal waves
-					* TODO: shatz, Wong, Feller work
-					* TODO: J. Zhou work
+					* chicken TODO:
+					* turtle TODO:
+					* ferret + cat [#Meister:1991][#Wong:1993][#Feller:1996]
+					* rabbit [#Zhou:2000]
+					* mouse TODO: 
+					* monkey TODO:
 				* TODO: Subplate references, P. Kanold
 				* Calcium waves-- Konnerth, Moody, etc
 			* after eye opening
@@ -45,13 +49,24 @@ Date: 2013-05-20 12:10:18
 		* in vivo
 			* early development - before eye opening
 				* Rat
+					* Correlated bursting among RGCs [#Maffei:1990]
 					* 'Spindle bursts'
 						* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
 					* 'Slow activity transients'
 						* infra-slow LFP wave with nested fast oscillations
-							* field oscillations and bursting multiunit activity in visual cortex TODO: Colonnese JNS ppr
-								* P5-P7 rat pups
-								* glass electrode or multisite silicon probe
+							* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010]
+								* 87% of L4 MUA occured during slow activity transients
+								* extracellular recordings with glass electrode or multisite silicon probe
+									* age P5-P7
+										* peak frequency (8 - 31 Hz, mostly 18-30 Hz) and duration form single distribution (400 ms - 5 s), likely all continuous 'spindle burst' oscillations within the slow wave 
+									* age P9-P13
+										* short duration events (<400 ms) first prominent around P9-P10 and increased frequency of these events until becoming the most common type by P13
+										* very long duration (>5 s) encountered after P8 ('splitting of events with maturation')
+										* two populations of events encountered:
+											* long duration, beta band frequency (>5 s, 18-30 Hz)
+											* short duration, alpha band frequency (<3 s, 10 Hz)
+										* after P12 SATs less common and no longer dominant pattern-- continuous cortical activity and slow wave sleep (delta)
+
 				* Mouse
 					* retinal waves
 						* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
@@ -64,17 +79,16 @@ Date: 2013-05-20 12:10:18
 				* Human 
 					* 'Slow activity transients'
 						* infra-slow LFP wave with nested fast oscillations
-							* field oscillations and bursting multiunit activity in visual cortex TODO: Vanthalo, Colonnese neuron pprs
-
+							* EEG field oscillations and bursting multiunit activity in visual cortex [#Vanhatalo:2005][#Colonnese:2010a] 
 			* around eye opening
 				* Ferret
-					* TODO: Weliky literature in LGN and cortex
+					* Correlated bursting activity among LGN and visual cortical neurons [#Weliky:1999][#Chiu:2002]
 				* Rat
 					* 'Spindle bursts'
-						* field oscillations and bursting multiunit activity in visual cortex TODO: Colonnese JNS, Neuron pprs
+						* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
 					* 'Slow activity transients'
 						* infra-slow LFP wave with nested fast oscillations
-							* field oscillations and bursting multiunit activity in visual cortex TODO: Colonnese JNS, Neuron pprs
+							* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
 			* <del>after eye opening</del>
 				* *too much literature in adult, limit review to before vision onset?*
 					* monkey, cat, ferret, rodent, etc
@@ -86,7 +100,7 @@ Date: 2013-05-20 12:10:18
 					* multicell recordings
 					* any mutlichannel recordings in newborn monkey (hubel wiesel just did single electrodes?)
 					* <del>fast traveling waves</del>
-						* adult (Y. Dan paper)
+						* adult (Y. Dan paper) [#Benucci:2007]
 * Where?
 	* Retina
 		* Retinal waves propagate among RGCs [#Ackman:2012]
@@ -114,23 +128,26 @@ Date: 2013-05-20 12:10:18
 			* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
 		* Rat
 			* Retinal input can drive spiking multiple unit activity in cortical neurons [#Hanganu:2006]
-			* TODO: Colonnese, Khazipov work
+			* Retinal input can drive slow activity transients and spiking multiple unit activity in cortical neurons before and around eye opening [#Colonnese:2010]
 		* Ferret
 			* Correlated bursting among V1 neurons [#Chiu:2002]
 				* multielectrode array recordings
 				* neonatal, awake behaving ferret
 				* recordings performed just before eye opening in ferret, between P24-P29
 					* an age when spontaneous activity likely to be glutamatergic driven waves involving on-off bipolar cells and when retinotopic refinement and ODC formation complete
+		* Human
+			* Slow activity transients in EEG signal in preterm human infants [#Vanhatalo:2005][#Colonnese:2010a] 
 * When?
 	* Before eye opening and experienced visual patterns
 		* Before birth for some species
-			* Monkey, human, cat
+			* rabbit [#Zhou:2000][#Zheng:2006a], monkey [#Warland:2006], human [#Vanhatalo:2005][#Colonnese:2010a], cat [#Meister:1991]
 		* After birth for some species
-			* rodent, ferret, cat
-	* After eye opening
+			* rodent [#Ackman:2012][#Hanganu:2006][#Colonnese:2010], rabbit [#Zhou:2000][#Zheng:2006a], ferret [#Meister:1991][#Wong:1993][#Feller:1996][#Weliky:1999][#Chiu:2002]
+	* <del>After eye opening</del>
 		* experiential pattern replay/dreams
 			* analogs to hippocampal - place cell replays (Wilson work) for learning and memory?
 			* Y. Dan visual pattern replay paper
+			* standing waves and fast travelling waves [#Benucci:2007]
 * Why?
 	* activity dependent circuit establishment and refinement-- lessons from other systems
 		* cite R. Wong review
@@ -200,7 +217,7 @@ Date: 2013-05-20 12:10:18
 					* using tungsten microelectrode extracellular recordings
 					* physiological receptive fields preferentially disrupted (elongated) along nasal-temporal (visual field azimuth) axis
 					* Abnormal segregation of on- and off-centered cells in LGN that is not seen in wt
-						* *precocious glutamate bipolor cell mediated waves?*
+						* *precocious glutamate bipolar cell mediated waves?*
 				* Altered retinotopic map in beta2 nAchR ko mice in SC (first order connections) [#Chandrasekaran:2005]
 					* using tungsten microelectrode extracellular recordings
 					* physiological receptive fields elongated along nasal-temporal axis
@@ -353,18 +370,26 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Chiu:2002]: Chiu, C. and Weliky, M. (2002).  Relationship of correlated spontaneous activity to functional ocular dominance columns in the developing visual cortex, Neuron, 35(6), 1123--1134
 
+[#Colonnese:2010a]: Colonnese, M. T., Kaminska, A., Minlebaev, M., Milh, M., Bloem, B., Lescure, S., Moriette, G., Chiron, C., Ben-Ari, Y., and Khazipov, R. (2010).  A conserved switch in sensory processing prepares developing neocortex for vision, Neuron, 67(3), 480-98
+
+[#Colonnese:2010]: Colonnese, M. T. and Khazipov, R. (2010).  "Slow activity transients" in infant rat visual cortex: a spreading synchronous oscillation patterned by retinal waves, J Neurosci, 30(12), 4325-37
+
+[#Vanhatalo:2005]: Vanhatalo, S., Palva, J. M., Andersson, S., Rivera, C., Voipio, J., and Kaila, K. (2005).  Slow endogenous activity transients and developmental expression of K+-Cl- cotransporter 2 in the immature human cortex, Eur J Neurosci, 22(11), 2799-804
+
+[#Meister:1991]: Meister, M., Wong, R. O., Baylor, D. A., and Shatz, C. J. (1991).  Synchronous bursts of action potentials in ganglion cells of the developing mammalian retina, Science, 252(5008), 939-943
+
+[#Wong:1993]: Wong, R. O., Meister, M., and Shatz, C. J. (1993).  Transient period of correlated bursting activity during development of the mammalian retina, Neuron, 11(5), 923-38
+
+[#Feller:1996]: Feller, M. B., Wellis, D. P., Stellwagen, D., Werblin, F. S., and Shatz, C. J. (1996).  Requirement for cholinergic synaptic transmission in the propagation of spontaneous retinal waves, Science, 272(5265), 1182-7
+
+[#Zhou:2000]: Zhou, Z. J. and Zhao, D. (2000).  Coordinated transitions in neurotransmitter systems for the initiation and propagation of spontaneous retinal waves, J Neurosci, 20(17), 6570--6577
+
+[#Maffei:1990]: Maffei, L. and Galli-Resta, L. (1990).  Correlation in the discharges of neighboring rat retinal ganglion cells during prenatal life, Proc Natl Acad Sci U S A, 87(7), 2861-2864
+
 
 
 
 [#Zheng:2006a]: Zheng, J., Lee, S., and Zhou, Z. J. (2006).  A transient network of intrinsically bursting starburst cells underlies the generation of retinal waves, Nat Neurosci, 9(3), 363-71
-
-[#Leamey:2009]: Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
-
-[#Blankenship:2010]: Blankenship, A. G. and Feller, M. B. (2010).  Mechanisms underlying spontaneous patterned activity in developing neural circuits, Nat Rev Neurosci, 11(1), 18-29
-
-[#Colonnese:2010a]: Colonnese, M. T., Kaminska, A., Minlebaev, M., Milh, M., Bloem, B., Lescure, S., Moriette, G., Chiron, C., Ben-Ari, Y., and Khazipov, R. (2010).  A conserved switch in sensory processing prepares developing neocortex for vision, Neuron, 67(3), 480-98
-
-[#Colonnese:2010]: Colonnese, M. T. and Khazipov, R. (2010).  "Slow activity transients" in infant rat visual cortex: a spreading synchronous oscillation patterned by retinal waves, J Neurosci, 30(12), 4325-37
 
 [#Ruthazer:2010a]: Ruthazer, E. S., Bachleda, A. R., and Olavarria, J. F. (2010).  Role of interstitial branching in the development of visual corticocortical connections: a time-lapse and fixed-tissue analysis, J Comp Neurol, 518(24), 4963-79
 
@@ -372,6 +397,9 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Bock:2012]: Bock, A. S., Kroenke, C. D., Taber, E. N., and Olavarria, J. F. (2012).  Retinal input influences the size and corticocortical connectivity of visual cortex during postnatal development in the ferret, J Comp Neurol, 520(5), 914-32
 
+[#Leamey:2009]: Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
+
+[#Blankenship:2010]: Blankenship, A. G. and Feller, M. B. (2010).  Mechanisms underlying spontaneous patterned activity in developing neural circuits, Nat Rev Neurosci, 11(1), 18-29
 
 
 
