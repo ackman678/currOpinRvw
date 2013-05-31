@@ -36,16 +36,36 @@ Date: 2013-05-20 12:10:18
 		* in vitro
 			* early development - before eye opening
 				* retinal waves
-					* chicken TODO:
-					* turtle TODO:
-					* ferret + cat [#Meister:1991][#Wong:1993][#Feller:1996]
-					* rabbit [#Zhou:2000]
-					* mouse TODO: 
-					* monkey TODO:
-				* TODO: Subplate references, P. Kanold
-				* Calcium waves-- Konnerth, Moody, etc
+					* Occur in all amniote species examined (turtle, chicken, rodent, rabbit, ferret, cat) [#Wong:1999], including monkey [#Warland:2006]
+						* chicken [#Wong:1998][#Catsicas:1998]
+						* turtle [#Sernagor:1996]
+						* ferret [#Meister:1991][#Wong:1993][#Feller:1996]
+						* cat [#Meister:1991]
+						* rabbit [#Zhou:2000]
+						* mouse [#Mooney:1996][#Bansal:2000]
+						* monkey [#Warland:2006]
+					* Do not occur in amphibians [#Demas:2012]
+						* Xenopus laevis tadpoles wildtype and albino
+						* Microelectrode array recordings
+						* Visually evoked responses as soon as RGCs innervate targets (unlike mammals)
+						* Authors conclude that the two branches of tetrapods (amphibians and amniotes), evolved different strategies to mediate activity-dependent development during visual system formation
+				* Subplate --
+					* Subplate neurons are likely key to relaying oscillatory activity to developing cortical neurons Kanold and Luhmann review [#Kanold:2010] *Nice Ann Rev Neuosci review with summary table of references for species, cortical area, neurotransmitter, etc)*
+						* SPn removal in visual cortex prevents thalamocortical synapse maturation, maturation of inhibition in L4, develeopment of orientation selectivity, and formation of ODCs [#Kanold:2010]
+						* physiology evidence for activity relay in vitro and in vivo in somatosensory cortex
+						* physiology evidence for activity relay in vitro cat visual cortex (old disynaptic response Friauf&Shatz 1991 paper, possibly Hanganu 2001, 2002, and Hirsch &Luhmann2008)
+					* Ghosh/Kanold/Shatz subplate kainic acid excitotoxicity or immunotoxin work in cats suggests that subplate cells play a key role in ocular dominance column formation, but not known if this role is activity-dependent [#Ghosh:1990][#Ghosh:1992][#Kanold:2003]
+						* <del>P. Kanold</del> *No one knows if subplate cells in occipital cortex exhibit spontaneous activity during development*
+						* Only subplate cells in somatosensory cortex have been checked for spontaneous activity (Luhmann, Hanganu, also Kanold JNS 2012 work) [#Hanganu:2001][#Hanganu:2002][#Dupont:2006][#Kanold:2006][#Tolner:2012]
+					* Calcium waves
+						* have been observed in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex, but none of the following groups (Konnerth, Peinado, Moody, Yuste/Ikegaya) has checked occiptial cortex before eye opening: 
+							* <del>[#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]</del> *None of these groups has done occipital cortex in vitro*
 			* after eye opening
-				* TODO: Cossart visual cortex?
+				* UP-DOWN states in mouse visual cortex [#Cossart:2003]
+					* P14-P21 C57/BL6 brain slices
+					* multicellular two-photon calcium imaging with Fura2 and patch clamp recordings
+					* all cortical layers 2-5 imaged
+					* average interval of synchronous population events was 55 ± 4 s (peak synchrony in histograms, considerably slower than slow oscillations of 0.1 - 0.5 Hz)
 		* in vivo
 			* early development - before eye opening
 				* Rat
@@ -385,6 +405,12 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 [#Zhou:2000]: Zhou, Z. J. and Zhao, D. (2000).  Coordinated transitions in neurotransmitter systems for the initiation and propagation of spontaneous retinal waves, J Neurosci, 20(17), 6570--6577
 
 [#Maffei:1990]: Maffei, L. and Galli-Resta, L. (1990).  Correlation in the discharges of neighboring rat retinal ganglion cells during prenatal life, Proc Natl Acad Sci U S A, 87(7), 2861-2864
+
+[#Wong:1999]: Wong, R. O. (1999).  Retinal waves and visual system development, Annu Rev Neurosci, 22(), 29-47
+
+[#Demas:2012]: Demas, J. A., Payne, H., and Cline, H. T. (2012).  Vision drives correlated activity without patterned spontaneous activity in developing Xenopus retina, Dev Neurobiol, 72(4), 537-46
+
+[#Cossart:2003]: Cossart, R., Aronov, D., and Yuste, R. (2003).  Attractor dynamics of network UP states in the neocortex, Nature, 423(6937), 283-8
 
 
 
