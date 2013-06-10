@@ -3,6 +3,32 @@ Date: 2013-05-20 12:10:18
 
 # Activity dependent development of maps in the visual system #
 
+Our focus will be on activity-dependent development in the visual system before vision. See recent reviews for coverage of the molecular mechanisms underlying visual map development [#Cang:2013].
+
+Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
+
+* Fig1 Schematic of multimap alignment (somatosensory, visual) in SC
+* Fig2 Schematic of ephrinA/ephA countergradients in the retina, LGN, SC, and V1
+* Fig3 Schematic of retinotopy study methods-- focal DiI injections and intrinsic signal imaging
+* Fig4 Schematic of binocular alignment of retinotopy, ipsi and contra reversed N-T axis targeting for visuotopy and center out ephA gradients
+	* center out gradient (proposed by Sperry 1963) found for ephA found in developing retinas of human and ferrets ([#Huberman:2005]; Lambot2005)
+	* difficult to demonstrate in mice because of small number of RGCs projecting ipsilaterally (but Feldheim2000, Fig6c indicates it may infact be there)
+* Binocular matching of orientation tuning
+	* Hubel and Wiesel 1962, single cortical neurons are binocular yet selective for stimulus orientation and tuned to similar orientation through both eyes
+	* in carnivores and primates neurons with similar orientation preferences organized into columns (Hubel and Wiesel 1962; Grinvald 1986; Blasdel 1986)
+	* ...and the maps of orientation columns are binocularly matched [#Crair:1998]
+	* Two models?
+		* Hubel and Wiesel 1962 feed forward model
+			* orientation selectivity arises from arrangement of geniculate inputs and each neurons' preference determined by layout of elongated ON and OFF subregions in their receptive field
+		* Feed back models
+			* orientation selectivity is an emergent property of intracortical circuitry (Adorjan 1999; Ben-Yishai 1997; Somers 1995)
+	* Development
+		* orientation selectivity develops after retintopic mapping and eye specific segregation in dLGN and matures after eye opening ([#Espinosa:2012] [#Huberman:2008a]) 
+			* mice have no orientation columns but id. V1 neurons are highly selective [#Niell:2008] and prefer matched orientations through both eyes ([#Wang:2010b]; [#Sarnaik:2013])
+			* binocular matching of orientation preference depends on vision in mice [#Sarnaik:2013],  but significant ON-OFF subregion binocular correspondence exists independent of visual experience [#Sarnaik:2013]
+
+
+
 
 ## Activity type
 
@@ -222,7 +248,7 @@ Date: 2013-05-20 12:10:18
 						* retinal wave evidence in macaque monkey retina in vitro [#Warland:2006]
 							* occurs as early as E60, before start of eye specific segregation
 							* macaque monkey neocortical neurogenesis (E40, SP/L6), (E56 -- E100, L5 -- L2/3)
-							* *unknown, but due to gestational timing, waves likely to have greater influence on cell migration and cortical patterning than in lower mammals*
+							* *unknown, but due to gestational timing and length of development, waves likely to have greater influence on cell migration and cortical patterning than in lower mammals*
 								* both excitatory and inhibitory cell migration overlaps significantly with the period for retinal waves
 		* functional - physiological 
 			* synapse maturation
@@ -263,10 +289,18 @@ Date: 2013-05-20 12:10:18
 				* TODO: Crair, Stryker
 			* orientation selectivity
 				* TODO: Crair, Stryker
-				* TODO: Recent Fitzpatrick work
-				* TODO: ongoing J. Cang unpublished work? (look at abstr from SFN, our CSHL conf last year)
+				* TODO: Recent Fitzpatrick work?
+				* Orientation selectivity develops after retinotopic mapping and eye specific segregation in dLGN and matures after eye opening (see recent reviews [#Espinosa:2012] and [#Huberman:2008a]) 
+				* Mice have no orientation columns but individual V1 neurons are highly selective [#Niell:2008] and prefer matched orientations through both eyes ([#Wang:2010b]; [#Sarnaik:2013])
+				* Binocular matching of orientation preference depends on vision in mice [#Sarnaik:2013],  but significant ON-OFF subregion binocular correspondence develops completely independent of visual experience [#Sarnaik:2013]
+					* adult mice either normally reared or dark reared from birth or P11. single unit recordings (FHC high impedance tungsten) in V1 under urethane anesthesia. Spike triggered averaging (STA) with sinusoidal gratings. Also did flashed spots and PSTH analysis, same results.
+					* Fig 5 nice model showing how subregion correspondence gives rise to binocular matching positive or negative sign overlap and their results fit the postive sign overlap model for binocular matching
+					* Fig 6 shows subregion correspondence in absence of any light exposure
+						* distribution of binocular differences in RF orientation not uniformly distributed, even with DR (also no difference between DR0 DR11, thus any melanopsin not important for orientation maps) and centered around 0º difference
+						* large scale orientation maps and matching experience-independent [#Crair:1998] and develops in absence of coordinated binocular activity [#Godecke:1996]
+				
 			* direction selectivity
-				* TODO: Recent Konnerth peri-eye opening calcium imaging paper [#Rochefort:2011]
+				* Recent Konnerth peri-eye opening calcium imaging paper [#Rochefort:2011]
 					- calcium imaging in vivo
 					- L2/3 neurons mouse visual cortex
 					- early direction selectivity in orientation selective cells independent of visual experience 
@@ -277,7 +311,7 @@ Date: 2013-05-20 12:10:18
 		- Permissive
 			* Spatiotemporal pattern does not matter
 				* Perhaps just absolute levels of activity needed?
-				* homeostasis, celluar growth and survival?
+				* homeostasis, cellular growth and survival?
 		- Informative
 			* Spatiotemporal pattern does matter
 				* Temporal activity pattern
@@ -291,7 +325,7 @@ Date: 2013-05-20 12:10:18
 						* Coincident pre-post synaptic activity - Hebbian plasticity
 							* Dependent on NMDA-R?
 								* maybe yes?
-									* TODO:
+									* TODO: Constatine-paton, Colonnese elvax SC experiments
 									* HP Xu recent work?
 								* maybe not?
 									* LTD independent of NMDA-R activation in mouse [#Ziburkus:2009]
@@ -301,7 +335,7 @@ Date: 2013-05-20 12:10:18
 											* finds LTP after eye opening through critical period
 											* cites [#Butts:2007] for bidirectional synaptic strength changes in single LGN cells											
 									* L-type calcium channel plateau potentials at developing LGN neurons [#Lo:2002]
-									* retinogeniculate PSC bursting is independent of NMDAR activation (NMDAR1 ko mice, ex vivo, extracellular)[#Mooney:1996]
+									* retinogeniculate postsynaptic currents (periodic barrages of activity) is independent of NMDAR activation (NMDAR1 ko mice, ex vivo, extracellular)[#Mooney:1996]
 									* HP Xu recent work?
 							* Independent of NMDA-R?
 								* endocannabinoid induced LTD?
@@ -424,6 +458,12 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Rochefort:2011]: Rochefort, N. L., Narushima, M., Grienberger, C., Marandi, N., Hill, D. N., and Konnerth, A. (2011).  Development of direction selectivity in mouse cortical neurons, Neuron, 71(3), 425-32
 
+[#Cang:2013]: Cang, J. and Feldheim, D. A. (2013).  Developmental Mechanisms of Topographic Map Formation and Alignment, Annu Rev Neurosci, (), 
+
+[#Sarnaik:2013]: Sarnaik, R., Wang, B.-S., and Cang, J. (2013).  Experience-Dependent and Independent Binocular Correspondence of Receptive Field Subregions in Mouse Visual Cortex, Cereb Cortex, (), 
+
+[#Espinosa:2012]: Espinosa, J. S. and Stryker, M. P. (2012).  Development and plasticity of the primary visual cortex, Neuron, 75(2), 230-49
+
 
 
 
@@ -437,6 +477,7 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 [#Leamey:2009]: Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
 
 [#Blankenship:2010]: Blankenship, A. G. and Feller, M. B. (2010).  Mechanisms underlying spontaneous patterned activity in developing neural circuits, Nat Rev Neurosci, 11(1), 18-29
+
 
 
 
