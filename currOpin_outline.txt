@@ -18,6 +18,7 @@ Date: 2013-05-20 12:10:18
 * When?
 	* Before eye opening and experienced visual patterns
 		* Melanopsin
+			* slow time course melanoma activation of ipRGCs in rodent before eye opening S. Hattar work, other j. Hopkins and brown univ work
 	* After eye opening
 		* Hubel and Wiesel
 
@@ -35,7 +36,7 @@ Date: 2013-05-20 12:10:18
 	* patterns
 		* in vitro
 			* early development - before eye opening
-				* retinal waves
+				* Retinal waves
 					* Occur in all amniote species examined (turtle, chicken, rodent, rabbit, ferret, cat) [#Wong:1999], including monkey [#Warland:2006]
 						* chicken [#Wong:1998][#Catsicas:1998]
 						* turtle [#Sernagor:1996]
@@ -57,9 +58,9 @@ Date: 2013-05-20 12:10:18
 					* Ghosh/Kanold/Shatz subplate kainic acid excitotoxicity or immunotoxin work in cats suggests that subplate cells play a key role in ocular dominance column formation, but not known if this role is activity-dependent [#Ghosh:1990][#Ghosh:1992][#Kanold:2003]
 						* <del>P. Kanold</del> *No one knows if subplate cells in occipital cortex exhibit spontaneous activity during development*
 						* Only subplate cells in somatosensory cortex have been checked for spontaneous activity (Luhmann, Hanganu, also Kanold JNS 2012 work) [#Hanganu:2001][#Hanganu:2002][#Dupont:2006][#Kanold:2006][#Tolner:2012]
-					* Calcium waves
-						* have been observed in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex, but none of the following groups (Konnerth, Peinado, Moody, Yuste/Ikegaya) has checked occiptial cortex before eye opening: 
-							* <del>[#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]</del> *None of these groups has done occipital cortex in vitro*
+				* Calcium waves
+					* have been observed in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex, but none of the following groups (Konnerth, Peinado, Moody, Yuste/Ikegaya) has checked occiptial cortex before eye opening: 
+						* <del>[#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]</del> *None of these groups has done occipital cortex in vitro*
 			* after eye opening
 				* UP-DOWN states in mouse visual cortex [#Cossart:2003]
 					* P14-P21 C57/BL6 brain slices
@@ -265,7 +266,12 @@ Date: 2013-05-20 12:10:18
 				* TODO: Recent Fitzpatrick work
 				* TODO: ongoing J. Cang unpublished work? (look at abstr from SFN, our CSHL conf last year)
 			* direction selectivity
-				* TODO: Recent Konnerth peri-eye opening calcium imaging paper
+				* TODO: Recent Konnerth peri-eye opening calcium imaging paper [#Rochefort:2011]
+					- calcium imaging in vivo
+					- L2/3 neurons mouse visual cortex
+					- early direction selectivity in orientation selective cells independent of visual experience 
+					- unmodified by dark rearing
+					- authors conclude dev dir sel distinctly different in in mice from ferrets
 				* TODO: Recent Fitzpatrick work (the reprogramming of selectivity)
 	* How?
 		- Permissive
@@ -412,16 +418,21 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Cossart:2003]: Cossart, R., Aronov, D., and Yuste, R. (2003).  Attractor dynamics of network UP states in the neocortex, Nature, 423(6937), 283-8
 
-
-
+[#Kanold:2010]: Kanold, P. O. and Luhmann, H. J. (2010).  The subplate and early cortical circuits, Annu Rev Neurosci, 33(), 23-48
 
 [#Zheng:2006a]: Zheng, J., Lee, S., and Zhou, Z. J. (2006).  A transient network of intrinsically bursting starburst cells underlies the generation of retinal waves, Nat Neurosci, 9(3), 363-71
 
-[#Ruthazer:2010a]: Ruthazer, E. S., Bachleda, A. R., and Olavarria, J. F. (2010).  Role of interstitial branching in the development of visual corticocortical connections: a time-lapse and fixed-tissue analysis, J Comp Neurol, 518(24), 4963-79
-
 [#Rochefort:2011]: Rochefort, N. L., Narushima, M., Grienberger, C., Marandi, N., Hill, D. N., and Konnerth, A. (2011).  Development of direction selectivity in mouse cortical neurons, Neuron, 71(3), 425-32
 
+
+
+
+
+[#Ruthazer:2010a]: Ruthazer, E. S., Bachleda, A. R., and Olavarria, J. F. (2010).  Role of interstitial branching in the development of visual corticocortical connections: a time-lapse and fixed-tissue analysis, J Comp Neurol, 518(24), 4963-79
+
 [#Bock:2012]: Bock, A. S., Kroenke, C. D., Taber, E. N., and Olavarria, J. F. (2012).  Retinal input influences the size and corticocortical connectivity of visual cortex during postnatal development in the ferret, J Comp Neurol, 520(5), 914-32
+
+
 
 [#Leamey:2009]: Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
 
