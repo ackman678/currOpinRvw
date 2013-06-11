@@ -286,9 +286,9 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* epibatidine injections and tracer injections
 					* ocular dominance bias index with extracellular microelectrode recordings
 					* spontaneous cholinergic activity in retina required for cortical ODC formation
-				* TODO: Crair, Stryker
+				* ODC and orientation selectivity maps in cat independent of visual experience [#Crair:1998]
 			* orientation selectivity
-				* TODO: Crair, Stryker
+				* ODC and orientation selectivity maps in cat independent of visual experience [#Crair:1998]
 				* TODO: Recent Fitzpatrick work?
 				* Orientation selectivity develops after retinotopic mapping and eye specific segregation in dLGN and matures after eye opening (see recent reviews [#Espinosa:2012] and [#Huberman:2008a]) 
 				* Mice have no orientation columns but individual V1 neurons are highly selective [#Niell:2008] and prefer matched orientations through both eyes ([#Wang:2010b]; [#Sarnaik:2013])
@@ -372,7 +372,6 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 						* Wave propagation failure in vitro because of some combination of in vitro conditions such as bath medium, temperature, and cut connections?
 					* Wave direction along VT - DN axis in vitro [#Stafford:2009] and in vivo [#Ackman:2012]
 						* This makes the wavefront axis perpindicular to preferred axis for activity mediated refinement
-
 
 
 
@@ -464,7 +463,7 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Espinosa:2012]: Espinosa, J. S. and Stryker, M. P. (2012).  Development and plasticity of the primary visual cortex, Neuron, 75(2), 230-49
 
-
+[#Crair:1998]: Crair, M. C., Gillespie, D. C., and Stryker, M. P. (1998).  The role of visual experience in the development of columns in cat visual cortex, Science, 279(5350), 566-70
 
 
 
