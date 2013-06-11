@@ -457,9 +457,9 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Rochefort:2011]: Rochefort, N. L., Narushima, M., Grienberger, C., Marandi, N., Hill, D. N., and Konnerth, A. (2011).  Development of direction selectivity in mouse cortical neurons, Neuron, 71(3), 425-32
 
-[#Cang:2013]: Cang, J. and Feldheim, D. A. (2013).  Developmental Mechanisms of Topographic Map Formation and Alignment, Annu Rev Neurosci, (), 
+[#Cang:2013]: Cang, J. and Feldheim, D. A. (2013).  Developmental Mechanisms of Topographic Map Formation and Alignment, Annu Rev Neurosci, (),
 
-[#Sarnaik:2013]: Sarnaik, R., Wang, B.-S., and Cang, J. (2013).  Experience-Dependent and Independent Binocular Correspondence of Receptive Field Subregions in Mouse Visual Cortex, Cereb Cortex, (), 
+[#Sarnaik:2013]: Sarnaik, R., Wang, B.-S., and Cang, J. (2013).  Experience-Dependent and Independent Binocular Correspondence of Receptive Field Subregions in Mouse Visual Cortex, Cereb Cortex, (),
 
 [#Espinosa:2012]: Espinosa, J. S. and Stryker, M. P. (2012).  Development and plasticity of the primary visual cortex, Neuron, 75(2), 230-49
 
