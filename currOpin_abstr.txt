@@ -1,11 +1,3 @@
-<!-- Title: Current Opinion in Neurobiology review title and abstract
-Date: 2013-06-11 14:16:47  -->
-
-# Title
-
-Role of emergent neural activity in visual map development
-
-
 # Abstract
 
 Much of the structure and function of the nervous system is constructed independent of sensory experience. 

@@ -1,7 +1,3 @@
-<!-- Title: Current Opinion in Neurobiology review
-Date: 2013-06-11 14:16:47  -->
-
-
 # Introduction
 
 It seems like a chicken and egg issue-- genes setup the neurons that emit rhe spontaneous activity but by this reasoning we should all only be studying the handful of genes needed to make a stem cell.
