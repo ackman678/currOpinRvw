@@ -1,0 +1,17 @@
+<!-- Title: Current Opinion in Neurobiology review main text  
+Date: 2013-06-11 14:16:47  -->
+
+
+# Spontaneous activity in the visual system: What, Where, and When? 
+
+
+How pertinent these patterns of spontaneous activity recorded in vitro are to those that would occur within neuronal networks of an intact developing animal is not clear. Though synchronized oscillatory activity has been documented in the neonatal rodent cerebral cortex in vivo \cite{Khazipov:2004,Leinekugel:2002}, ascribing a functional role to these early cortical patterns has been difficult since there is currently no straighforward way to selectively manipulate spontaneous activity in cortex. Using dual microelectrode recordings in the embryonic rat retina in utero, one laboratory has revealed spontaneous correlated discharges from neighboring retinal ganglion cells (RGCs) \cite{Galli:1988,Maffei:1990}. Studies detailing the mechanisms of spontaneous retinal wave generation have been only been performed in vitro \cite{Wong:1993,Zhou:2000}, but have indicated that these synchronized oscillatory patterns prevail in retinas of newborn animals before eye opening and can play a role in retinotopic refinement \cite{Penn:1998,Stellwagen:2002,McLaughlin:2003,Chandrasekaran:2005}. Direct evidence in vivo for transmission of spontaneous retinal activity to the targets of RGC afferents, the lateral geniculate nucleus (LGN) and the superior colliculus (SC), has come from one study performed in ferret LGN several days before eye opening when refinement of retinogeniculate afferents is largely complete \cite{Weliky:1999}. Thus, it is not known whether spontaneous retinal waves can drive coherent firing patterns in the postsynaptic targets of RGC afferents. Attaining a better understanding of spontaneous network dynamics within intact neural circuits will be critical for inferring how correlated activity can mediate circuit development.
+
+
+# Spontaneous retinal activity functions in anatomical visual circuit development
+
+# Spontaneous retinal activity in functional visual map development
+
+# Mechanisms of activity-dependent visual circuit development before vision
+
+

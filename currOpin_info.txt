@@ -29,6 +29,10 @@ Jupiter Florida 33458
 
 Huang, Z. J. and Scheiffele, P. (2008).  GABA and neuroligin signaling: linking synaptic activity and adhesion in inhibitory synapse development, Curr Opin Neurobiol, 18(1), 77--83
 	**3077 words, 2 figures** (2 schematics)
+	* Abstr 149 words
+	* Intro 540 words
+	* 4 subsections
+	* Conclusion 196 words
 
 Feller, M. B. and Scanziani, M. (2005).  A precritical period for plasticity in visual cortex, Curr Opin Neurobiol, 15(1), 94--100
 	**3900 words, 1 table**
@@ -36,6 +40,10 @@ Feller, M. B. and Scanziani, M. (2005).  A precritical period for plasticity in 
 
 Huberman, A. D. (2007).  Mechanisms of eye-specific visual circuit development, Curr Opin Neurobiol, 17(1), 73-80
 	**3600 words, 3 figures** (2 schematics, 1 primary data)
+	* Abstr 111 words
+	* Intro 225 words
+	* 8 subsections
+	* Conclusion 134 words
 
 Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
 	**3200 words, 2 figures** (schematics, including nice visual field/ephrin, ABCcba visual circuit diagram)
