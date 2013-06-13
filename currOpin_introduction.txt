@@ -1,8 +1,15 @@
 # Introduction
 
-It seems like a chicken and egg issue-- genes setup the neurons that emit rhe spontaneous activity but by this reasoning we should all only be studying the handful of genes needed to make a stem cell.
+It seems like a chicken and egg issue-- genes setup the neurons that emit rhe spontaneous activity but by this reasoning we'd all only be studying the handful of genes needed to make a stem cell.
 
-The interactions greatly increase the complexity that these informations can provide-- not just gene x1-xn, but x1-xn X 
+As shown by the turtle genome sequence-- it's not what a gene is that matters, it is the amount and dosages as well as when and where it is expressed that matters. And these regulations are not all intrinsic, the gene regulations result from interactions with other factors. These can be interactions with other factors intrinsic or extrinsic to the local intracellular and extracellular environment. These can be genetic factors, environmental factors cellular byproducts of genetic factors such as other gene products downstream consequences in the cellular environment inluding chemical and electrical signals
+
+The **interactions** greatly increase the complexity that these informations can provide-- the information is not just gene1-geneN, but geneN-geneN X geneN-geneN X time1-timeN X location1-locationN X intrinsicFactor1-intrinsicFactorN X extrinsicFactor1-extrinsicFactorN
+
+* All our best evidence on the function of spontaneous activity in visual map development comes from tracer injections. This vastly underestimates influence of spontaneous activity in quicker developing species than in slower developing species. Advantage is its simplicity and ease of quantification as an assay. Need new assays of map formation that directly measure synapse formation spatially and at massive scale, such as transsynaptic assays of synapse formation that are standardized and quantifiable.
+	* Or work on species with longer gestational timecourse-- turtles, chicks?
+
+* amount of membrane surface area regulated by molecular vs activity-dependent processes.  Vastly more nervous membrane regulated by activity-- even spontaneous activity!
 
 Spontaneous electrical activity is a self-organized property of neuronal circuits that emerges in the absence of sensory input. During development, immature networks of neurons exhibit spontaneous patterned activity, even before the onset of sensory experience. For example, it is well established that isolated perinatal preparations of spinal cord, retina, or cerebral cortex can exhibit periodic locally correlated activity among groups of neurons or widespread wave-like activity across populations spontaneously \cite{Marder:2005,Meister:1991,Wong:1993,Garaschuk:2000}. It is generally thought that these coherent patterns of spontaneous activity displayed by immature neurons could play a important role in directing the refinement of neural circuits, such as those underlying topographic maps in the somatosensory or visual systems, perhaps through Hebbian learning rules \cite{Hebb:1949}. The existence of spontaneous, patterned activity within immature neuronal groups before the onset of sensory experience may provide neccessary information that allows coactive cells to wire together.
 
