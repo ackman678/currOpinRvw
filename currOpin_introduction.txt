@@ -1,5 +1,13 @@
 # Introduction
 
+A considerable amount of visual circuit structure and function develops independent of sensory experience in reptiles, birds, and mammals. Molecular genetic factors coded for by the genome don't act alone, they interact with factors local and external to the cellular environment.  Yet proper formation of visual maps before vision proceeds in a neural activity-dependent fashion. Indeed, neurotransmission and more speicifically spatiotemporal patterns of neural activity emerge in the cellular evnroeonmetn setup by intrinsic genetic programs. These spontaneous patterns of activty increase the informational complexity that the genome can carry by serving to scuplt neural architecture and synaptic connections so that the nervous system can begin performing computations relevant for visual behavior, learning, and memory at the start of vision. 
+
+The main function is likely to provide training patterns in the absence of patterned sensory experience that to tie into motor systems
+
+Disproportionate influence on higher order connectivity in visual circuits and similar mechanisms" are likely harnesses for other systems that develop without any sensori-motor for a substantial gestational period. 
+
+Essentially we are underestimating the importance of these activities.
+
 It seems like a chicken and egg issue-- genes setup the neurons that emit rhe spontaneous activity but by this reasoning we'd all only be studying the handful of genes needed to make a stem cell.
 
 As shown by the turtle genome sequence-- it's not what a gene is that matters, it is the amount and dosages as well as when and where it is expressed that matters. And these regulations are not all intrinsic, the gene regulations result from interactions with other factors. These can be interactions with other factors intrinsic or extrinsic to the local intracellular and extracellular environment. These can be genetic factors, environmental factors cellular byproducts of genetic factors such as other gene products downstream consequences in the cellular environment inluding chemical and electrical signals

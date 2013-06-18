@@ -4,6 +4,8 @@ Tags: paper, draft, manuscript, literature, research, retinal waves, Spontaneous
 Title: Current Opinion in Neurobiology review index
 
 
+<<[currOpin_title.txt]
+
 <<[currOpin_abstr.txt]
 
 <<[currOpin_introduction.txt]
