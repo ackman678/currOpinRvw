@@ -1,6 +1,12 @@
 # Introduction
 
+Proper visual map formation depends not only on innate genetic programs, but also on factors intrinsic to the cellular environment such as spontaneous electrical activity among excitable cells.
+
 A considerable amount of visual circuit structure and function develops independent of sensory experience in reptiles, birds, and mammals. Molecular genetic factors coded for by the genome don't act alone, they interact with factors local and external to the cellular environment.  Yet proper formation of visual maps before vision proceeds in a neural activity-dependent fashion. Indeed, neurotransmission and more speicifically spatiotemporal patterns of neural activity emerge in the cellular evnroeonmetn setup by intrinsic genetic programs. These spontaneous patterns of activty increase the informational complexity that the genome can carry by serving to scuplt neural architecture and synaptic connections so that the nervous system can begin performing computations relevant for visual behavior, learning, and memory at the start of vision. 
+
+and their synaptic and non-synaptic mechanisms of action 
+
+will be important to address into the future gene-environment interactions in disease models. 
 
 Is temearptaure dependentce of wave frequencey an evoluatioanary adapataiton givign waxves thea bility to code for reduncty in  map fpromations== such as darker periods )comet_ means colder tempeatures, and eincresase ned ofr higher visual cirucutis to respond to larege areas of the retina for imporved night vision?
 
