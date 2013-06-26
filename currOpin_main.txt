@@ -1,14 +1,68 @@
+Author: James B. Ackman  
+Date: 2013-06-26 16:49:43  
+
+
+# Role of emergent neural activity in visual map development
+
+
+# Abstract
+
+The structural and functional development of visual circuits in reptiles, birds, and mammals happens largely independent of sensory experience. Innate genetic programs code for gradients of molecules which provide gross positional information for developing nerve cells, yet much of the cytoarchitectural complexity and synaptogenesis of neurons depends on calcium influx, neurotransmitter release, and neural activity before the start of vision. In fact, specific spatiotemporal patterns of neural activity, retinal waves, emerge among the earliest connections made between excitable cells in the developing eye. These patterns of spontaneous activity, which have been recorded from all amniote retinae examined to date, may be an evolved adaptation for species having long gestational periods before the start of vision, imparting an informational robustness and redundancy for the development of visual maps across the nervous system. Recent experiments indicate that retinal waves play a crucial role in the development of interconnections between different parts of the visual system, suggesting that these spontaneous patterns serve as a template-matching mechanism to prepare higher-order visually-associative circuits for the onset of visuomotor learning and behavior. Key questions in future studies will include determining the exact sources and nature of spontaneous activity during development, characterizing the interactions between neural activity and transcriptional regulation, and understanding the extent of circuit connectivity governed by retinal waves within and between sensory-motor systems.
+
+
+
+# Introduction
+
+The visual system is organized so that visual information relayed through the optic nerve is processed in a set of hierarchal neural maps distributed throughout in the thalamus, midbrain, and cortex. Proper visual map formation depends not only on innate genetic programs, The development of proper visual circuitry requires coordinated matching of reciprocal connections among these different areas.  All biological tissues are governed by intrinsic genetic programs and shaped by environmental influences, but the nervous system has a special amount of influence in this regard in that a primary function is to detect changes in the environment and relay nerve impulses. A considerable amount of visual circuit structure and function develops independent of visual experience. This was noted by Hubel and Wiesel:
+> ferrier lecture quote
+Proper visual map formation depends not only on innate genetic programs, but also on factors intrinsic to the cellular environment such as spontaneous electrical activity among excitable cells.
+
+Molecular genetic factors coded for by the genome don't act alone, they interact with factors local and external to the cellular environment.  Yet proper formation of visual maps before vision proceeds in a neural activity-dependent fashion. Indeed, neurotransmission and more specifically spatiotemporal patterns of neural activity emerge in the cellular environment setup by intrinsic genetic programs. These spontaneous patterns of activity increase the informational complexity that the genome can carry by serving to sculpt neural architecture and synaptic connections so that the nervous system can begin performing computations relevant for visual behavior, learning, and memory at the start of vision. 
+
+Classical experiments in cat visual cortex demonstrated that a critical period exists for remapping of ocular dominance domains\cite{Wiesel:1963}. More complex aspects of sensory processing such as selection for direction of visual stimuli in visual cortex\cite{White:2007,Li:2008} or cross-modal representation of retinotopic with auditory space maps in the optic tectum\cite{Knudsen:2002} have been shown to require activity-dependent information for proper establishment.
+
+##Intrinsic mechanisms of circuit formation
+Though sensory experience has a clear role in directing the refinement of synaptic connectivity, much of the coarse topography of neural circuits is established by molecular signalling early in development. For example, signalling gradients via Eph receptor tyrosine kinases and their ephrin ligands mediate much of the rostro-caudal and medio-lateral targeting of retinal ganglion cell afferents within the superior colliculus/optic tectum\cite{Lemke:2005}. The initial connectivity between axons and their target cells produces functional neuronal networks that are appropriate enough to make some aspects of visual processing available before the onset of sensory experience, such as retinotopy, ocular dominance, and orientation selectivity in the optic tectum and visual cortex\cite{Rakic:1976,Holt:1983,Crair:1998,Crowley:2000}.
+
+
+##Spontaneous activity in developing circuits
+Spontaneous oscillations play a prominent yet unclear role in brain function. Some of these rhythms could be an emergent property in circuits of neurons that have been recently used during awake states, such as the reactivation of neuronal groups during sleep that have been recently involved in a spatial memory\cite{Lee:2002}, thus strengthening the connections between them. Though it is unknown precisely how spontaneous oscillations arise within immature networks, there are numerous examples demonstrating that they do-- such as the spontaneous activity found in cultures of isolated neurons\cite{Mazzoni:2007}, as well as immmature in spinal cord\cite{Marder:2005}, retina\cite{Maffei:1990,Meister:1991}, and cortical circuits\cite{Leinekugel:2002,Khazipov:2006}. Spontaneous correlated activty may serve to strengthen the synaptic weights between coactive cells through voltage-dependent calcium influx that mediates downstream changes in transcriptional regulation. Alterations in gene expression may then lead to increased receptor clustering at existing synapses or formation of entirely new synapses with nearby cells. Evidence of a role for spontaneous activity-dependent refinement of neural circuits has been demonstrated in retinogeniculate, retinocollicular, and retinotectal topographic circuits\cite{Stellwagen:2002,McLaughlin:2003,Chandrasekaran:2005,Huberman:2006}.
+
+In this review we discuss recent evidence that clarifies the roles for spontaneous activity in visual map development and the nature of what the underlyiung activity is. We refer the reader to recent reviews on how patterned spontaneous activity is generated within developing neural circuits as well as a review of the molecular signalling gradients that can provide gross positional information for growing cells.
+
+
+
+
+
+
+
+
 
 # Spontaneous activity in the visual system: What, Where, and When? 
 
 
-How pertinent these patterns of spontaneous activity recorded in vitro are to those that would occur within neuronal networks of an intact developing animal is not clear. Though synchronized oscillatory activity has been documented in the neonatal rodent cerebral cortex in vivo \cite{Khazipov:2004,Leinekugel:2002}, ascribing a functional role to these early cortical patterns has been difficult since there is currently no straighforward way to selectively manipulate spontaneous activity in cortex. Using dual microelectrode recordings in the embryonic rat retina in utero, one laboratory has revealed spontaneous correlated discharges from neighboring retinal ganglion cells (RGCs) \cite{Galli:1988,Maffei:1990}. Studies detailing the mechanisms of spontaneous retinal wave generation have been only been performed in vitro \cite{Wong:1993,Zhou:2000}, but have indicated that these synchronized oscillatory patterns prevail in retinas of newborn animals before eye opening and can play a role in retinotopic refinement \cite{Penn:1998,Stellwagen:2002,McLaughlin:2003,Chandrasekaran:2005}. Direct evidence in vivo for transmission of spontaneous retinal activity to the targets of RGC afferents, the lateral geniculate nucleus (LGN) and the superior colliculus (SC), has come from one study performed in ferret LGN several days before eye opening when refinement of retinogeniculate afferents is largely complete \cite{Weliky:1999}. Thus, it is not known whether spontaneous retinal waves can drive coherent firing patterns in the postsynaptic targets of RGC afferents. Attaining a better understanding of spontaneous network dynamics within intact neural circuits will be critical for inferring how correlated activity can mediate circuit development.
-
 
 # Spontaneous retinal activity functions in anatomical visual circuit development
 
+
+
 # Spontaneous retinal activity in functional visual map development
 
+
+
 # Mechanisms of activity-dependent visual circuit development before vision
+
+
+
+
+
+
+
+
+
+# Conclusion
+
+
+
 
 
