@@ -256,6 +256,9 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* Increased AMPA/NMDA ratios and AMPA quantal amplitudes during first postnatal week [#Shah:2008]
 					* burst activation in vitro capable of inducing LTP [#Shah:2008]
 					* delayed maturation and greater LTP at beta2-/- nAchR ko synapses [#Shah:2008]
+			* retinogeniculate synapse
+				* Chinfei Chen work (Hooks and Chen DOI 10.1016/j.neuron.2006.07.007) [#Hooks:2006]
+
 			* retinotopy
 				* Retinotopic map refinement requires retinal waves in SC [#McLaughlin:2003]
 					* beta2 nAchR ko mice, focal DiI tracer injections into retina
@@ -297,8 +300,7 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* Fig 5 nice model showing how subregion correspondence gives rise to binocular matching positive or negative sign overlap and their results fit the postive sign overlap model for binocular matching
 					* Fig 6 shows subregion correspondence in absence of any light exposure
 						* distribution of binocular differences in RF orientation not uniformly distributed, even with DR (also no difference between DR0 DR11, thus any melanopsin not important for orientation maps) and centered around 0º difference
-						* large scale orientation maps and matching experience-independent [#Crair:1998] and develops in absence of coordinated binocular activity [#Godecke:1996]
-				
+						* large scale orientation maps and matching experience-independent [#Crair:1998] and develops in absence of coordinated binocular activity [#Godecke:1996]				
 			* direction selectivity
 				* Recent Konnerth peri-eye opening calcium imaging paper [#Rochefort:2011]
 					- calcium imaging in vivo
@@ -464,6 +466,10 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 [#Espinosa:2012]: Espinosa, J. S. and Stryker, M. P. (2012).  Development and plasticity of the primary visual cortex, Neuron, 75(2), 230-49
 
 [#Crair:1998]: Crair, M. C., Gillespie, D. C., and Stryker, M. P. (1998).  The role of visual experience in the development of columns in cat visual cortex, Science, 279(5350), 566-70
+
+[#Hooks:2006]: Hooks, B. M. and Chen, C. (2006).  Distinct roles for spontaneous and visual activity in remodeling of the retinogeniculate synapse, Neuron, 52(2), 281-91
+
+
 
 
 [#Ruthazer:2010a]: Ruthazer, E. S., Bachleda, A. R., and Olavarria, J. F. (2010).  Role of interstitial branching in the development of visual corticocortical connections: a time-lapse and fixed-tissue analysis, J Comp Neurol, 518(24), 4963-79
