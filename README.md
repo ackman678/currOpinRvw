@@ -14,7 +14,7 @@ You can use ['Markdown' style formatting](http://daringfireball.net/projects/mar
 
 The `currOpin_outline.txt` file is also in markdown format and was rendered as html and pdf and saved using the [Marked](http://markedapp.com) markdown preview application. 
 
-[View the review outline](currOpin_outline.html)
+[View the review outline](currOpin_outline.md)
 
 
 ## macaque monkey neocortical neurogenesis
