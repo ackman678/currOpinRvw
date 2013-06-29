@@ -10,7 +10,7 @@
 # Info
 *  The `currOpin_main.txt` file is just a plain text file you can work in **any** text editing application. 
     * For Mac OSX TextEdit or [WriteRoom](http://www.hogbaysoftware.com/products/writeroom) or Byword is recommended. 
-    * For iOS WriteRoom, Byword, Notesy, or Nebulous Notes is recommended. 
+    * For iOS WriteRoom, Byword, [Notesy](http://notesy-app.com), or Nebulous Notes is recommended. 
     * For Windows, Notepad++ is recommended.
     * If you prefer to write in Microsoft Word, just make sure to save as **plain** text file for now.
 
