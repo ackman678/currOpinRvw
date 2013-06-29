@@ -24,10 +24,31 @@
 
 ![View the review outline pdf](currOpin_outline.pdf)
 
-### Sample table: macaque monkey neocortical neurogenesis
+
+
+### Primate fetal development
+
+Vanhatalo Eur J Neurosci 2005. Preterm human infant occipital cortex EEG recordings at 32 - 46 weeks conception age; 30 - 44 weeks pregnancy/gestation age
+
+Chalupa in vitro macaque retinal wave recording works done at E51 - E76.  Retinal waves first occurred at E60 (>100 d. before birth).
+
+Pasko unilateral enucleation experiments at E60-90 in macaque. Dramatically altered LGN layers and ODCs in cortex abolished (1981, 1988 Science review).
+H. Kennedy bilateral enucleation experiments at same age, nissl is fine in visual cortex but Area 17 surface area dramatically shrunken, less 'radial units'.
+
+macaque monkey neocortical neurogenesis
 
 age | layer
 --- | ---
 E40 | subplate, L6
 E56 | L5
 E100 | L2/3
+
+Macaque monkeys are born at E165 (full term), maybe as early as E140. 
+
+### Calculate when human retinal waves likely to occur
+
+E60 monkey retinal waves / E165 monkey full term == x human retinal waves / E266  human full term
+x = **E96 = 14 weeks.  Beginning of second trimester**
+
+So human retinal waves likely occur from at least the beginning of the second trimester (overlapping with thalamocortical targeting and upper layer cortical neurogenesis). In relation to when mouse and ferret retinal waves occur, it would appear that the human retinal waves would continue to into the early to mid third trimesters (when the retina is able to detect light). *But since patterned vision has not begun till human birth, is it possible that retinal waves or some other intrinsic activity pattern serves to provide visual circuit activation until birth?*  In any case, the likely timing of retinal waves in primates sets these spontaneous activity patterns up for having a disproportionate influence on higher order connectivity within and between different sub-cortical and cortical areas. 
+
