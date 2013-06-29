@@ -8,12 +8,14 @@
 
 
 # Info
-* Since it's just a plain text file you can work in a text editing application like TextEdit or [WriteRoom](http://www.hogbaysoftware.com/products/writeroom) is recommended. 
+*  The `currOpin_main.txt` file is just a plain text file you can work in a text editing application like TextEdit or [WriteRoom](http://www.hogbaysoftware.com/products/writeroom) is recommended. 
     * If you prefer to write in Word, just make sure to save as **plain** text file for now.
 
-* You can use ['Markdown' style formatting](http://daringfireball.net/projects/markdown/syntax) (that is how the document and outline and even this README is currently formatted. GitHub is very markdown friendly).
+* This main.txt file uses ['Markdown' style formatting](http://daringfireball.net/projects/markdown/syntax) which is completely optional (that is how the document and outline and even this README is currently formatted. GitHub is very markdown friendly).
 
-* The `currOpin_outline.txt` file is also in markdown format and was rendered as html and pdf and saved using the [Marked](http://markedapp.com) markdown preview application. 
+* Since `currOpin_outline.md` file also in markdown format and was rendered as html and pdf and saved using the [Marked](http://markedapp.com) markdown preview application. 
+
+* The .md extension is just an alternative to the .txt extension for plain text files to help applications know when a file should be rendered using markdown formatting.
 
 [View the review outline](currOpin_outline.md)
 
