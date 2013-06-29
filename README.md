@@ -8,8 +8,11 @@
 
 
 # Info
-*  The `currOpin_main.txt` file is just a plain text file you can work in a text editing application like TextEdit or [WriteRoom](http://www.hogbaysoftware.com/products/writeroom) is recommended. 
-    * If you prefer to write in Word, just make sure to save as **plain** text file for now.
+*  The `currOpin_main.txt` file is just a plain text file you can work in any text editing application. 
+    * For Mac OSX TextEdit or [WriteRoom](http://www.hogbaysoftware.com/products/writeroom) Byword is recommended. 
+    * For iOS WriteRoom, Byword, Notesy, or Nebulous Notes is recommended. 
+    * For Windows, Notepad++ is recommended.
+    * If you prefer to write in Microsoft Word, just make sure to save as **plain** text file for now.
 
 * This main.txt file uses ['Markdown' style formatting](http://daringfireball.net/projects/markdown/syntax) which is completely optional (that is how the document and outline and even this README is currently formatted. GitHub is very markdown friendly).
 
