@@ -53,12 +53,23 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 
 ### Spontaneous
 
+* When?
+	* Before eye opening and experienced visual patterns
+		* Before birth for some species
+			* rabbit [#Zhou:2000][#Zheng:2006a], monkey [#Warland:2006], human [#Vanhatalo:2005][#Colonnese:2010a], cat [#Meister:1991]
+		* After birth for some species
+			* rodent [#Ackman:2012][#Hanganu:2006][#Colonnese:2010], rabbit [#Zhou:2000][#Zheng:2006a], ferret [#Meister:1991][#Wong:1993][#Feller:1996][#Weliky:1999][#Chiu:2002]
+	* <del>After eye opening</del>
+		* experiential pattern replay/dreams
+			* analogs to hippocampal - place cell replays (Wilson work) for learning and memory?
+			* Y. Dan visual pattern replay paper
+			* standing waves and fast travelling waves [#Benucci:2007]
 * What?
 	* species
-		* mammals
-			* can occur before vision-- long gestational timecourse
-		* non-mammalian vertebrates
-			* does not occur before vision-- short gestation
+		* amniote vertebrates
+			* can occur before vision-- long gestational timecourse (at least 20-30+ d. before locomotor and visuomotor behavior).
+		* non-amniote vertebrates
+			* does not occur before vision-- short gestation (only a 3-6 d. before start of locomotor and visuomotor behavior).
 	* patterns
 		* in vitro
 			* early development - before eye opening
@@ -184,25 +195,14 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* an age when spontaneous activity likely to be glutamatergic driven waves involving on-off bipolar cells and when retinotopic refinement and ODC formation complete
 		* Human
 			* Slow activity transients in EEG signal in preterm human infants [#Vanhatalo:2005][#Colonnese:2010a] 
-* When?
-	* Before eye opening and experienced visual patterns
-		* Before birth for some species
-			* rabbit [#Zhou:2000][#Zheng:2006a], monkey [#Warland:2006], human [#Vanhatalo:2005][#Colonnese:2010a], cat [#Meister:1991]
-		* After birth for some species
-			* rodent [#Ackman:2012][#Hanganu:2006][#Colonnese:2010], rabbit [#Zhou:2000][#Zheng:2006a], ferret [#Meister:1991][#Wong:1993][#Feller:1996][#Weliky:1999][#Chiu:2002]
-	* <del>After eye opening</del>
-		* experiential pattern replay/dreams
-			* analogs to hippocampal - place cell replays (Wilson work) for learning and memory?
-			* Y. Dan visual pattern replay paper
-			* standing waves and fast travelling waves [#Benucci:2007]
 * Why?
-	* activity dependent circuit establishment and refinement-- lessons from other systems
+	* Activity dependent circuit establishment and refinement-- lessons from other systems
 		* cite R. Wong review
 		* *short blurb on other systems*
 		* chick neuromuscular junction (lichtmann sanes)
 		* spontaneous motor circuit activity V. Hamburger & (Petterssen Nature paper)
-	* activity dependent visual map development
-		* anatomical - structural
+	* Activity dependent visual map development
+		* Cellular anatomy and physiology
 			* axon growth
 				* xenopus, zebrafish literature?
 				* LGN and SC
@@ -219,7 +219,6 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 						* mouse
 							* Retinocollicular axon - retinotopic map refinement requires cholinergic retinal waves [#McLaughlin:2003]
 								* beta2 nAchR ko mice, focal DiI tracer injections into retina
-							* beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement, eye specific segregation [#Xu:2011]
 							* RGC refinement and deficits in beta2 nAchR ko occurs at the level of single RGCs [#Dhande:2011]
 				* cortex
 					* cortico-collicular axon arborizations [#Phillips:2011]. 
@@ -233,6 +232,8 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 				* Golgi or DiI analysis in ferret, cat, monkey, or rodent cortex?
 					* Ruthazer and Olavarria paper
 				* Golgi or DiI analysis in LGN or SC?
+				* Chronically Elevated cAMP Levels Have No Detectable Effect on Retinal Ganglion Cell Number or Dendritic Morphology [#Stellwagen:2002]
+				* Also old C. Niell paper in retina or someone else from Feller or Wong lab?
 			* dendritic refinement
 				* spine dynamics?
 					* TODO: xenopus literature?, H. Cline
@@ -250,15 +251,14 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 							* macaque monkey neocortical neurogenesis (E40, SP/L6), (E56 -- E100, L5 -- L2/3)
 							* *unknown, but due to gestational timing and length of development, waves likely to have greater influence on cell migration and cortical patterning than in lower mammals*
 								* both excitatory and inhibitory cell migration overlaps significantly with the period for retinal waves
-		* functional - physiological 
 			* synapse maturation
 				* retinocollicular synapse
 					* Increased AMPA/NMDA ratios and AMPA quantal amplitudes during first postnatal week [#Shah:2008]
 					* burst activation in vitro capable of inducing LTP [#Shah:2008]
 					* delayed maturation and greater LTP at beta2-/- nAchR ko synapses [#Shah:2008]
-			* retinogeniculate synapse
-				* Chinfei Chen work (Hooks and Chen DOI 10.1016/j.neuron.2006.07.007) [#Hooks:2006]
-
+				* retinogeniculate synapse
+					* Chinfei Chen work (Hooks and Chen DOI 10.1016/j.neuron.2006.07.007) [#Hooks:2006]
+		* Visual map structure and function
 			* retinotopy
 				* Retinotopic map refinement requires retinal waves in SC [#McLaughlin:2003]
 					* beta2 nAchR ko mice, focal DiI tracer injections into retina
@@ -274,6 +274,9 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 				* Altered retinotopic map in  beta2 nAChR-/- mice in SC (first order connections) [#Mrsic-Flogel:2005]
 					* using instrinsic signal imaging
 					* retinotopic map preferentially disrupted (elongated) along anterior-posterior (nasal-temporal) axis of SC
+				* Altered retinotopy in beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement [#Xu:2011]
+					* focal DiI tracer injections into retina
+					* functional MUA recordings in retina in vitro
 				* Altered retinotopic map in beta2 nAchR -/- mice in V1 (second order connections) [#Cang:2005]
 					* Intrinsic signal imaging of mouse V1 for visual space map
 					* Extracellular microelectrode recordings for single cell receptive fields
@@ -284,6 +287,12 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* Used ephA3ki/ki (knock in) mice crossed with beta2 nAchR -/- mice for the crucial experiment in Figure 6. 
 					* These mice have duplicated retinocollicular map, but only a single, non-matched corticocollicular projection when no cholinergic waves are present.
 			* eye specific segregation
+				* Altered binocular segregation in beta2 nAchR ko and transgenic mice show that nAChR mediated spontaneous activity in the retina is essential for retinotopic map refinement, eye specific segregation [#Xu:2011]
+					* tracer injections into retina
+					* functional MUA recordings in retina in vitro
+				* Altered binocular segregation in ferrets after cAMP injections [#Stellwagen:2002]
+					* tracer injections into retina
+					* functional calcium imaging and patch recordings in retina in vitro
 			* ocular dominance columns
 				* development of ODCs in ferret [#Huberman:2006]
 					* epibatidine injections and tracer injections
@@ -468,6 +477,9 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 [#Crair:1998]: Crair, M. C., Gillespie, D. C., and Stryker, M. P. (1998).  The role of visual experience in the development of columns in cat visual cortex, Science, 279(5350), 566-70
 
 [#Hooks:2006]: Hooks, B. M. and Chen, C. (2006).  Distinct roles for spontaneous and visual activity in remodeling of the retinogeniculate synapse, Neuron, 52(2), 281-91
+
+[#Stellwagen:2002]: Stellwagen, D. and Shatz, C. J. (2002).  An instructive role for retinal waves in the development of retinogeniculate connectivity, Neuron, 33(3), 357-367
+
 
 
 
