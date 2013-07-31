@@ -25,6 +25,9 @@ Jupiter Florida 33458
 
 ------------------------------------------------------------------------------------------
 
+# [Ten simple rules for writing a literature review](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003149)
+
+
 # Info on example reviews
 
 Huang, Z. J. and Scheiffele, P. (2008).  GABA and neuroligin signaling: linking synaptic activity and adhesion in inhibitory synapse development, Curr Opin Neurobiol, 18(1), 77--83

@@ -493,6 +493,8 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 [#Blankenship:2010]: Blankenship, A. G. and Feller, M. B. (2010).  Mechanisms underlying spontaneous patterned activity in developing neural circuits, Nat Rev Neurosci, 11(1), 18-29
 
+[#Bansal:2000]: Bansal, A., Singer, J. H., Hwang, B. J., Xu, W., Beaudet, A., and Feller, M. B. (2000).  Mice lacking specific nicotinic acetylcholine receptor subunits exhibit dramatically altered spontaneous activity patterns and reveal a limited role for retinal waves in forming ON and OFF circuits in the inner retina, J Neurosci, 20(20), 7672-81
+
 
 
 

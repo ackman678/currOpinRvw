@@ -33,11 +33,73 @@ In this review we discuss recent work that highlights the function of spontaneou
 
 # Spontaneous activity in the visual system: When, What, and Where? 
 
-Spontaneous oscillations play a prominent yet unclear role in brain function. Though it is unknown precisely how spontaneous oscillations arise within immature networks, there are numerous examples demonstrating that they do-- such as the spontaneous activity found in cultures of isolated neurons [#Mazzoni:2007], as well as immmature in spinal cord [#Marder:2005], retina [#Maffei:1990,Meister:1991], and cortical circuits [#Leinekugel:2002,Khazipov:2006]. The function of spontaneous correlated activity may be to strengthen the synaptic weights between coactive cells through voltage-dependent calcium influx that mediates downstream changes in transcriptional regulation. Adjustments in gene expression could result in synaptic modifications through changes in ion channel or neurotransmitter receptor function, changes in receptor clustering at existing synapses, or formation of entirely new synapses with nearby cells.
+Spontaneous oscillations play a prominent yet unclear role in brain function. Though it is unknown precisely how spontaneous oscillations of electrical activity arise within immature networks, there are numerous examples demonstrating that they do-- such as the spontaneous activity found in cultures of isolated neurons [#Mazzoni:2007], as well as immmature in spinal cord [#Marder:2005], retina [#Maffei:1990,Meister:1991], and cortical circuits [#Leinekugel:2002,Khazipov:2006]. The function of spontaneous correlated activity may be to strengthen the synaptic weights between coactive cells through voltage-dependent calcium influx that mediates downstream changes in transcriptional regulation. Adjustments in gene expression could result in synaptic modifications through changes in ion channel or neurotransmitter receptor function, changes in receptor clustering at existing synapses, or formation of entirely new synapses with nearby cells.
 
-So when do these spontaneous activities occur that can mediate these development achanges? Spontaneous osciallation occur after eye opening and maturation of the visual systema is complete such as standing waves and fast travelling waves [#Benucci:2007] (Y. Dan paper) that may serve a purpose in experiential pattern replay during sleep, such as occurs in the hippocampus with replay activations of place cells (M. Wilson). Yet spontaneous activity also occurs in the visual system before the onset of visual experience in all amniote species that have been examined [#Wong:1999]. Thus travelling 'retinal waves' of bursting activity sweeps across the retina before hatching or birth in some species including chicken, turtle, rabbit, monkey, and cat. In species more immature at birth, retinal waves occur after birth but before eye lid opening such as rodent, rabbit, and ferret. Thus amniote vertebratse have a long gestation al timecourse which gives the change for these patterns to develop. But in nonamniote vertantebraes, there is a short gestationl timecourse before that satar of loctmotr and visualmotor behavior, so much of th erole that psontaneou activity must subserve is mediatedd by sensory dependent activation. 
+So when do these spontaneous activities occur that can mediate these developmental changes? Spontaneous oscillations occur after eye opening and maturation of the visual system is complete such as standing waves and fast travelling waves [#Benucci:2007] (Y. Dan paper) that may serve a purpose in experiential pattern replay during sleep, such as occurs in the hippocampus with replay activations of place cells (M. Wilson). Yet spontaneous activity also occurs in the visual system before the onset of visual experience in all amniote species that have been examined [#Wong:1999]. Thus travelling 'retinal waves' of bursting activity sweeps across the retina before hatching or birth in some species including chicken, turtle, rabbit, monkey, and cat. In species more immature at birth, retinal waves occur after birth but before eye lid opening such as rodent, rabbit, and ferret. Thus amniote vertebrates have a long gestational timecourse which gives the change for these patterns to develop. But in non-amniote vertebrates, there is a short gestational timecourse before the beginning of locomotor and visuomotor behavior, so that the roles subserved by spontaneous activity can be be mediated by primarily sensory dependent activation in these species.
 
-What kind of activity is occuring elsewhere in the visual systesm. Subplate.. 
+What kind of activity is occurring elsewhere in the visual system from isolated model systems?. Slice physiology in subplate, calcium imaging in slice around eye opening. But what about in vivo?  Translating in vitro to in vivo can been a problem in studies of all sensorimotor systems...  
+
+			* Subplate --
+					* Subplate neurons are likely key to relaying oscillatory activity to developing cortical neurons Kanold and Luhmann review [#Kanold:2010] *Nice Ann Rev Neuosci review with summary table of references for species, cortical area, neurotransmitter, etc)*
+						* SPn removal in visual cortex prevents thalamocortical synapse maturation, maturation of inhibition in L4, develeopment of orientation selectivity, and formation of ODCs [#Kanold:2010]
+						* physiology evidence for activity relay in vitro and in vivo in somatosensory cortex
+						* physiology evidence for activity relay in vitro cat visual cortex (old disynaptic response Friauf&Shatz 1991 paper, possibly Hanganu 2001, 2002, and Hirsch &Luhmann2008)
+					* Ghosh/Kanold/Shatz subplate kainic acid excitotoxicity or immunotoxin work in cats suggests that subplate cells play a key role in ocular dominance column formation, but not known if this role is activity-dependent [#Ghosh:1990][#Ghosh:1992][#Kanold:2003]
+						* <del>P. Kanold</del> *No one knows if subplate cells in occipital cortex exhibit spontaneous activity during development*
+						* Only subplate cells in somatosensory cortex have been checked for spontaneous activity (Luhmann, Hanganu, also Kanold JNS 2012 work) [#Hanganu:2001][#Hanganu:2002][#Dupont:2006][#Kanold:2006][#Tolner:2012]
+				* Calcium waves
+					* have been observed in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex, but none of the following groups (Konnerth, Peinado, Moody, Yuste/Ikegaya) has checked occiptial cortex before eye opening: 
+						* <del>[#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]</del> *None of these groups has done occipital cortex in vitro*
+			* after eye opening
+				* UP-DOWN states in mouse visual cortex [#Cossart:2003]
+					* P14-P21 C57/BL6 brain slices
+					* multicellular two-photon calcium imaging with Fura2 and patch clamp recordings
+					* all cortical layers 2-5 imaged
+					* average interval of synchronous population events was 55 ± 4 s (peak synchrony in histograms, considerably slower than slow oscillations of 0.1 - 0.5 Hz)
+		* in vivo
+			* early development - before eye opening
+				* Rat
+					* Correlated bursting among RGCs [#Maffei:1990]
+					* 'Spindle bursts'
+						* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
+					* 'Slow activity transients'
+						* infra-slow LFP wave with nested fast oscillations
+							* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010]
+								* 87% of L4 MUA occured during slow activity transients
+								* extracellular recordings with glass electrode or multisite silicon probe
+									* age P5-P7
+										* peak frequency (8 - 31 Hz, mostly 18-30 Hz) and duration form single distribution (400 ms - 5 s), likely all continuous 'spindle burst' oscillations within the slow wave 
+									* age P9-P13
+										* short duration events (<400 ms) first prominent around P9-P10 and increased frequency of these events until becoming the most common type by P13
+										* very long duration (>5 s) encountered after P8 ('splitting of events with maturation')
+										* two populations of events encountered:
+											* long duration, beta band frequency (>5 s, 18-30 Hz)
+											* short duration, alpha band frequency (<3 s, 10 Hz)
+										* after P12 SATs less common and no longer dominant pattern-- continuous cortical activity and slow wave sleep (delta)
+
+				* Mouse
+					* retinal waves
+						* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
+						* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
+							* they possibly recorded some retinal waves? 
+							* but most activity was independent of retinal input, and more likely 'spindle bursts' 
+								* unknown if recordings were strictly from V1 or V2 (no method for identification)
+								* calcium recordings were not summed population signals
+							* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
+				* Human 
+					* 'Slow activity transients'
+						* infra-slow LFP wave with nested fast oscillations
+							* EEG field oscillations and bursting multiunit activity in visual cortex [#Vanhatalo:2005][#Colonnese:2010a] 
+			* around eye opening
+				* Ferret
+					* Correlated bursting activity among LGN and visual cortical neurons [#Weliky:1999][#Chiu:2002]
+				* Rat
+					* 'Spindle bursts'
+						* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
+					* 'Slow activity transients'
+						* infra-slow LFP wave with nested fast oscillations
+							* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
+
 
 
 
@@ -55,7 +117,7 @@ Functional synapse maturation at retinogeniculate (Hooks and Chen, 2006) and ret
 
 <!--- mcc from CON_Review_Crair.docx. Edited by jba 2013-07-16 12:02:18 --->
 
-The development of maps for visual stimulus features, such as retinotopy, ocular dominance and orientation, are also sensitive to the presence of ongoing spontaneous activity before eye opening. Disrupting retinal waves pharmacologically or genetically interferes with the development of both retinotopy and eye specific segregation in the dLGN and SC of mice (McLaughlin et al., 2003; Chandrasekaran et al., 2005) [#Stellwagen:2002]. In the SC, of retinocollicular target zones and individual axon arbors are enlarged in β2-/- mice, and preferentially elongated along the nasal-temporal axis of the retina, corresponding the visual field azimuth (Chandrasekaran et al., 2005; Dhande et a., 2011). Functional response properties of SC neurons are correspondingly impacted, with receptive fields dramatically enlarged, particularly along the visual field azimuth (Chadrasekaran et al., 2005; Mrsic-Flogel et al., 2005). In the dLGN, retinal ganglion cell axon arbors are similarly enlarged β2-/- mice <!--(pharmacology done???)-->, but rather than enlarged receptive fields in individual dLGN neurons, the retinotopic map is disrupted because the receptive field location is scattered, particularly along the visual field azimuth (Grubb et al., 2003). Remarkably, in both the dLGN (Grubb et al., 2003) and SC (Chandrasekaran et al., 2005) of β2-/- mice, the organization of response properties associated with on- or off-selectivity, which are not normally observed in mice, emerge. In the dLGN, on- and off-center cells are spatially segregated (Grubb et al., 2003), while in the SC, neurons become selective to either the onset or the offset of light stimulus, when they normally respond equally well to both. Thus, it appears that organization around new response features emerge in the dLGN and SC of β2-/- mice, possibly because of the delayed functional development of retinofugal synapses (Hooks and Chen, 2006; Shah and Crair, 2008) and the precocious presence of Stage III (glutamate receptor mediated) waves in β2-/- mice (Bansal et al., 2000).
+The development of maps for visual stimulus features, such as retinotopy, ocular dominance and orientation, are also sensitive to the presence of ongoing spontaneous activity before eye opening. Disrupting retinal waves pharmacologically or genetically interferes with the development of both retinotopy and eye specific segregation in the dLGN and SC of mice [#McLaughlin:2003][#Chandrasekaran:2005][#Stellwagen:2002]. In the SC, of retinocollicular target zones and individual axon arbors are enlarged in β2-/- mice, and preferentially elongated along the nasal-temporal axis of the retina, corresponding the visual field azimuth [#Chandrasekaran:2005]; Dhande et a., 2011). Functional response properties of SC neurons are correspondingly impacted, with receptive fields dramatically enlarged, particularly along the visual field azimuth [#Chandrasekaran:2005][#Mrsic-Flogel:2005]. In the dLGN, retinal ganglion cell axon arbors are similarly enlarged β2-/- mice <!--(pharmacology done???)-->, but rather than enlarged receptive fields in individual dLGN neurons, the retinotopic map is disrupted because the receptive field location is scattered, particularly along the visual field azimuth [#Grubb:2003]. Remarkably, in both the dLGN [#Grubb:2003] and SC [#Chandrasekaran:2005] of β2-/- mice, the organization of response properties associated with on- or off-selectivity, which are not normally observed in mice, emerge. In the dLGN, on- and off-center cells are spatially segregated [#Grubb:2003], while in the SC, neurons become selective to either the onset or the offset of light stimulus, when they normally respond equally well to both. Thus, it appears that organization around new response features emerge in the dLGN and SC of β2-/- mice, possibly because of the delayed functional development of retinofugal synapses [#Hooks:2006][#Shah:2008] and the precocious presence of Stage III (glutamate receptor mediated) waves in β2-/- mice [#Bansal:2000].
 
 
 
@@ -75,5 +137,8 @@ The development of maps for visual stimulus features, such as retinotopy, ocular
 
 
 
+
+
+# References
 
 
