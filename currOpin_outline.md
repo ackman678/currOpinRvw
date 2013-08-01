@@ -61,8 +61,8 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 			* rodent [#Ackman:2012][#Hanganu:2006][#Colonnese:2010], rabbit [#Zhou:2000][#Zheng:2006a], ferret [#Meister:1991][#Wong:1993][#Feller:1996][#Weliky:1999][#Chiu:2002]
 	* <del>After eye opening</del>
 		* experiential pattern replay/dreams
-			* analogs to hippocampal - place cell replays (Wilson work) for learning and memory?
-			* Y. Dan visual pattern replay paper
+			* analogs to hippocampal - place cell replays (Wilson work) [#Lee:2002] for learning and memory?
+			* Y. Dan visual pattern replay paper [#Han:2008]
 			* standing waves and fast travelling waves [#Benucci:2007]
 * What?
 	* species
@@ -496,6 +496,12 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 [#Bansal:2000]: Bansal, A., Singer, J. H., Hwang, B. J., Xu, W., Beaudet, A., and Feller, M. B. (2000).  Mice lacking specific nicotinic acetylcholine receptor subunits exhibit dramatically altered spontaneous activity patterns and reveal a limited role for retinal waves in forming ON and OFF circuits in the inner retina, J Neurosci, 20(20), 7672-81
 
 
+<!--- Standing waves, adult waves, pattern replay --->
+[#Benucci:2007]: Benucci, A., Frazor, R. A., and Carandini, M. (2007).  Standing waves and traveling waves distinguish two circuits in visual cortex, Neuron, 55(1), 103-17
+
+[#Han:2008]: Han, F., Caporale, N., and Dan, Y. (2008).  Reverberation of recent visual experience in spontaneous cortical waves, Neuron, 60(2), 321--327
+
+[#Lee:2002]: Lee, A. K. and Wilson, M. A. (2002).  Memory of sequential experience in the hippocampus during slow wave sleep, Neuron, 36(6), 1183-94
 
 
 

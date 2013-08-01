@@ -23,7 +23,7 @@ Indeed both their studies and subsequent work by others has demonstrated that a 
 
 However, the genetic code does not work in isolation-- the information required for organism development stems from the myriad interactions that occur within and outside of the cellular environment throughout the course of gestation. A factor that may be particularly relevant to the development and function of the nervous system is that spontaneous electrical activity and neurotransmitter release emerges among excitable cells in the developing nervous system, even in isolated cultures of immature neurons. Intriguingly, a number of studies have provided experimental evidence that specific *patterns* of neural activity are required for proper visual map formation in rodent, ferret, and cat indicating that spontaneous activity occurs in the immature nervous system and has a clear function in circuit development. These spontaneous patterns of activity increase the informational complexity that the genome can carry by serving to sculpt neural architecture and synaptic connections so that the nervous system can begin performing computations relevant for visual behavior, learning, and memory at the start of vision. Indeed, as any mother who has felt their baby kick inside the womb can attest, the developing brain is not quiet. And pediatric neurologists would direct our attention to the fetal brain malformations which occur when chemicals that interfere with neurotransmission are taken during pregnancy.
 
-In this review we discuss recent work that highlights the function of spontaneous activity in visual system development. We will focus on studies that have examined the nature spontaneous activity in the developing brain as well as studies that have provided direct experimental evidence for the function of retinal waves in visual map development. We refer the reader to recent reviews on the crucial roles of molecular signaling gradients, such as eph/ephrins for visual circuit development [#Huberman:xxxx] as well as on the mechanisms by which patterned spontaneous activity is generated within developing neural circuits [#Feller:xxxx].
+In this review we discuss recent work that highlights the function of spontaneous activity in visual system development. We will focus on studies that have examined the nature spontaneous activity in the developing brain as well as studies that have provided direct experimental evidence for the function of retinal waves in visual map development. We refer the reader to recent reviews on the crucial roles of molecular signaling gradients, such as eph/ephrins for visual circuit development [#Huberman:2008a] as well as on the mechanisms by which patterned spontaneous activity is generated within developing neural circuits [#Blankenship:2010]
 
 
 
@@ -35,70 +35,57 @@ In this review we discuss recent work that highlights the function of spontaneou
 
 Spontaneous oscillations play a prominent yet unclear role in brain function. Though it is unknown precisely how spontaneous oscillations of electrical activity arise within immature networks, there are numerous examples demonstrating that they do-- such as the spontaneous activity found in cultures of isolated neurons [#Mazzoni:2007], as well as immmature in spinal cord [#Marder:2005], retina [#Maffei:1990,Meister:1991], and cortical circuits [#Leinekugel:2002,Khazipov:2006]. The function of spontaneous correlated activity may be to strengthen the synaptic weights between coactive cells through voltage-dependent calcium influx that mediates downstream changes in transcriptional regulation. Adjustments in gene expression could result in synaptic modifications through changes in ion channel or neurotransmitter receptor function, changes in receptor clustering at existing synapses, or formation of entirely new synapses with nearby cells.
 
-So when do these spontaneous activities occur that can mediate these developmental changes? Spontaneous oscillations occur after eye opening and maturation of the visual system is complete such as standing waves and fast travelling waves [#Benucci:2007] (Y. Dan paper) that may serve a purpose in experiential pattern replay during sleep, such as occurs in the hippocampus with replay activations of place cells (M. Wilson). Yet spontaneous activity also occurs in the visual system before the onset of visual experience in all amniote species that have been examined [#Wong:1999]. Thus travelling 'retinal waves' of bursting activity sweeps across the retina before hatching or birth in some species including chicken, turtle, rabbit, monkey, and cat. In species more immature at birth, retinal waves occur after birth but before eye lid opening such as rodent, rabbit, and ferret. Thus amniote vertebrates have a long gestational timecourse which gives the change for these patterns to develop. But in non-amniote vertebrates, there is a short gestational timecourse before the beginning of locomotor and visuomotor behavior, so that the roles subserved by spontaneous activity can be be mediated by primarily sensory dependent activation in these species.
+So when and where do these spontaneous activities occur that can mediate these developmental changes? Spontaneous oscillations occur after eye opening and maturation of the visual system is complete such as standing waves and fast travelling waves [#Benucci:2007][#Han:2008] that may serve a purpose in experiential pattern replay during sleep, such as occurs with the replay activations of place cells in the hippocampus [#Lee:2002]. Yet spontaneous activity also occurs in the visual system before the onset of visual experience in all amniote species that have been examined [#Wong:1999]. Thus travelling 'retinal waves' of spiking activity sweeps across the retina before hatching or birth in some species including chicken, turtle, rabbit, monkey, and cat (Table 1?). In other species more immature at birth, retinal waves occur postnatally but before eye lid opening such as rodent, rabbit, and ferret. Thus amniote vertebrates have a long gestational timecourse which gives the change for these patterns to develop. But in non-amniote vertebrates, there is a short gestational timecourse before the beginning of locomotor and visuomotor behavior, so that the roles subserved by spontaneous activity can be be mediated by primarily sensory dependent activation in these species.
 
-What kind of activity is occurring elsewhere in the visual system from isolated model systems?. Slice physiology in subplate, calcium imaging in slice around eye opening. But what about in vivo?  Translating in vitro to in vivo can been a problem in studies of all sensorimotor systems...  
+What kind of activity is occurring elsewhere in the visual system during development? One location is the white matter and cortical layer 6 during development where a transient populaiton of cells called subplate neurons are thought to play a key role in cortical development, possibly by relaying input activity patterns immature cortical neurons that have yet to form functional synapses with thalamic axons  [#Kanold:2010]. Several experiments that have used pharmacology and targeted ablation of indicated that this cell population is important for synapse maturation, maturation of inhibition in L4, develeopment of orientation selectivity, and formation of ocular dominance columns [#Kanold:2010]. Evidence that subplate neurons form a disynaptic relay between thalamocortical inputs and developing cortical neurons has been suggested by in vitro recordings in kitten visual cortex (Friauf&Shatz 1991 paper) and as well as from in vitro and in vivo recoridngs in rodent somatosensory cortex (Hanganu, luhmann, Kanold work). Subplate neurons have been demonstrated to be spontaneously active in somatosensory cortex, but it unknown in visual cortex. But what about in vivo?
 
-			* Subplate --
-					* Subplate neurons are likely key to relaying oscillatory activity to developing cortical neurons Kanold and Luhmann review [#Kanold:2010] *Nice Ann Rev Neuosci review with summary table of references for species, cortical area, neurotransmitter, etc)*
-						* SPn removal in visual cortex prevents thalamocortical synapse maturation, maturation of inhibition in L4, develeopment of orientation selectivity, and formation of ODCs [#Kanold:2010]
-						* physiology evidence for activity relay in vitro and in vivo in somatosensory cortex
-						* physiology evidence for activity relay in vitro cat visual cortex (old disynaptic response Friauf&Shatz 1991 paper, possibly Hanganu 2001, 2002, and Hirsch &Luhmann2008)
-					* Ghosh/Kanold/Shatz subplate kainic acid excitotoxicity or immunotoxin work in cats suggests that subplate cells play a key role in ocular dominance column formation, but not known if this role is activity-dependent [#Ghosh:1990][#Ghosh:1992][#Kanold:2003]
-						* <del>P. Kanold</del> *No one knows if subplate cells in occipital cortex exhibit spontaneous activity during development*
-						* Only subplate cells in somatosensory cortex have been checked for spontaneous activity (Luhmann, Hanganu, also Kanold JNS 2012 work) [#Hanganu:2001][#Hanganu:2002][#Dupont:2006][#Kanold:2006][#Tolner:2012]
-				* Calcium waves
-					* have been observed in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex, but none of the following groups (Konnerth, Peinado, Moody, Yuste/Ikegaya) has checked occiptial cortex before eye opening: 
-						* <del>[#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]</del> *None of these groups has done occipital cortex in vitro*
-			* after eye opening
-				* UP-DOWN states in mouse visual cortex [#Cossart:2003]
-					* P14-P21 C57/BL6 brain slices
-					* multicellular two-photon calcium imaging with Fura2 and patch clamp recordings
-					* all cortical layers 2-5 imaged
-					* average interval of synchronous population events was 55 ± 4 s (peak synchrony in histograms, considerably slower than slow oscillations of 0.1 - 0.5 Hz)
-		* in vivo
-			* early development - before eye opening
-				* Rat
-					* Correlated bursting among RGCs [#Maffei:1990]
-					* 'Spindle bursts'
-						* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
-					* 'Slow activity transients'
-						* infra-slow LFP wave with nested fast oscillations
-							* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010]
-								* 87% of L4 MUA occured during slow activity transients
-								* extracellular recordings with glass electrode or multisite silicon probe
-									* age P5-P7
-										* peak frequency (8 - 31 Hz, mostly 18-30 Hz) and duration form single distribution (400 ms - 5 s), likely all continuous 'spindle burst' oscillations within the slow wave 
-									* age P9-P13
-										* short duration events (<400 ms) first prominent around P9-P10 and increased frequency of these events until becoming the most common type by P13
-										* very long duration (>5 s) encountered after P8 ('splitting of events with maturation')
-										* two populations of events encountered:
-											* long duration, beta band frequency (>5 s, 18-30 Hz)
-											* short duration, alpha band frequency (<3 s, 10 Hz)
-										* after P12 SATs less common and no longer dominant pattern-- continuous cortical activity and slow wave sleep (delta)
+Spontaneous calcium waves have been observed in vitro in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex [#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]. Spontaneous UP-DOWN states have been recorded after eye opening between P14-P21 in mouse visual cortex using calcium imaging and patch recordings in vitro [#Cossart:2003]
 
-				* Mouse
-					* retinal waves
-						* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
-						* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
-							* they possibly recorded some retinal waves? 
-							* but most activity was independent of retinal input, and more likely 'spindle bursts' 
-								* unknown if recordings were strictly from V1 or V2 (no method for identification)
-								* calcium recordings were not summed population signals
-							* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
-				* Human 
-					* 'Slow activity transients'
-						* infra-slow LFP wave with nested fast oscillations
-							* EEG field oscillations and bursting multiunit activity in visual cortex [#Vanhatalo:2005][#Colonnese:2010a] 
-			* around eye opening
-				* Ferret
-					* Correlated bursting activity among LGN and visual cortical neurons [#Weliky:1999][#Chiu:2002]
-				* Rat
-					* 'Spindle bursts'
+Though in vitro have proved to be very powerful at dissecting local circuits, ultimately an understanding of the nature and function of neural activity must be achieved in the intact system.
+ 
+	* in vivo
+		* early development - before eye opening
+			* Rat
+				* Correlated bursting among RGCs [#Maffei:1990]
+				* 'Spindle bursts'
+					* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
+				* 'Slow activity transients'
+					* infra-slow LFP wave with nested fast oscillations
+						* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010]
+							* 87% of L4 MUA occured during slow activity transients
+							* extracellular recordings with glass electrode or multisite silicon probe
+								* age P5-P7
+									* peak frequency (8 - 31 Hz, mostly 18-30 Hz) and duration form single distribution (400 ms - 5 s), likely all continuous 'spindle burst' oscillations within the slow wave 
+								* age P9-P13
+									* short duration events (<400 ms) first prominent around P9-P10 and increased frequency of these events until becoming the most common type by P13
+									* very long duration (>5 s) encountered after P8 ('splitting of events with maturation')
+									* two populations of events encountered:
+										* long duration, beta band frequency (>5 s, 18-30 Hz)
+										* short duration, alpha band frequency (<3 s, 10 Hz)
+									* after P12 SATs less common and no longer dominant pattern-- continuous cortical activity and slow wave sleep (delta)
+
+			* Mouse
+				* retinal waves
+					* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
+					* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
+						* they possibly recorded some retinal waves? 
+						* but most activity was independent of retinal input, and more likely 'spindle bursts' 
+							* unknown if recordings were strictly from V1 or V2 (no method for identification)
+							* calcium recordings were not summed population signals
+						* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
+			* Human 
+				* 'Slow activity transients'
+					* infra-slow LFP wave with nested fast oscillations
+						* EEG field oscillations and bursting multiunit activity in visual cortex [#Vanhatalo:2005][#Colonnese:2010a] 
+		* around eye opening
+			* Ferret
+				* Correlated bursting activity among LGN and visual cortical neurons [#Weliky:1999][#Chiu:2002]
+			* Rat
+				* 'Spindle bursts'
+					* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
+				* 'Slow activity transients'
+					* infra-slow LFP wave with nested fast oscillations
 						* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
-					* 'Slow activity transients'
-						* infra-slow LFP wave with nested fast oscillations
-							* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
 
 
 
