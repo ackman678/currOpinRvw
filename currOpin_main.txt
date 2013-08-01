@@ -109,7 +109,7 @@ Functional synapse maturation at retinogeniculate (Hooks and Chen, 2006) and ret
 The development of maps for visual stimulus features, such as retinotopy, ocular dominance and orientation, are also sensitive to the presence of ongoing spontaneous activity before eye opening. Disrupting retinal waves pharmacologically or genetically interferes with the development of both retinotopy and eye specific segregation in the dLGN and SC of mice [#McLaughlin:2003][#Chandrasekaran:2005][#Stellwagen:2002]. In the SC, of retinocollicular target zones and individual axon arbors are enlarged in β2-/- mice, and preferentially elongated along the nasal-temporal axis of the retina, corresponding the visual field azimuth [#Chandrasekaran:2005]; Dhande et a., 2011). Functional response properties of SC neurons are correspondingly impacted, with receptive fields dramatically enlarged, particularly along the visual field azimuth [#Chandrasekaran:2005][#Mrsic-Flogel:2005]. In the dLGN, retinal ganglion cell axon arbors are similarly enlarged β2-/- mice <!--(pharmacology done???)-->, but rather than enlarged receptive fields in individual dLGN neurons, the retinotopic map is disrupted because the receptive field location is scattered, particularly along the visual field azimuth [#Grubb:2003]. Remarkably, in both the dLGN [#Grubb:2003] and SC [#Chandrasekaran:2005] of β2-/- mice, the organization of response properties associated with on- or off-selectivity, which are not normally observed in mice, emerge. In the dLGN, on- and off-center cells are spatially segregated [#Grubb:2003], while in the SC, neurons become selective to either the onset or the offset of light stimulus, when they normally respond equally well to both. Thus, it appears that organization around new response features emerge in the dLGN and SC of β2-/- mice, possibly because of the delayed functional development of retinofugal synapses [#Hooks:2006][#Shah:2008] and the precocious presence of Stage III (glutamate receptor mediated) waves in β2-/- mice [#Bansal:2000].
 
 
-
+Make some additional text edits to the document. 
 
 
 # Mechanisms of activity-dependent visual circuit development before vision
@@ -129,5 +129,6 @@ The development of maps for visual stimulus features, such as retinotopy, ocular
 
 
 # References
+
 
 
