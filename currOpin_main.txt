@@ -107,4 +107,3 @@ The development of maps for visual stimulus features, such as retinotopy, ocular
 
 # References
 
-
