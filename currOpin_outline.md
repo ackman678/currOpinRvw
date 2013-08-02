@@ -483,7 +483,6 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 
 
 
-
 [#Ruthazer:2010a]: Ruthazer, E. S., Bachleda, A. R., and Olavarria, J. F. (2010).  Role of interstitial branching in the development of visual corticocortical connections: a time-lapse and fixed-tissue analysis, J Comp Neurol, 518(24), 4963-79
 
 [#Bock:2012]: Bock, A. S., Kroenke, C. D., Taber, E. N., and Olavarria, J. F. (2012).  Retinal input influences the size and corticocortical connectivity of visual cortex during postnatal development in the ferret, J Comp Neurol, 520(5), 914-32

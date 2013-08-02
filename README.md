@@ -9,10 +9,10 @@
 
 # Info
 *  The `currOpin_main.txt` file is just a plain text file you can work in **any** text editing application. 
-    * Mac OSX: TextEdit or [WriteRoom](http://www.hogbaysoftware.com/products/writeroom) or Byword is recommended. 
-    * iOS: WriteRoom, Byword, [Notesy](http://notesy-app.com), or Nebulous Notes is recommended. 
+    * Mac OSX: TextEdit, [WriteRoom](http://www.hogbaysoftware.com/products/writeroom), iA Writer, or Byword is recommended. 
+    * iOS: WriteRoom, Byword, [Notesy](http://notesy-app.com), iA Writer, or Nebulous Notes is recommended. 
     * Windows: Notepad++ is recommended.
-    * If preference is to write in Microsoft Word, just make sure to save as **plain** text file.
+    * If preference is to write in Microsoft Word, just make sure to save as **plain** text file. Though modern software should no longer have any issues with Unicode text encoding (most web documents have been Unicode UTF-8 for many years now) be careful about text encoding issues on Mac versions of Microsoft Word when opening/saving plain text UTF-8 encoded documents. [Surprisingly, Word still manages to garble stuff up](http://answers.microsoft.com/en-us/mac/forum/macoffice2011-macword/why-does-word-for-mac-always-mangle-unicode-text/ad95c7ab-ab56-45af-8a74-51d26f079d25).
 
 * This main.txt file uses ['Markdown' style formatting](http://daringfireball.net/projects/markdown/syntax) which is completely optional (that is how the document and outline and even this README is currently formatted. GitHub is very markdown friendly).
 

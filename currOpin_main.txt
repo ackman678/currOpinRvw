@@ -42,30 +42,11 @@ What kind of activity is occurring elsewhere in the visual system during develop
 Spontaneous calcium waves have been observed in vitro in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex [#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]. Spontaneous UP-DOWN states have been recorded after eye opening between P14-P21 in mouse visual cortex using calcium imaging and patch recordings in vitro [#Cossart:2003]
 
 Though in vitro have proved to be very powerful at dissecting local circuits, ultimately an understanding of the nature and function of neural activity must be achieved in the intact system.
- HEre is a new line.
+ To this end in vivo during early development before eye opening several types of activity patternsas have been recording in the visual system in rodents and ferrets.
  
- 
-	* in vivo
-		* early development - before eye opening
-			* Rat
-				* Correlated bursting among RGCs [#Maffei:1990]
-				* 'Spindle bursts'
-					* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
-				* 'Slow activity transients'
-					* infra-slow LFP wave with nested fast oscillations
-						* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010]
-							* 87% of L4 MUA occured during slow activity transients
-							* extracellular recordings with glass electrode or multisite silicon probe
-								* age P5-P7
-									* peak frequency (8 - 31 Hz, mostly 18-30 Hz) and duration form single distribution (400 ms - 5 s), likely all continuous 'spindle burst' oscillations within the slow wave 
-								* age P9-P13
-									* short duration events (<400 ms) first prominent around P9-P10 and increased frequency of these events until becoming the most common type by P13
-									* very long duration (>5 s) encountered after P8 ('splitting of events with maturation')
-									* two populations of events encountered:
-										* long duration, beta band frequency (>5 s, 18-30 Hz)
-										* short duration, alpha band frequency (<3 s, 10 Hz)
-									* after P12 SATs less common and no longer dominant pattern-- continuous cortical activity and slow wave sleep (delta)
+Indeed, in EEG recordings from occipital cortex in preterm human infants, infra-slow LFP waves with nested fast oscillations' have been shown [#Vanhatalo:2005][#Colonnese:2010a] and are thought to be homologous to the 'slow activity transients' with bursting multiunit activity demonstrated in rat visual cortex just before eye opening. During slow activity transients
 
+ 
 			* Mouse
 				* retinal waves
 					* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
@@ -75,11 +56,7 @@ Though in vitro have proved to be very powerful at dissecting local circuits, ul
 							* unknown if recordings were strictly from V1 or V2 (no method for identification)
 							* calcium recordings were not summed population signals
 						* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
-			* Human 
-				* 'Slow activity transients'
-					* infra-slow LFP wave with nested fast oscillations
-						* EEG field oscillations and bursting multiunit activity in visual cortex [#Vanhatalo:2005][#Colonnese:2010a] 
-		* around eye opening
+					* around eye opening
 			* Ferret
 				* Correlated bursting activity among LGN and visual cortical neurons [#Weliky:1999][#Chiu:2002]
 			* Rat
