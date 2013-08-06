@@ -13,7 +13,7 @@ The structural and functional development of visual circuits in reptiles, birds,
 
 # Introduction
 
-The visual system is organized such that information relayed through the optic nerve is processed in a set of hierarchal neural maps distributed throughout the thalamus, midbrain, and cortex. As with all biological tissues, construction of the circuits underlying these visual maps depends on innate genetic programs. However, the nervous system is unique with the extent to which it can be shaped by changes in the external world detected and relayed as nerve impulses by the sensory organs. This extraordinary plasticity of the nervous system was underscored in the visual deprivation experiments by Hubel and Wiesel on ocular dominance column development in visual cortex [#Hubel:1977a] and was experienced by each of us as we first learned our native language. 
+The visual system is organized such that information relayed through the optic nerve is processed in a set of hierarchal neural maps distributed throughout the thalamus, midbrain, and cerebral cortex. As with all biological tissues, construction of the circuits underlying these visual maps depends on innate genetic programs. However, the nervous system is unique with the extent to which it can be shaped by changes in the external world detected and relayed as nerve impulses by the sensory organs. This extraordinary plasticity of the nervous system was underscored in the visual deprivation experiments by Hubel and Wiesel on ocular dominance column development in visual cortex [#Hubel:1977a] and was experienced by each of us as we first learned our native language. 
 
 Given the many pieces of information that must be parsed from the photic signals in the eye to deconstruct and reconstruct the visual scene, one might think that visual experience is absolutely required to establish these visual representations. The debate between Herring and von Helmholz in the 19th century over whether the binocular coordination of eye movements [#King:2000] required for stereoscopic vision was innate or learned highlighted the always relevant problem regarding the roles for nature and nurture in developmental neuroscience. Though complex brain and behavioral development in the absence of learned experience is not surprising in animals – e.g. infant suckling in newborns – it is still remarkable that a considerable amount of intricate visual circuit structure and function forms before any patterned visual experience. As noted by Hubel and Wiesel [#Hubel:1977a] based on their recordings from primary visual cortex in newborn monkey:
 
@@ -31,7 +31,7 @@ In this review we discuss recent work that highlights the function of spontaneou
 
 
 
-# Spontaneous activity in the visual system: When, What, and Where? 
+# Spontaneous activity in the visual system: What, When, and Where? 
 
 Spontaneous oscillations play a prominent yet unclear role in brain function. Though it is unknown precisely how spontaneous oscillations of electrical activity arise within immature networks, there are numerous examples demonstrating that they do-- such as the spontaneous activity found in cultures of isolated neurons [#Mazzoni:2007], as well as immmature in spinal cord [#Marder:2005], retina [#Maffei:1990,Meister:1991], and cortical circuits [#Leinekugel:2002,Khazipov:2006]. The function of spontaneous correlated activity may be to strengthen the synaptic weights between coactive cells through voltage-dependent calcium influx that mediates downstream changes in transcriptional regulation. Adjustments in gene expression could result in synaptic modifications through changes in ion channel or neurotransmitter receptor function, changes in receptor clustering at existing synapses, or formation of entirely new synapses with nearby cells.
 
@@ -41,30 +41,21 @@ What kind of activity is occurring elsewhere in the visual system during develop
 
 Spontaneous calcium waves have been observed in vitro in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex [#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]. Spontaneous UP-DOWN states have been recorded after eye opening between P14-P21 in mouse visual cortex using calcium imaging and patch recordings in vitro [#Cossart:2003]
 
-Though in vitro have proved to be very powerful at dissecting local circuits, ultimately an understanding of the nature and function of neural activity must be achieved in the intact system.
- To this end in vivo during early development before eye opening several types of activity patternsas have been recording in the visual system in rodents and ferrets.
+Though in vitro have proved to be very powerful at dissecting local circuits, ultimately an understanding of the nature and function of neural activity must be achieved in the intact system. To this end in vivo during early development before eye opening several types of activity patterns have been recorded in the visual system in rodents and ferrets.
  
-Indeed, in EEG recordings from occipital cortex in preterm human infants, infra-slow LFP waves with nested fast oscillations' have been shown [#Vanhatalo:2005][#Colonnese:2010a] and are thought to be homologous to the 'slow activity transients' with bursting multiunit activity demonstrated in rat visual cortex just before eye opening. During slow activity transients
+Indeed, in EEG recordings from occipital cortex in preterm human infants, infra-slow LFP waves with nested fast oscillations have been demonstrated [#Vanhatalo:2005][#Colonnese:2010a] and are thought to be homologous to the 'slow activity transients' (SATs) shown to exist using extracellular recordings in rat visual cortex before eye opening [#Colonnese:2010]. During early development to before eye opening, 87% of spiking activity in L4 occurs within the field potential oscillations of SATs, which are sensitive to the presence of retinal input suggesting that they likely triggered by the spiking activity that occurs between local RGCs [#Maffei:1990] during retinal waves [#Meister:1990][#Ackman:2012].
+
+Recent calcium imaging studies have proved invaluable for revealing the spatial patterns of spontaneous activity in the visual system. The first in vivo recordings retinal waves was recently accomplished using by recording pre-synaptic calcium signals from RGC terminals in the superior colliculus in mouse. Together with post-synaptic recordings from populations of collicular and cortical neurons it was found that retinal waves are the primary source of patterned neural activity throughout the developing visual system [#Ackman:2012], providing spatially consistent information about retinotopic and eye specific organization to multiple hierarchial circuits. Two-photon calcium imaging from 
+
+Just before and around eye opening, several lines of evidence suggest that the pattern of activity that predominates in the visual systems is markedly different than earlier in development. In vivo recordings in ferrets show that correlated bursting acivity among LGN nad V1 neurons is modulated, but not exclusively driven by retinal input [#Weliky:1999][#Chiu:2002]. In rat, the SATs encountered earlier on still predominate but the patterns split into two populations, a longer duration, higher frequency bursting and short duration, lower frequency bursting [#Colonnese:2010]. Just before eye opening SATs become less common and are no longer the predominate pattern with continuous cortical activity and slow wave sleep becoming dominant [#Colonnese:2010].
 
  
-			* Mouse
-				* retinal waves
-					* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
 					* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
 						* they possibly recorded some retinal waves? 
 						* but most activity was independent of retinal input, and more likely 'spindle bursts' 
 							* unknown if recordings were strictly from V1 or V2 (no method for identification)
 							* calcium recordings were not summed population signals
 						* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
-					* around eye opening
-			* Ferret
-				* Correlated bursting activity among LGN and visual cortical neurons [#Weliky:1999][#Chiu:2002]
-			* Rat
-				* 'Spindle bursts'
-					* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
-				* 'Slow activity transients'
-					* infra-slow LFP wave with nested fast oscillations
-						* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010][#Colonnese:2010a]
 
 
 
