@@ -45,17 +45,10 @@ Though in vitro have proved to be very powerful at dissecting local circuits, ul
  
 Indeed, in EEG recordings from occipital cortex in preterm human infants, infra-slow LFP waves with nested fast oscillations have been demonstrated [#Vanhatalo:2005][#Colonnese:2010a] and are thought to be homologous to the 'slow activity transients' (SATs) shown to exist using extracellular recordings in rat visual cortex before eye opening [#Colonnese:2010]. During early development to before eye opening, 87% of spiking activity in L4 occurs within the field potential oscillations of SATs, which are sensitive to the presence of retinal input suggesting that they likely triggered by the spiking activity that occurs between local RGCs [#Maffei:1990] during retinal waves [#Meister:1990][#Ackman:2012].
 
-Recent calcium imaging studies have proved invaluable for revealing the spatial patterns of spontaneous activity in the visual system. The first in vivo recordings retinal waves was recently accomplished using by recording pre-synaptic calcium signals from RGC terminals in the superior colliculus in mouse. Together with post-synaptic recordings from populations of collicular and cortical neurons it was found that retinal waves are the primary source of patterned neural activity throughout the developing visual system [#Ackman:2012], providing spatially consistent information about retinotopic and eye specific organization to multiple hierarchial circuits. Two-photon calcium imaging from 
+Recent calcium imaging studies have proved invaluable for revealing the spatial patterns of spontaneous activity in the visual system. The first in vivo recordings retinal waves was recently accomplished using by recording pre-synaptic calcium signals from RGC terminals in the superior colliculus in mouse. Together with post-synaptic recordings from populations of collicular and cortical neurons it was found that retinal waves are the primary source of patterned neural activity throughout the developing visual system [#Ackman:2012], providing spatially consistent information about retinotopic and eye specific organization to multiple hierarchial circuits. Multicellular two-photon calcium imaging from local clusters visual cortical neurons has also shown that retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]. Much of the work in this study was done under light anesthetic conditions which blocks retinal wave generation [#Ackman:2013][#Colonnese:2010], though some of the synchronous calcium transient patterns may have been driven by weakened retinal input, so possibly retinal waves were recorded. But it is also possible that what was recorded was spindle burst oscillations, [#Hanganu:2006] or synchronous bursting activity in V2 which can activate V1 cells in the border regions of the V1 retinotopic borders shared with V2 [#Ackman:2012]. In fact, spindle bursts oscillations may be the the LFP representation of these synchronous, short duration calcium activations recorded in V2 and along the V1/V2 border recorded by [#Ackman:2012]. Variability can ensue with stereotaxic targeting of brain areas during development and without visually driven responses mapping V1 and the surrounding medial and lateral V2 representations can be difficult, though using the spontaneous retinal wave patterns in the single collicular retinotopic map can be used as real time inputs to map these cortical areas[#Ackman:2012]. It will be importane to combine extracellular electrophysilogical recordings with wide-field and two-photon calcium imaging to consolidate the different imaged and LFP patterns that have been described during development where targeted recordings may be performed in areas to alleviate concerns as to where the signals are originating. This is crucial because it is unclear if these patterns are different or not, or just a limitation recorded in extracellular field pottential recordings where spatial resolution and range of constituent components of the signals are typically unknown. Some or all of the spindle burst oscillations and continuous cortical activity described in visual cortex [#Hanganu:2006][#Colonnese:2010] may occur indpendent of retinal waves and if predominant in secondary visual cortical areas may represent intra-cortically generated patterns or feedback for multimodal areas such as portions of V2 which can exhibit visual and somatosensory responses and spindle bursts are attributed to developing tactile-motor neuron development in the somatosensory system.
 
 Just before and around eye opening, several lines of evidence suggest that the pattern of activity that predominates in the visual systems is markedly different than earlier in development. In vivo recordings in ferrets show that correlated bursting acivity among LGN nad V1 neurons is modulated, but not exclusively driven by retinal input [#Weliky:1999][#Chiu:2002]. In rat, the SATs encountered earlier on still predominate but the patterns split into two populations, a longer duration, higher frequency bursting and short duration, lower frequency bursting [#Colonnese:2010]. Just before eye opening SATs become less common and are no longer the predominate pattern with continuous cortical activity and slow wave sleep becoming dominant [#Colonnese:2010].
 
- 
-					* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
-						* they possibly recorded some retinal waves? 
-						* but most activity was independent of retinal input, and more likely 'spindle bursts' 
-							* unknown if recordings were strictly from V1 or V2 (no method for identification)
-							* calcium recordings were not summed population signals
-						* *which might be same as the independent spontaneous V2 activity we saw* [#Ackman:2012]
 
 
 
@@ -80,17 +73,15 @@ The development of maps for visual stimulus features, such as retinotopy, ocular
 
 
 
-# Mechanisms of activity-dependent visual circuit development before vision
-
-
-
-
-
-
 
 
 
 # Conclusion
+
+*Something about deciphering the mechanisms of activity-dependent visual circuit development before vision...*
+
+
+
 
 
 
