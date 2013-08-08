@@ -94,4 +94,3 @@ In addition to maps for retinotopy and ocular dominance, visual circuits for ori
 
 
 # References
-
