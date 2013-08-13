@@ -87,6 +87,7 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 						* Microelectrode array recordings
 						* Visually evoked responses as soon as RGCs innervate targets (unlike mammals)
 						* Authors conclude that the two branches of tetrapods (amphibians and amniotes), evolved different strategies to mediate activity-dependent development during visual system formation
+						* Studied 3 distinct stages: Stages 39-40 (2.25 d.p.f), Stage 46 (4 d.p.f), Stages 59-62 (45-49 d.p.f.)
 				* Subplate --
 					* Subplate neurons are likely key to relaying oscillatory activity to developing cortical neurons Kanold and Luhmann review [#Kanold:2010] *Nice Ann Rev Neuosci review with summary table of references for species, cortical area, neurotransmitter, etc)*
 						* SPn removal in visual cortex prevents thalamocortical synapse maturation, maturation of inhibition in L4, develeopment of orientation selectivity, and formation of ODCs [#Kanold:2010]
