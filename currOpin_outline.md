@@ -76,10 +76,12 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 				* Retinal waves
 					* Occur in all amniote species examined (turtle, chicken, rodent, rabbit, ferret, cat) [#Wong:1999], including monkey [#Warland:2006]
 						* chicken [#Wong:1998][#Catsicas:1998]
-						* turtle [#Sernagor:1996]
-						* ferret [#Meister:1991][#Wong:1993][#Feller:1996]
+						* turtle [#Sernagor:1995][#Sernagor:1996][#Sernagor:1999]
+							* Turtle ganglion cells fire spontaneous bursts from embryonic stage 22 (~20 days before hatching or 40 days through gestation)[#Sernagor:1996] citing [#Sernagor:1995].
+						* ferret P5-P21 [#Meister:1991], P0-P30 [#Wong:1993], P4-P12 [#Wong:1995], P0-P10 [#Feller:1996]
 						* cat [#Meister:1991]
 						* rabbit [#Zhou:2000]
+							* recordings from E26 - P6. E31= day of birth. 
 						* mouse [#Mooney:1996][#Bansal:2000]
 						* monkey [#Warland:2006]
 					* Do not occur in amphibians [#Demas:2012]
