@@ -32,16 +32,16 @@ So when and where do these spontaneous activities occur that can mediate these d
 
 
 | Species | Onset of vision (days of development) | Patterned activity observed? | Experimental method | Experimental age (days of development) | Preparation |
-| ------- | ---------------------------------- | ----------  | -------------- | -------- | --- |
-| 🐟 fish | e.g. 3 d. zebrafish, 21 d. guppies |     no      |                |         |  |
-| 🐸 xenopus |        3 d.                     |     no      | MEA | 2-4 d., 45-49 d. | *in vitro* |
-| 🐢 turtle |         48-70 d.                 |     yes     |                | x         | *in vitro* |
-| 🐤 chick |       21 d.                       |     yes     |                | x         | *in vitro* |
-| 🐰 rabbit |                                  |     yes     | Calcium imaging | x         | *in vitro* |
-| 🐭 rodent |          35 d.                   |     yes     | MEA, Calcium imaging, Single unit| x         | *in vitro*, ***in vivo***|
-| 🐺 ferret |                                  |     yes     | MEA, Calcium imaging | x         | *in vitro* |
-| 🐱 cat |                                     |     yes     | MEA | x         | *in vitro* |
-| 🐵 monkey |          165 d.                  |     yes     | MEA | x         | *in vitro* |
+| ----------| ---------------------------------- | ----------  | -------------- | -------- | --- |
+| 🐟 fish   |   3 (zebrafish, oviparous); 21 (guppies, ovoviviparous)    |     ?      |                |         |  |
+| 🐸 frog   |        3                         |     no      | multielectrode array | 2-4 d., 45-49 d. | in vitro |
+| 🐢 turtle |         48-70                    |     yes     |                | x         | in vitro |
+| 🐤 chick  |      21                          |     yes     |                | x         | in vitro |
+| 🐰 rabbit |          42 (P11)                |     yes     | Calcium imaging | x         | in vitro |
+| 🐭 rodent |          34-36 (P14)             |     yes     | multielectrode array, Calcium imaging, Single unit| x         | in vitro, **in vivo**|
+| 🐺 ferret |          74 (P30-P34)            |     yes     | multielectrode array, Calcium imaging | x         | in vitro |
+| 🐱 cat    |          73 (P7-P11)             |     yes     | multielectrode array | x         | in vitro |
+| 🐵 monkey |          165 (P0)                |     yes     | multielectrode array | x         | in vitro |
 [**Table 1. Spontaneous activity in developing retina**][table1]
 
 
