@@ -50,7 +50,7 @@ What kind of activity is in the visual system outside the retina during developm
 
 Spontaneous calcium waves have been observed in vitro in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex [#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]. Spontaneous UP-DOWN states have been recorded after eye opening between P14-P21 in mouse visual cortex using calcium imaging and patch recordings in vitro [#Cossart:2003]
 
-Though in vitro experiments are very powerful at dissecting local circuits, ultimately an understanding of the nature and function of neural activity in a complex and extended neural circuit must be achieved in the intact system (Figure 1). To this end, increasingly refined in vivo analysis of activity patterns during early development have been recorded in the visual system of ferrets and rodents.
+Though in vitro experiments are very powerful at dissecting local circuits, ultimately an understanding of the nature and function of neural activity in a complex and extended neural circuit must be achieved in the intact system (Figure 1). To this end, increasingly refined in vivo analysis of activity patterns during early development have been recorded in the visual system of ferrets and rodents [(Table 2)][table2].
  
 Indeed, in EEG recordings from occipital cortex in preterm human infants, infra-slow LFP waves with nested fast oscillations have been demonstrated [#Vanhatalo:2005][#Colonnese:2010a] and are thought to be homologous to the 'slow activity transients' (SATs) shown to exist using extracellular recordings in rat visual cortex before eye opening [#Colonnese:2010]. During early development to before eye opening, 87% of spiking activity in L4 occurs within the field potential oscillations of SATs, which are sensitive to the presence of retinal input, suggesting that they are likely triggered by the spiking activity that occurs between local RGCs [#Maffei:1990] during retinal waves [#Meister:1991][#Ackman:2012].
 
@@ -62,8 +62,20 @@ Recent calcium imaging studies have proved invaluable for revealing the spatial 
 Just before and around eye opening, several lines of evidence suggest that the pattern of activity that predominates in the visual system is markedly different than earlier in development. In vivo recordings in ferrets show that correlated bursting acivity among LGN nad V1 neurons is modulated, but not exclusively driven by retinal input [#Weliky:1999][#Chiu:2002]. In rat, the SATs encountered earlier in development still predominate, but the patterns split into two populations, a longer duration, higher frequency bursting and a short duration, lower frequency bursting [#Colonnese:2010]. Just before eye opening SATs become less common and are no longer the predominate pattern, with continuous cortical activity and slow wave sleep becoming dominant [#Colonnese:2010].
 
 
+| Study | Species | Area | Areal mapping | Observed pattern | Experimental method | Age observed (days of development) | Preparation |
+| --- | --- | ----------| ---------------------------------- | ----------  | -------------- | -------- | --- |
+| [#Ackman:2012] | mouse | SC, V1, V2 | wave front retinotopy | retinal waves in RGC axons, SC, V1, V2; independent population synchrony in V2 and V1 | WF-MCI and 2P-MCI | 24–30 | HR-UNAN |
+| [#Siegel:2012] | mouse | V1 | | | 2P-MCI | 29–31 | HR-UNAN, HR-AN |
+| [#Maffei:1990] | rat | | | | | | HR-AN |
+| [#Hanganu:2006] | rat | | | | | | HR-UNAN |
+| [#Colonnese:2010] | rat | V1 | VEP | 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | MEA, LFP, MUA, SU | | |
+| [#Weliky:1999] | ferret | LGN | | Correlated bursting activity among LGN and visual cortical neurons | MEA, LFP, MUA, SU | | |
+| [#Chiu:2002] | ferret | V1 | | Correlated bursting activity among visual cortical neurons | MEA, LFP, MUA, SU | | |
+| [#Vanhatalo:2005] | human infant | occipital | | 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | EEG | | preterm |
+| [#Colonnese:2010a] | human infant | occipital | VEP?| 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | EEG | | preterm |
 
-
+| Notes: Ages reported as total days of embryonic + postnatal development. Abbreviations: MCI, multicellular calcium imaging; MEA, multielectrode array; SU, paired single-units ||||||||
+[**Table 2. Spontaneous activity in the developing visual system in vivo**][table2]
 
 
 # Regulation of cellular anatomy and physiology by spontaneous activity
