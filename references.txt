@@ -92,6 +92,12 @@
 
 [#Wong:1995]: Wong, R. O., Chernjavsky, A., Smith, S. J., and Shatz, C. J. (1995).  Early functional neural networks in the developing retina, Nature, 374(6524), 716-8
 
+[#Syed:2004a]: Syed, M. M., Lee, S., He, S., and Zhou, Z. J. (2004).  Spontaneous waves in the ventricular zone of developing mammalian retina, J Neurophysiol, 91(5), 1999-2009
+
+[#Wong:1998]: Wong, W. T., Sanes, J. R., and Wong, R. O. (1998).  Developmentally regulated spontaneous activity in the embryonic chick retina, J Neurosci, 18(21), 8839-52
+
+[#Catsicas:1998]: Catsicas, M., Bonness, V., Becker, D., and Mobbs, P. (1998).  Spontaneous Ca2+ transients and their transmission in the developing chick retina, Curr Biol, 8(5), 283-6
+
 
 
 

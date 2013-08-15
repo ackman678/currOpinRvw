@@ -75,15 +75,14 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 			* early development - before eye opening
 				* Retinal waves
 					* Occur in all amniote species examined (turtle, chicken, rodent, rabbit, ferret, cat) [#Wong:1999], including monkey [#Warland:2006]
-						* chicken [#Wong:1998][#Catsicas:1998]
+						* chicken E13–E18, up to 4x4mm FOV imaging with 2.5x [#Wong:1998]  TODO: imaging field and age? E6 nothing, E8-E11: spontaneous bursting activity. Gap junction waves...[#Catsicas:1998]
 						* turtle [#Sernagor:1995][#Sernagor:1996][#Sernagor:1999]
 							* Turtle ganglion cells fire spontaneous bursts from embryonic stage 22 (~20 days before hatching or 40 days through gestation)[#Sernagor:1996] citing [#Sernagor:1995].
 						* ferret P5-P21 [#Meister:1991], P0-P30 [#Wong:1993], P4-P12 [#Wong:1995], P0-P10 [#Feller:1996]
-						* cat [#Meister:1991]
-						* rabbit [#Zhou:2000]
-							* recordings from E26 - P6. E31= day of birth. 
+						* cat [#Meister:1991]. 2 cats, E52, P1 (E52 cat = P10 ferret)
+						* rabbit [#Zhou:2000] calcium imaging recordings from E26 - P6. E31= day of birth. MEA+calcium imaging and in retinal VZ E24-P0 [#Syed:2004a] 
 						* mouse [#Mooney:1996][#Bansal:2000]
-						* monkey [#Warland:2006]
+						* monkey [#Warland:2006] E51, E55 retina silent. E60-E76 spontaneous waves occurred.
 					* Do not occur in amphibians [#Demas:2012]
 						* Xenopus laevis tadpoles wildtype and albino
 						* Microelectrode array recordings
@@ -482,6 +481,21 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 [#Hooks:2006]: Hooks, B. M. and Chen, C. (2006).  Distinct roles for spontaneous and visual activity in remodeling of the retinogeniculate synapse, Neuron, 52(2), 281-91
 
 [#Stellwagen:2002]: Stellwagen, D. and Shatz, C. J. (2002).  An instructive role for retinal waves in the development of retinogeniculate connectivity, Neuron, 33(3), 357-367
+
+[#Sernagor:1995]: Sernagor, E. and Grzywacz, N. M. (1995).  Emergence of complex receptive field properties of ganglion cells in the developing turtle retina, J Neurophysiol, 73(4), 1355-64
+
+[#Sernagor:1999]: Sernagor, E. and Grzywacz, N. M. (1999).  Spontaneous activity in developing turtle retinal ganglion cells: pharmacological studies, J Neurosci, 19(10), 3874-87
+
+[#Wong:1995]: Wong, R. O., Chernjavsky, A., Smith, S. J., and Shatz, C. J. (1995).  Early functional neural networks in the developing retina, Nature, 374(6524), 716-8
+
+[#Syed:2004a]: Syed, M. M., Lee, S., He, S., and Zhou, Z. J. (2004).  Spontaneous waves in the ventricular zone of developing mammalian retina, J Neurophysiol, 91(5), 1999-2009
+
+[#Wong:1998]: Wong, W. T., Sanes, J. R., and Wong, R. O. (1998).  Developmentally regulated spontaneous activity in the embryonic chick retina, J Neurosci, 18(21), 8839-52
+
+[#Catsicas:1998]: Catsicas, M., Bonness, V., Becker, D., and Mobbs, P. (1998).  Spontaneous Ca2+ transients and their transmission in the developing chick retina, Curr Biol, 8(5), 283-6
+
+
+
 
 
 

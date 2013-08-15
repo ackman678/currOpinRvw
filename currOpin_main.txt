@@ -34,15 +34,15 @@ So when and where do these spontaneous activities occur that can mediate these d
 | Species | Vision onset (days of development) | Patterned activity observed? | Experimental method | Experimental age (days of development) | Preparation |
 | ----------| ---------------------------------- | ----------  | -------------- | -------- | --- |
 | 🐟 fish   |   3 (zebrafish, oviparous); 21 (guppies, ovoviviparous)    |     ?      |                |         |  |
-| 🐸 frog   |        3                         |     no      | MEA | 2–4 [#Demas:2012] | in vitro |
-| 🐢 turtle |         60–70                    |     yes     | SU             | 40 [#Sernagor:1999]      | in vitro |
-| 🐤 chick  |      21                          |     yes     |                | x         | in vitro |
-| 🐰 rabbit |          42 (P11)                |     yes     | MCI, PC | 26–37 [#Zhou:2000]      | in vitro |
-| 🐭 rodent |          34–36 (P14)             |     yes     | MEA, MCI, PC, SU| x         | in vitro, **in vivo**|
+| 🐸 frog   |        3                         |     no      | MEA [#Demas:2012] | 2–4 | in vitro |
+| 🐢 turtle |         60–70                    |     yes     | SU [#Sernagor:1999]             | 40      | in vitro |
+| 🐤 chick  |      21                          |     yes     | MCI [#Catsicas:1998][#Wong:1998] | 8–11 [#Catsicas:1998], 13–18 [#Wong:1998]         | in vitro |
+| 🐰 rabbit |          42 (P11)                |     yes     | MCI [#Zhou:2000], MEA [#Syed:2004a] | 26–37 [#Zhou:2000], 24-31 [#Syed:2004a]   | in vitro |
+| 🐭 rodent |          34–36 (P14)             |     yes     | MEA, MCI, SU| 24–30 [#Ackman:2012]    | in vitro, **in vivo** [#Ackman:2012] |
 | 🐺 ferret |          74 (P30–P34)            |     yes     | MEA [#Meister:1991][#Wong:1993], MCI [#Wong:1995][#Feller:1996] | 47–63 [#Meister:1991], 42–72 [#Wong:1993], 46–54 [#Wong:1995], 42-52 [#Feller:1996]         | in vitro |
-| 🐱 cat    |          73 (P7–P11)             |     yes     | MEA | x         | in vitro |
-| 🐵 monkey |          165 (P0)                |     yes     | MEA | x         | in vitro |
-| abbreviations: MEA, multielectrode array; MCI, multicellular calcium imaging; PC, patch-clamp; SU, paired single-units ||||||
+| 🐱 cat    |          73 (P7–P11)             |     yes     | MEA [#Meister:1991] | 52, 65         | in vitro |
+| 🐵 monkey |          165 (P0)                |     yes     | MEA [#Warland:2006] | 60–76         | in vitro |
+| abbreviations: MEA, multielectrode array; MCI, multicellular calcium imaging; SU, paired single-units ||||||
 [**Table 1. Spontaneous activity in developing retina**][table1]
 
 
@@ -52,7 +52,7 @@ Spontaneous calcium waves have been observed in vitro in several areas of rodent
 
 Though in vitro experiments are very powerful at dissecting local circuits, ultimately an understanding of the nature and function of neural activity in a complex and extended neural circuit must be achieved in the intact system (Figure 1). To this end, increasingly refined in vivo analysis of activity patterns during early development have been recorded in the visual system of ferrets and rodents.
  
-Indeed, in EEG recordings from occipital cortex in preterm human infants, infra-slow LFP waves with nested fast oscillations have been demonstrated [#Vanhatalo:2005][#Colonnese:2010a] and are thought to be homologous to the 'slow activity transients' (SATs) shown to exist using extracellular recordings in rat visual cortex before eye opening [#Colonnese:2010]. During early development to before eye opening, 87% of spiking activity in L4 occurs within the field potential oscillations of SATs, which are sensitive to the presence of retinal input, suggesting that they are likely triggered by the spiking activity that occurs between local RGCs [#Maffei:1990] during retinal waves [#Meister:1990][#Ackman:2012].
+Indeed, in EEG recordings from occipital cortex in preterm human infants, infra-slow LFP waves with nested fast oscillations have been demonstrated [#Vanhatalo:2005][#Colonnese:2010a] and are thought to be homologous to the 'slow activity transients' (SATs) shown to exist using extracellular recordings in rat visual cortex before eye opening [#Colonnese:2010]. During early development to before eye opening, 87% of spiking activity in L4 occurs within the field potential oscillations of SATs, which are sensitive to the presence of retinal input, suggesting that they are likely triggered by the spiking activity that occurs between local RGCs [#Maffei:1990] during retinal waves [#Meister:1991][#Ackman:2012].
 
 
 ![**Figure 1.** Efferent projections from mouse visual cortex.](figure1_ms_brain.png)
