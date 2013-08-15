@@ -75,13 +75,13 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 			* early development - before eye opening
 				* Retinal waves
 					* Occur in all amniote species examined (turtle, chicken, rodent, rabbit, ferret, cat) [#Wong:1999], including monkey [#Warland:2006]
-						* chicken E13–E18, up to 4x4mm FOV imaging with 2.5x [#Wong:1998]  TODO: imaging field and age? E6 nothing, E8-E11: spontaneous bursting activity. Gap junction waves...[#Catsicas:1998]
+						* chicken E13–E18, up to 4x4mm FOV imaging with 2.5x [#Wong:1998]  629x864µm E6 nothing, E8-E11: spontaneous bursting activity. Gap junction waves [#Catsicas:1998]
 						* turtle [#Sernagor:1995][#Sernagor:1996][#Sernagor:1999]
 							* Turtle ganglion cells fire spontaneous bursts from embryonic stage 22 (~20 days before hatching or 40 days through gestation)[#Sernagor:1996] citing [#Sernagor:1995].
 						* ferret P5-P21 [#Meister:1991], P0-P30 [#Wong:1993], P4-P12 [#Wong:1995], P0-P10 [#Feller:1996]
 						* cat [#Meister:1991]. 2 cats, E52, P1 (E52 cat = P10 ferret)
 						* rabbit [#Zhou:2000] calcium imaging recordings from E26 - P6. E31= day of birth. MEA+calcium imaging and in retinal VZ E24-P0 [#Syed:2004a] 
-						* mouse [#Mooney:1996][#Bansal:2000]
+						* mouse single unit and MUA, no pairs/no pattern assessment [#Mooney:1996]; calcium imaging, E17, P0–P13 mice [#Bansal:2000]
 						* monkey [#Warland:2006] E51, E55 retina silent. E60-E76 spontaneous waves occurred.
 					* Do not occur in amphibians [#Demas:2012]
 						* Xenopus laevis tadpoles wildtype and albino

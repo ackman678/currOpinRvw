@@ -98,6 +98,7 @@
 
 [#Catsicas:1998]: Catsicas, M., Bonness, V., Becker, D., and Mobbs, P. (1998).  Spontaneous Ca2+ transients and their transmission in the developing chick retina, Curr Biol, 8(5), 283-6
 
+[#Demas:2003]: Demas, J., Eglen, S. J., and Wong, R. O. L. (2003).  Developmental loss of synchronous spontaneous activity in the mouse retina is independent of visual experience, J Neurosci, 23(7), 2851-60
 
 
 
