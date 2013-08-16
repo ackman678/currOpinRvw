@@ -64,13 +64,13 @@ Just before and around eye opening, several lines of evidence suggest that the p
 
 | Study | Species | Area | Areal mapping | Observed pattern | Experimental method | Age observed (days of development) | Preparation |
 | --- | --- | ----------| ---------------------------------- | ----------  | -------------- | -------- | --- |
-| [#Ackman:2012] | mouse | SC, V1, V2 | wave front retinotopy | retinal waves in RGC axons, SC, V1, V2; independent population synchrony in V2 and V1 | WF-MCI and 2P-MCI | 24–30 | HR-UNAN |
-| [#Siegel:2012] | mouse | V1 | | | 2P-MCI | 29–31 | HR-UNAN, HR-AN |
-| [#Maffei:1990] | rat | | | | | | HR-AN |
-| [#Hanganu:2006] | rat | | | | | | HR-UNAN |
-| [#Colonnese:2010] | rat | V1 | VEP | 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | MEA, LFP, MUA, SU | | |
-| [#Weliky:1999] | ferret | LGN | | Correlated bursting activity among LGN and visual cortical neurons | MEA, LFP, MUA, SU | | |
-| [#Chiu:2002] | ferret | V1 | | Correlated bursting activity among visual cortical neurons | MEA, LFP, MUA, SU | | |
+| [#Ackman:2012] | mouse | SC, V1, V2 | wave front retinotopy | retinal waves in RGC axons, SC, V1, V2; independent population synchrony in V2 and V1 | WF-MCI and 2P-MCI | 24–30 | unanesth |
+| [#Siegel:2012] | mouse | V1 | | low synchrony events triggered by retina, high synchrony events independent of retina | 2P-MCI | 29–31 | anesth |
+| [#Maffei:1990] | rat | retina | | spontaneous correlated bursting activity in retina | SU | 18–21 | anesth |
+| [#Hanganu:2006] | rat | retina, V1 | | spontaneous bursting activity in retina, spindle bursts in V1 triggered by retina | MEA, LFP, MUA, SU | | unanesth |
+| [#Colonnese:2010] | rat | V1 | VEP | 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | MEA, LFP, MUA, SU | | unanesth |
+| [#Weliky:1999] | ferret | LGN | | Correlated bursting activity among LGN and visual cortical neurons | MEA, LFP, MUA, SU | | unanesth |
+| [#Chiu:2002] | ferret | V1 | | Correlated bursting activity among visual cortical neurons | MEA, LFP, MUA, SU | | unanesth |
 | [#Vanhatalo:2005] | human infant | occipital | | 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | EEG | | preterm |
 | [#Colonnese:2010a] | human infant | occipital | VEP?| 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | EEG | | preterm |
 
