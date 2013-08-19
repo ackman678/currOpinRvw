@@ -100,6 +100,7 @@
 
 [#Demas:2003]: Demas, J., Eglen, S. J., and Wong, R. O. L. (2003).  Developmental loss of synchronous spontaneous activity in the mouse retina is independent of visual experience, J Neurosci, 23(7), 2851-60
 
+[#Chiu:2001]: Chiu, C. and Weliky, M. (2001).  Spontaneous activity in developing ferret visual cortex in vivo, J Neurosci, 21(22), 8906--8914
 
 
 

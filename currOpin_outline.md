@@ -112,6 +112,20 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* Correlated bursting among RGCs [#Maffei:1990]
 					* 'Spindle bursts'
 						* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
+							* P5-P6 recordings. n = 32pups
+							* P1-P6 for some investigations n=4 for P1  P1-P6 + E23 = 24-29 days of development
+							* tung electrode arrays and patch clamp at P5-P6 head restrained, no anesthesia. N=32 pups
+							* Intermittent cortcial spindle bursting was dominant field pattern in immature visuals cortex 11.9+/-0.5hz with burst MUA.   Similar freq over whole depth but incr MUA bursting in deeper ctx 200-1000um.
+								* 2.5 cortical bursts/min
+							* Single tungsten electrode MUA recording from retina after ice cooling with simultaneous MEA MUA in cortex
+								* only 53% of spindle bursts correlated with retinal activity but no way of telling if they were recording in retinotopically coincident locations
+								* 3.1 retinal bursts/min
+							* Optic nerve stimulation mapping of V1 was done for 5 pups
+								* in 3 animals no detectable ON response at P1 on contralateral side, but observed from P2 onwards`
+								* amplitude increased from P2 to P6
+								* ipsi response first seen at P3 but significantly smaller at all ages studied
+								* 30% of ON stimulations elicited spindle bursts contralaterally but not ipsilaterally
+							* Also looked at P1, P2 for MUA and spindle burst incidence. Spindle bursts started at P2
 					* 'Slow activity transients'
 						* infra-slow LFP wave with nested fast oscillations
 							* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010]
@@ -126,11 +140,14 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 											* long duration, beta band frequency (>5 s, 18-30 Hz)
 											* short duration, alpha band frequency (<3 s, 10 Hz)
 										* after P12 SATs less common and no longer dominant pattern-- continuous cortical activity and slow wave sleep (delta)
-
 				* Mouse
 					* retinal waves
 						* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
 						* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
+							* FOV calculation from snapshot: 50µm/65px  285x234px ==> 219x180µm
+							* 2P calcium imaging mice P8-10
+							* no anesthesia for figure1 compared with 0.7-1% and 1.5% isoflurane, says no difference in properties (yet frequency and fraction of active cells completely lower in isoflurane). All subsequent recordings and analysis for subsequent figures, assessment of retinal influence, and clustering into two patterns was done under 0.7-1% isoflurane anesthesia.
+							* low synchrony events triggered by retina, high synchrony events independent of retina
 							* they possibly recorded some retinal waves? 
 							* but most activity was independent of retinal input, and more likely 'spindle bursts' 
 								* unknown if recordings were strictly from V1 or V2 (no method for identification)
