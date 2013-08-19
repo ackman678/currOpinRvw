@@ -62,15 +62,15 @@ Recent calcium imaging studies have proved invaluable for revealing the spatial 
 Just before and around eye opening, several lines of evidence suggest that the pattern of activity that predominates in the visual system is markedly different than earlier in development. In vivo recordings in ferrets show that correlated bursting acivity among LGN nad V1 neurons is modulated, but not exclusively driven by retinal input [#Weliky:1999][#Chiu:2002]. In rat, the SATs encountered earlier in development still predominate, but the patterns split into two populations, a longer duration, higher frequency bursting and a short duration, lower frequency bursting [#Colonnese:2010]. Just before eye opening SATs become less common and are no longer the predominate pattern, with continuous cortical activity and slow wave sleep becoming dominant [#Colonnese:2010].
 
 
-| Study | Species | Area | Areal mapping | Observed pattern | Experimental method | Age observed (days of development) | Preparation |
-| --- | --- | ----------| ---------------------------------- | ----------  | -------------- | -------- | --- |
-| [#Ackman:2012] | mouse | SC, V1, V2 | wave front retinotopy | retinal waves in RGC axons, SC, V1, V2; independent population synchrony in V2 and V1 | WF-MCI and 2P-MCI | 24–30 | unanesth |
-| [#Siegel:2012] | mouse | V1 | | low synchrony events triggered by retina, high synchrony events independent of retina | 2P-MCI | 29–31 | anesth |
-| [#Maffei:1990] | rat | retina | | spontaneous correlated bursting activity in retina | SU | 18–21 | anesth |
-| [#Hanganu:2006] | rat | retina, V1 | | spontaneous bursting activity in retina, spindle bursts in V1 triggered by retina | MEA, LFP, MUA, SU | | unanesth |
-| [#Colonnese:2010] | rat | V1 | VEP | 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | MEA, LFP, MUA, SU | | unanesth |
-| [#Weliky:1999] | ferret | LGN | | Correlated bursting activity among LGN and visual cortical neurons | MEA, LFP, MUA, SU | | unanesth |
-| [#Chiu:2002] | ferret | V1 | | Correlated bursting activity among visual cortical neurons | MEA, LFP, MUA, SU | | unanesth |
+| Study            | Species | Area      | Areal mapping          | Observed pattern | Experimental method | Age observed (days of development) | Preparation |
+| ---------------- | ------- | ----------| ---------------------- | ----------  | -------------- | -------- | --- |
+| [#Ackman:2012] | mouse     | SC, V1, V2 | wave front retinotopy | retinal waves in RGC axons, SC, V1, V2; independent population synchrony in V2 and V1 | WF-MCI and 2P-MCI | 24–30 | unanesth |
+| [#Siegel:2012] | mouse     | V1         | | low synchrony events triggered by retina, high synchrony events independent of retina | 2P-MCI | 29–31 | anesth |
+| [#Maffei:1990] | rat       | retina     | | spontaneous correlated bursting activity in retina | SU | 18–21 | anesth |
+| [#Hanganu:2006] | rat      | retina, V1 | optic nerve stimulation | spontaneous bursting activity in retina, spindle bursts in V1 triggered by retina | MEA, LFP, MUA, SU | | unanesth |
+| [#Colonnese:2010] | rat    | V1         | VEP | 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | MEA, LFP, MUA, SU | | unanesth |
+| [#Weliky:1999] | ferret    | LGN        | | Correlated bursting activity among LGN and visual cortical neurons | MEA, LFP, MUA, SU | | unanesth |
+| [#Chiu:2002] | ferret      | V1         | | Correlated bursting activity among visual cortical neurons | MEA, LFP, MUA, SU | | unanesth |
 | [#Vanhatalo:2005] | human infant | occipital | | 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | EEG | | preterm |
 | [#Colonnese:2010a] | human infant | occipital | VEP?| 'Slow activity transients': infra-slow LFP wave with nested fast oscillations | EEG | | preterm |
 
