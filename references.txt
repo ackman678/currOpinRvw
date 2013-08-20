@@ -102,6 +102,8 @@
 
 [#Chiu:2001]: Chiu, C. and Weliky, M. (2001).  Spontaneous activity in developing ferret visual cortex in vivo, J Neurosci, 21(22), 8906--8914
 
+[#Tolonen:2007]: Tolonen, M., Palva, J. M., Andersson, S., and Vanhatalo, S. (2007).  Development of the spontaneous activity transients and ongoing cortical activity in human preterm babies, Neuroscience, 145(3), 997-1006
+
 
 
 
