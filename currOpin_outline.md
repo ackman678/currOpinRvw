@@ -75,18 +75,20 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 			* early development - before eye opening
 				* Retinal waves
 					* Occur in all amniote species examined (turtle, chicken, rodent, rabbit, ferret, cat) [#Wong:1999], including monkey [#Warland:2006]
-						* chicken [#Wong:1998][#Catsicas:1998]
-						* turtle [#Sernagor:1996]
-						* ferret [#Meister:1991][#Wong:1993][#Feller:1996]
-						* cat [#Meister:1991]
-						* rabbit [#Zhou:2000]
-						* mouse [#Mooney:1996][#Bansal:2000]
-						* monkey [#Warland:2006]
+						* chicken E13–E18, up to 4x4mm FOV imaging with 2.5x [#Wong:1998]  629x864µm E6 nothing, E8-E11: spontaneous bursting activity. Gap junction waves [#Catsicas:1998]
+						* turtle [#Sernagor:1995][#Sernagor:1996][#Sernagor:1999]
+							* Turtle ganglion cells fire spontaneous bursts from embryonic stage 22 (~20 days before hatching or 40 days through gestation)[#Sernagor:1996] citing [#Sernagor:1995].
+						* ferret P5-P21 [#Meister:1991], P0-P30 [#Wong:1993], P4-P12 [#Wong:1995], P0-P10 [#Feller:1996]
+						* cat [#Meister:1991]. 2 cats, E52, P1 (E52 cat = P10 ferret)
+						* rabbit [#Zhou:2000] calcium imaging recordings from E26 - P6. E31= day of birth. MEA+calcium imaging and in retinal VZ E24-P0 [#Syed:2004a] 
+						* mouse single unit and MUA, no pairs/no pattern assessment [#Mooney:1996]; calcium imaging, E17, P0–P13 mice [#Bansal:2000]
+						* monkey [#Warland:2006] E51, E55 retina silent. E60-E76 spontaneous waves occurred.
 					* Do not occur in amphibians [#Demas:2012]
 						* Xenopus laevis tadpoles wildtype and albino
 						* Microelectrode array recordings
 						* Visually evoked responses as soon as RGCs innervate targets (unlike mammals)
 						* Authors conclude that the two branches of tetrapods (amphibians and amniotes), evolved different strategies to mediate activity-dependent development during visual system formation
+						* Studied 3 distinct stages: Stages 39-40 (2.25 d.p.f), Stage 46 (4 d.p.f), Stages 59-62 (45-49 d.p.f.)
 				* Subplate --
 					* Subplate neurons are likely key to relaying oscillatory activity to developing cortical neurons Kanold and Luhmann review [#Kanold:2010] *Nice Ann Rev Neuosci review with summary table of references for species, cortical area, neurotransmitter, etc)*
 						* SPn removal in visual cortex prevents thalamocortical synapse maturation, maturation of inhibition in L4, develeopment of orientation selectivity, and formation of ODCs [#Kanold:2010]
@@ -110,6 +112,20 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* Correlated bursting among RGCs [#Maffei:1990]
 					* 'Spindle bursts'
 						* spindle shaped field potential oscillations in visual cortex [#Hanganu:2006]
+							* P5-P6 recordings. n = 32pups
+							* P1-P6 for some investigations n=4 for P1  P1-P6 + E23 = 24-29 days of development
+							* tung electrode arrays and patch clamp at P5-P6 head restrained, no anesthesia. N=32 pups
+							* Intermittent cortcial spindle bursting was dominant field pattern in immature visuals cortex 11.9+/-0.5hz with burst MUA.   Similar freq over whole depth but incr MUA bursting in deeper ctx 200-1000um.
+								* 2.5 cortical bursts/min
+							* Single tungsten electrode MUA recording from retina after ice cooling with simultaneous MEA MUA in cortex
+								* only 53% of spindle bursts correlated with retinal activity but no way of telling if they were recording in retinotopically coincident locations
+								* 3.1 retinal bursts/min
+							* Optic nerve stimulation mapping of V1 was done for 5 pups
+								* in 3 animals no detectable ON response at P1 on contralateral side, but observed from P2 onwards`
+								* amplitude increased from P2 to P6
+								* ipsi response first seen at P3 but significantly smaller at all ages studied
+								* 30% of ON stimulations elicited spindle bursts contralaterally but not ipsilaterally
+							* Also looked at P1, P2 for MUA and spindle burst incidence. Spindle bursts started at P2
 					* 'Slow activity transients'
 						* infra-slow LFP wave with nested fast oscillations
 							* field oscillations and bursting multiunit activity in visual cortex [#Colonnese:2010]
@@ -124,11 +140,14 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 											* long duration, beta band frequency (>5 s, 18-30 Hz)
 											* short duration, alpha band frequency (<3 s, 10 Hz)
 										* after P12 SATs less common and no longer dominant pattern-- continuous cortical activity and slow wave sleep (delta)
-
 				* Mouse
 					* retinal waves
 						* Primary source of patterned activity throughout neonatal visual system [#Ackman:2012]
 						* Retinal input modulates synchronous calcium signals in cortical neurons [#Siegel:2012]
+							* FOV calculation from snapshot: 50µm/65px  285x234px ==> 219x180µm
+							* 2P calcium imaging mice P8-10
+							* no anesthesia for figure1 compared with 0.7-1% and 1.5% isoflurane, says no difference in properties (yet frequency and fraction of active cells completely lower in isoflurane). All subsequent recordings and analysis for subsequent figures, assessment of retinal influence, and clustering into two patterns was done under 0.7-1% isoflurane anesthesia.
+							* low synchrony events triggered by retina, high synchrony events independent of retina
 							* they possibly recorded some retinal waves? 
 							* but most activity was independent of retinal input, and more likely 'spindle bursts' 
 								* unknown if recordings were strictly from V1 or V2 (no method for identification)
@@ -479,6 +498,21 @@ Figure: Schematic of visual cortex primary and secondary areas, pathway illustra
 [#Hooks:2006]: Hooks, B. M. and Chen, C. (2006).  Distinct roles for spontaneous and visual activity in remodeling of the retinogeniculate synapse, Neuron, 52(2), 281-91
 
 [#Stellwagen:2002]: Stellwagen, D. and Shatz, C. J. (2002).  An instructive role for retinal waves in the development of retinogeniculate connectivity, Neuron, 33(3), 357-367
+
+[#Sernagor:1995]: Sernagor, E. and Grzywacz, N. M. (1995).  Emergence of complex receptive field properties of ganglion cells in the developing turtle retina, J Neurophysiol, 73(4), 1355-64
+
+[#Sernagor:1999]: Sernagor, E. and Grzywacz, N. M. (1999).  Spontaneous activity in developing turtle retinal ganglion cells: pharmacological studies, J Neurosci, 19(10), 3874-87
+
+[#Wong:1995]: Wong, R. O., Chernjavsky, A., Smith, S. J., and Shatz, C. J. (1995).  Early functional neural networks in the developing retina, Nature, 374(6524), 716-8
+
+[#Syed:2004a]: Syed, M. M., Lee, S., He, S., and Zhou, Z. J. (2004).  Spontaneous waves in the ventricular zone of developing mammalian retina, J Neurophysiol, 91(5), 1999-2009
+
+[#Wong:1998]: Wong, W. T., Sanes, J. R., and Wong, R. O. (1998).  Developmentally regulated spontaneous activity in the embryonic chick retina, J Neurosci, 18(21), 8839-52
+
+[#Catsicas:1998]: Catsicas, M., Bonness, V., Becker, D., and Mobbs, P. (1998).  Spontaneous Ca2+ transients and their transmission in the developing chick retina, Curr Biol, 8(5), 283-6
+
+
+
 
 
 
