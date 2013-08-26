@@ -243,6 +243,17 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* cortico-collicular axon arborizations [#Phillips:2011]. 
 						* Nice DiI reconstructions of cortico-collicular axons in rat
 					* Ruthazer and Olavarria paper
+					* corticogeniculate projections (Seabrook, W. Guido JNS Jun 2013)
+						* Retinal Input Regulates the Timing of Corticogeniculate Innervation
+						* L6 fibers entered lgn at P3-4. 
+						* did not fully innervate until P12
+						* elimination of retinal input accelerated rate of corticogeniculate innervation, with full innervation by P8-10
+						* no cites of Feller, Huberman, shatz, ackman retinal wave papers. No talk of spontaneous activity
+						* golli-T GFP mice
+						* enucleations
+						* histology, confocal microscopy
+						* physiology in LGN
+					* [Primary visual cortex projections to extrastriate cortices in enucleated and anophthalmic mice, Aug 2013 Brain Str Func](http://link.springer.com/article/10.1007/s00429-013-0623-6)
 			* dendrite growth?
 				* cortico-collicular recepient cells in SC, 
 					* Recent constantine-paton paper [#Phillips:2011]. 
