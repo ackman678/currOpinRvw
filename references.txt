@@ -138,8 +138,49 @@
 
 [#Garaschuk:2000]: Garaschuk, O., Linn, J., Eilers, J., and Konnerth, A. (2000).  Large-scale oscillatory calcium waves in the immature cortex, Nat Neurosci, 3(5), 452-9
 
+[#Chandrasekaran:2007]: Chandrasekaran, A. R., Shah, R. D., and Crair, M. C. (2007).  Developmental homeostasis of mouse retinocollicular synapses, J Neurosci, 27(7), 1746-55
 
+[#Nataraj:2011]: Nataraj, K. and Turrigiano, G. (2011).  Regional and temporal specificity of intrinsic plasticity mechanisms in rodent primary visual cortex, J Neurosci, 31(49), 17932-40
 
+[#Crowley:2000]: Crowley, J. C. and Katz, L. C. (2000).  Early development of ocular dominance columns, Science, 290(5495), 1321--1324
+
+[#Holt:1983]: Holt, C. E. and Harris, W. A. (1983).  Order in the initial retinotectal map in Xenopus: a new technique for labelling growing nerve fibres, Nature, 301(5896), 150--152
+
+[#Rakic:1976]: Rakic, P. (1976).  Prenatal genesis of connections subserving ocular dominance in the rhesus monkey, Nature, 261(5560), 467--471
+
+[#Lemke:2005]: Lemke, G. and Reber, M. (2005).  Retinotectal mapping: new insights from molecular genetics, Annu Rev Cell Dev Biol, 21(), 551--580
+
+[#Sun:2008a]: Sun, C., Warland, D. K., Ballesteros, J. M., van der List, D., and Chalupa, L. M. (2008).  Retinal waves in mice lacking the beta2 subunit of the nicotinic acetylcholine receptor, Proc Natl Acad Sci U S A, 105(36), 13638--13643
+
+[#Levelt:2012]: Levelt, C. N. and Hübener, M. (2012).  Critical-period plasticity in the visual cortex, Annu Rev Neurosci, 35(), 309-30
+
+[#Turrigiano:2011]: Turrigiano, G. (2011).  Too many cooks? Intrinsic and synaptic homeostatic mechanisms in cortical circuit refinement, Annu Rev Neurosci, 34(), 89-103
+
+[#Crair:2001]: Crair, M. C., Horton, J. C., Antonini, A., and Stryker, M. P. (2001).  Emergence of ocular dominance columns in cat visual cortex by 2 weeks of age, J Comp Neurol, 430(2), 235-49
+
+[#Furman:2012]: Furman, M. and Crair, M. C. (2012).  Synapse maturation is enhanced in the binocular region of the retinocollicular map prior to eye opening, J Neurophysiol, 107(11), 3200-16
+
+[#Furman:2013]: Furman, M., Xu, H.-P., and Crair, M. C. (2013).  Competition driven by retinal waves promotes the morphological and functional synaptic development of neurons in the superior colliculus, J Neurophysiol, (), 
+
+[#Butts:2007]: Butts, D. A., Kanold, P. O., and Shatz, C. J. (2007).  A burst-based "Hebbian" learning rule at retinogeniculate synapses links retinal waves to activity-dependent refinement, PLoS Biol, 5(3), e61
+
+[#Stryker:1986]: Stryker, M. P. and Harris, W. A. (1986).  Binocular impulse blockade prevents the formation of ocular dominance columns in cat visual cortex, J Neurosci, 6(8), 2117--2133
+
+[#Sretavan:1988]: Sretavan, D. W., Shatz, C. J., and Stryker, M. P. (1988).  Modification of retinal ganglion cell axon morphology by prenatal infusion of tetrodotoxin, Nature, 336(6198), 468-71
+
+[#Shatz:1988]: Shatz, C. J. and Stryker, M. P. (1988).  Prenatal tetrodotoxin infusion blocks segregation of retinogeniculate afferents, Science, 242(4875), 87-9
+
+[#Antonini:1993]: Antonini, A. and Stryker, M. P. (1993).  Development of individual geniculocortical arbors in cat striate cortex and effects of binocular impulse blockade, J Neurosci, 13(8), 3549-73
+
+[#Wang:2009]: Wang, L., Rangarajan, K. V., Lawhn-Heath, C. A., Sarnaik, R., Wang, B.-S., Liu, X., and Cang, J. (2009).  Direction-specific disruption of subcortical visual behavior and receptive fields in mice lacking the beta2 subunit of nicotinic acetylcholine receptor, J Neurosci, 29(41), 12909-18
+
+[#Demas:2006]: Demas, J., Sagdullaev, B. T., Green, E., Jaubert-Miazza, L., McCall, M. A., Gregg, R. G., Wong, R. O. L., and Guido, W. (2006).  Failure to maintain eye-specific segregation in nob, a mutant with abnormally patterned retinal activity, Neuron, 50(2), 247-59
+
+[#Pfeiffenberger:2005]: Pfeiffenberger, C., Cutforth, T., Woods, G., Yamada, J., Rentería, R. C., Copenhagen, D. R., Flanagan, J. G., and Feldheim, D. A. (2005).  Ephrin-As and neural activity are required for eye-specific patterning during retinogeniculate mapping, Nat Neurosci, 8(8), 1022-7
+
+[#Penn:1998]: Penn, A. A., Riquelme, P. A., Feller, M. B., and Shatz, C. J. (1998).  Competition in retinogeniculate patterning driven by spontaneous activity, Science, 279(5359), 2108-2112
+
+[#Chapman:2000]: Chapman, B. (2000).  Necessity for afferent activity to maintain eye-specific segregation in ferret lateral geniculate nucleus, Science, 287(5462), 2479-82
 
 
 
