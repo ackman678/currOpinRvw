@@ -104,6 +104,49 @@
 
 [#Tolonen:2007]: Tolonen, M., Palva, J. M., Andersson, S., and Vanhatalo, S. (2007).  Development of the spontaneous activity transients and ongoing cortical activity in human preterm babies, Neuroscience, 145(3), 997-1006
 
+[#Bansal:2000]: Bansal, A., Singer, J. H., Hwang, B. J., Xu, W., Beaudet, A., and Feller, M. B. (2000).  Mice lacking specific nicotinic acetylcholine receptor subunits exhibit dramatically altered spontaneous activity patterns and reveal a limited role for retinal waves in forming ON and OFF circuits in the inner retina, J Neurosci, 20(20), 7672-81
+
+[#Hubel:1977a]: Hubel, D. H. and Wiesel, T. N. (1977).  Ferrier lecture. Functional architecture of macaque monkey visual cortex, Proc R Soc Lond B Biol Sci, 198(1130), 1-59
+
+[#King:2000]: King, W. M. and Zhou, W. (2000).  New ideas about binocular coordination of eye movements: is there a chameleon in the primate family tree?, Anat Rec, 261(4), 153-61
+
+[#Huberman:2008a]: Huberman, A. D., Feller, M. B., and Chapman, B. (2008).  Mechanisms underlying development of visual maps and receptive fields, Annu Rev Neurosci, 31(), 479--509
+
+[#Cang:2013]: Cang, J. and Feldheim, D. A. (2013).  Developmental Mechanisms of Topographic Map Formation and Alignment, Annu Rev Neurosci, (), 
+
+[#Espinosa:2012]: Espinosa, J. S. and Stryker, M. P. (2012).  Development and plasticity of the primary visual cortex, Neuron, 75(2), 230-49
+
+[#Marder:2005]: Marder, E. and Rehm, K. J. (2005).  Development of central pattern generating circuits, Curr Opin Neurobiol, 15(1), 86-93
+
+[#Mazzoni:2007]: Mazzoni, A., Broccard, F. D., Garcia-Perez, E., Bonifazi, P., Ruaro, M. E., and Torre, V. (2007).  On the dynamics of the spontaneous activity in neuronal networks, PLoS ONE, 2(), e439
+
+[#Maffei:1990]: Maffei, L. and Galli-Resta, L. (1990).  Correlation in the discharges of neighboring rat retinal ganglion cells during prenatal life, Proc Natl Acad Sci U S A, 87(7), 2861-2864
+
+[#Meister:1991]: Meister, M., Wong, R. O., Baylor, D. A., and Shatz, C. J. (1991).  Synchronous bursts of action potentials in ganglion cells of the developing mammalian retina, Science, 252(5008), 939-943
+
+[#Leinekugel:2002]: Leinekugel, X., Khazipov, R., Cannon, R., Hirase, H., Ben-Ari, Y., and Buzsáki, G. (2002).  Correlated bursts of activity in the neonatal hippocampus in vivo, Science, 296(5575), 2049-52
+
+[#Khazipov:2006]: Khazipov, R. and Luhmann, H. J. (2006).  Early patterns of electrical activity in the developing cerebral cortex of humans and rodents, Trends Neurosci, 29(7), 414-8
+
+[#Friauf:1991]: Friauf, E. and Shatz, C. J. (1991).  Changing patterns of synaptic input to subplate and cortical plate during development of visual cortex, J Neurophysiol, 66(6), 2059-71
+
+[#Corlew:2004]: Corlew, R., Bosma, M. M., and Moody, W. J. (2004).  Spontaneous, synchronous electrical activity in neonatal mouse cortical neurones, J Physiol, 560(Pt 2), 377-90
+
+[#Peinado:2000]: Peinado, A. (2000).  Traveling slow waves of neural activity: a novel form of network activity in developing neocortex, J Neurosci, 20(2), RC54
+
+[#Namiki:2013]: Namiki, S., Norimoto, H., Kobayashi, C., Nakatani, K., Matsuki, N., and Ikegaya, Y. (2013).  Layer III Neurons Control Synchronized Waves in the Immature Cerebral Cortex, J Neurosci, 33(3), 987-1001
+
+[#Garaschuk:2000]: Garaschuk, O., Linn, J., Eilers, J., and Konnerth, A. (2000).  Large-scale oscillatory calcium waves in the immature cortex, Nat Neurosci, 3(5), 452-9
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -116,8 +159,6 @@
 [#Leamey:2009]: Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
 
 [#Blankenship:2010]: Blankenship, A. G. and Feller, M. B. (2010).  Mechanisms underlying spontaneous patterned activity in developing neural circuits, Nat Rev Neurosci, 11(1), 18-29
-
-[#Bansal:2000]: Bansal, A., Singer, J. H., Hwang, B. J., Xu, W., Beaudet, A., and Feller, M. B. (2000).  Mice lacking specific nicotinic acetylcholine receptor subunits exhibit dramatically altered spontaneous activity patterns and reveal a limited role for retinal waves in forming ON and OFF circuits in the inner retina, J Neurosci, 20(20), 7672-81
 
 
 <!--- Standing waves, adult waves, pattern replay --->
