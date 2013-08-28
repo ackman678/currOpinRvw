@@ -182,6 +182,23 @@
 
 [#Chapman:2000]: Chapman, B. (2000).  Necessity for afferent activity to maintain eye-specific segregation in ferret lateral geniculate nucleus, Science, 287(5462), 2479-82
 
+[#Kuhl:2010]: Kuhl, P. K. (2010).  Brain mechanisms in early language acquisition, Neuron, 67(5), 713-27
+
+[#Akrouh:2013]: Akrouh, A. and Kerschensteiner, D. (2013).  Intersecting Circuits Generate Precisely Patterned Retinal Waves, Neuron, (), 
+
+[#Kerschensteiner:2008]: Kerschensteiner, D. and Wong, R. O. L. (2008).  A precisely timed asynchronous pattern of ON and OFF retinal ganglion cell activity during propagation of retinal waves, Neuron, 58(6), 851-8
+
+[#Soto:2012]: Soto, F., Ma, X., Cecil, J. L., Vo, B. Q., Culican, S. M., and Kerschensteiner, D. (2012).  Spontaneous activity promotes synapse formation in a cell-type-dependent manner in the developing retina, J Neurosci, 32(16), 5426-39
+
+[#Huberman:2003]: Huberman, A. D., Wang, G.-Y., Liets, L. C., Collins, O. A., Chapman, B., and Chalupa, L. M. (2003).  Eye-specific retinogeniculate segregation independent of normal neuronal activity, Science, 300(5621), 994--998
+
+[#Van-Hooser:2012]: Van Hooser, S. D., Li, Y., Christensson, M., Smith, G. B., White, L. E., and Fitzpatrick, D. (2012).  Initial neighborhood biases and the quality of motion stimulation jointly influence the rapid emergence of direction preference in visual cortex, J Neurosci, 32(21), 7258-66
+
+[#Li:2006]: Li, Y., Fitzpatrick, D., and White, L. E. (2006).  The development of direction selectivity in ferret visual cortex requires early visual experience, Nat Neurosci, 9(5), 676--681
+
+[#Niell:2008]: Niell, C. M. and Stryker, M. P. (2008).  Highly selective receptive fields in mouse visual cortex, J Neurosci, 28(30), 7520--7536
+
+[#Wang:2010b]: Wang, B.-S., Sarnaik, R., and Cang, J. (2010).  Critical period plasticity matches binocular orientation preference in the visual cortex, Neuron, 65(2), 246-56
 
 
 
