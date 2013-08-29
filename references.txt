@@ -200,6 +200,8 @@
 
 [#Wang:2010b]: Wang, B.-S., Sarnaik, R., and Cang, J. (2010).  Critical period plasticity matches binocular orientation preference in the visual cortex, Neuron, 65(2), 246-56
 
+[#Yang:2009]: Yang, J.-W., Hanganu-Opatz, I. L., Sun, J.-J., and Luhmann, H. J. (2009).  Three patterns of oscillatory activity differentially synchronize developing neocortical networks in vivo, J Neurosci, 29(28), 9011-25
+
 
 
 
