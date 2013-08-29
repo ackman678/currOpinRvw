@@ -1,9 +1,20 @@
 Author: James B. Ackman  
-Date: 2013-06-26 16:49:43  
+Date: 2013-08-29 17:02:51  
 
+# Title 
+Role of emergent neural activity in visual map development
 
-# Role of emergent neural activity in visual map development
+# Author names and affiliations
+James B. Ackman1¹ and Michael C. Crair¹
+¹Department of Neurobiology, Yale University School of Medicine, New Haven CT, 06510
 
+# Corresponding author
+michael.crair@yale.edu
++1-203-785-5768
+Department of Neurobiology
+Yale University School of Medicine
+P.O. Box 208001
+New Haven, CT 06520-8001
 
 # Abstract
 
@@ -111,7 +122,9 @@ It seems increasingly apparent that many, if not all developing neural circuits 
 [figure_ms_brain]: figure_ms_brain.png
 [figure_retinalWaves]: figure_retinalWaves.png
 
+# Acknowledgements#  
 
+This work was supported by NIH grants P30 EY000785 and R01 EY015788 to M.C.C.
 
 # References #
 
