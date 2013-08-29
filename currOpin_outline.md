@@ -93,10 +93,16 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* Subplate neurons are likely key to relaying oscillatory activity to developing cortical neurons Kanold and Luhmann review [#Kanold:2010] *Nice Ann Rev Neuosci review with summary table of references for species, cortical area, neurotransmitter, etc)*
 						* SPn removal in visual cortex prevents thalamocortical synapse maturation, maturation of inhibition in L4, develeopment of orientation selectivity, and formation of ODCs [#Kanold:2010]
 						* physiology evidence for activity relay in vitro and in vivo in somatosensory cortex
-						* physiology evidence for activity relay in vitro cat visual cortex (old disynaptic response Friauf&Shatz 1991 paper, possibly Hanganu 2001, 2002, and Hirsch &Luhmann2008)
+						* physiology evidence for activity relay in vitro cat visual cortex (old disynaptic response Friauf&Shatz 1991 paper [#Friauf:1991], possibly Hanganu 2001, 2002, and Hirsch &Luhmann2008)
 					* Ghosh/Kanold/Shatz subplate kainic acid excitotoxicity or immunotoxin work in cats suggests that subplate cells play a key role in ocular dominance column formation, but not known if this role is activity-dependent [#Ghosh:1990][#Ghosh:1992][#Kanold:2003]
 						* <del>P. Kanold</del> *No one knows if subplate cells in occipital cortex exhibit spontaneous activity during development*
-						* Only subplate cells in somatosensory cortex have been checked for spontaneous activity (Luhmann, Hanganu, also Kanold JNS 2012 work) [#Hanganu:2001][#Hanganu:2002][#Dupont:2006][#Kanold:2006][#Tolner:2012]
+						* Only subplate cells in somatosensory cortex have been checked for spontaneous activity in vitro [#Hanganu:2001][#Hanganu:2002]. 
+						* The subplate *layer* has been checked in vivo with multisite LFP/MUA recordings with a CSD sink in subplate during 61% of spindle bursts and where activity precedes the negative peak of each spindle oscillatory cycle by 13.8 ms. In remaining 39% spindle bursts, activity restricted to upper cortical layers [#Yang:2009]
+						* SPN generates gamma oscillations, not just passive relay station in vivo. All carbachol induced oscillations in an 'intact' in vitro preparation (800µm thick slices) [#Dupont:2006]
+						* SPN necessary for maturation of inhibition. whole-cell recordings and calcium imaging in vitro in cats [#Kanold:2006]
+						* three distinct patterns in somatosensory cortex of newborn rats in vivo: spindle bursts (short duration, 1-2s, 10Hz, period of 10s. The 'dominant' neocortical pattern in vivo), gamma oscillations (duration: 150-300ms, 30-40Hz, period of 10-30s), propagating long oscillations (10-20Hz, 600-800um, period of every 20min. Was the largest amplitude and longest duration (>40s, 83s in human)) ('slow activity transients'?) [#Yang:2009].
+							* They have suppl data of LFP and MUA in subplate preceding neocortical patterned activity in somatosensory cortex which they report as first in vivo evidence of SPN generating patterns (but no direct recordings) [#Yang:2009]
+						* subpplate neurons 'promote' but don't generate spindle bursts in S1 limb cortex (EEG/LFP in toxin SPN ablation model in vivo (but no direct recordings); whole cell recordings from SPN in vitro). Severe barrel map disruption with the immunotoxin SPN ablations [#Tolner:2012]
 				* Calcium waves
 					* have been observed in several areas of rodent lateral and medial entorhinal cortex, temporal cortex, and fronto-parietal cortex, but none of the following groups (Konnerth, Peinado, Moody, Yuste/Ikegaya) has checked occiptial cortex before eye opening: 
 						* <del>[#Garaschuk:2000], [#Peinado:2000], [#Corlew:2004], [#Namiki:2013]</del> *None of these groups has done occipital cortex in vitro*
@@ -230,7 +236,7 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 							* TODO: beta2 nAchR ko mouse?
 							* TODO: N. Spitzer reference on activity-dep Ca2+ growth
 				*Cortex
-					* Ruthazer and Olavarria paper
+					* Ruthazer and Olavarria paper [#Ruthazer:2010a]
 			* axon refinement
 				* xenopus, zebrafish literature?
 				* LGN and SC
@@ -240,9 +246,11 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 								* beta2 nAchR ko mice, focal DiI tracer injections into retina
 							* RGC refinement and deficits in beta2 nAchR ko occurs at the level of single RGCs [#Dhande:2011]
 				* cortex
-					* cortico-collicular axon arborizations [#Phillips:2011]. 
+					* <del>cortico-collicular axon arborizations [#Phillips:2011]. </del>
+						* this study shows that *visual experience* at eye opening drives refinement of corticocollicular projections
 						* Nice DiI reconstructions of cortico-collicular axons in rat
-					* Ruthazer and Olavarria paper
+					* Ruthazer and Olavarria paper and other Olavarria work? [#Olavarria:2003][#Olavarria:2006][#Ruthazer:2010a][#Bock:2012][#Laing:2012]
+					* Bock Olavarria retinal input regulates ferret striate corticocortical connectivity during a restricted developmental period (P7 enucleation but not P20 enucleation). Same time as when retinal waves would be predominant [#Bock:2012]
 					* corticogeniculate projections (Seabrook, W. Guido JNS Jun 2013)
 						* Retinal Input Regulates the Timing of Corticogeniculate Innervation
 						* L6 fibers entered lgn at P3-4. 
@@ -256,11 +264,11 @@ Cang and Feldheim Ann Rev Neurosci 2013 review [#Cang:2013]:
 					* [Primary visual cortex projections to extrastriate cortices in enucleated and anophthalmic mice, Aug 2013 Brain Str Func](http://link.springer.com/article/10.1007/s00429-013-0623-6)
 			* dendrite growth?
 				* cortico-collicular recepient cells in SC, 
-					* Recent constantine-paton paper [#Phillips:2011]. 
+					* <del>Recent constantine-paton paper [#Phillips:2011].</del> *Visual experience at eye opening* 
 						* Cortico-collicular axons needed for 'caliber 3' dendritic filopodia density. 
 						* Eye opening regulates spine density in 'caliber 3' dendrites
 				* Golgi or DiI analysis in ferret, cat, monkey, or rodent cortex?
-					* Ruthazer and Olavarria paper
+					* Ruthazer and Olavarria paper [#Ruthazer:2010a]
 				* Golgi or DiI analysis in LGN or SC?
 				* Chronically Elevated cAMP Levels Have No Detectable Effect on Retinal Ganglion Cell Number or Dendritic Morphology [#Stellwagen:2002]
 				* Also old C. Niell paper in retina or someone else from Feller or Wong lab?
