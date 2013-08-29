@@ -202,18 +202,19 @@
 
 [#Yang:2009]: Yang, J.-W., Hanganu-Opatz, I. L., Sun, J.-J., and Luhmann, H. J. (2009).  Three patterns of oscillatory activity differentially synchronize developing neocortical networks in vivo, J Neurosci, 29(28), 9011-25
 
+[#Olavarria:2003]: Olavarria, J. F. and Hiroi, R. (2003).  Retinal influences specify cortico-cortical maps by postnatal day six in rats and mice, J Comp Neurol, 459(2), 156-72
 
-
-
-
-
-
-
-
+[#Olavarria:2006]: Olavarria, J. F. and Safaeian, P. (2006).  Development of callosal topography in visual cortex of normal and enucleated rats, J Comp Neurol, 496(4), 495-512
 
 [#Ruthazer:2010a]: Ruthazer, E. S., Bachleda, A. R., and Olavarria, J. F. (2010).  Role of interstitial branching in the development of visual corticocortical connections: a time-lapse and fixed-tissue analysis, J Comp Neurol, 518(24), 4963-79
 
 [#Bock:2012]: Bock, A. S., Kroenke, C. D., Taber, E. N., and Olavarria, J. F. (2012).  Retinal input influences the size and corticocortical connectivity of visual cortex during postnatal development in the ferret, J Comp Neurol, 520(5), 914-32
+
+[#Laing:2012]: Laing, R. J., Bock, A. S., Lasiene, J., and Olavarria, J. F. (2012).  Role of retinal input on the development of striate-extrastriate patterns of connections in the rat, J Comp Neurol, 520(14), 3256-76
+
+
+
+
 
 
 [#Leamey:2009]: Leamey, C. A., Van Wart, A., and Sur, M. (2009).  Intrinsic patterning and experience-dependent mechanisms that generate eye-specific projections and binocular circuits in the visual pathway, Curr Opin Neurobiol, 19(2), 181-7
