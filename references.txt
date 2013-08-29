@@ -1,4 +1,3 @@
-# References #
 
 [#Siegel:2012]: Siegel, F., Heimel, J. A., Peters, J., and Lohmann, C. (2012).  Peripheral and central inputs shape network dynamics in the developing visual cortex in vivo, Curr Biol, 22(3), 253-8
 

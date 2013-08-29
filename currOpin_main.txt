@@ -109,7 +109,10 @@ It seems increasingly apparent that many, if not all developing neural circuits 
 
 
 [figure_ms_brain]: figure_ms_brain.png
-[figure_retinalWaves]: figure_retinalWaves.png width=300px
+[figure_retinalWaves]: figure_retinalWaves.png
+
+
+
+# References #
 
 <<[references.txt]
-
