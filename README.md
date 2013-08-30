@@ -25,6 +25,10 @@
 ![View the review outline pdf](currOpin_outline.pdf)
 
 
+# Markdown to Word
+
+[Instructions for how to convert multimarkdown manuscript](https://gist.github.com/ackman678/6391902) with cite-keys for bibliography management into a Word document if needed
+
 
 ## Primate fetal development
 
