@@ -22,7 +22,7 @@
 
 [View the review outline](currOpin_outline.md)
 
-![View the review outline pdf](currOpin_outline.pdf)
+[View the review outline pdf](currOpin_outline.pdf)
 
 
 # Markdown to Word
